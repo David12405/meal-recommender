@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.local
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Note: data/*.json giờ là bundled seed data (commit vào git để service auto-load
+# trên startup — xem app/main.py @on_event("startup")). Không gitignore.
+
+# IDE
+.vscode/
+.idea/

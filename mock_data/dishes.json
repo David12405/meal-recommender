@@ -1,0 +1,464 @@
+[
+  {
+    "id": 101,
+    "name": "Cơm thịt heo kho",
+    "type": "MAIN_DISH",
+    "calories": 550
+  },
+  {
+    "id": 102,
+    "name": "Cơm thịt bò xào hành tây",
+    "type": "MAIN_DISH",
+    "calories": 620
+  },
+  {
+    "id": 103,
+    "name": "Cơm gà kho gừng",
+    "type": "MAIN_DISH",
+    "calories": 520
+  },
+  {
+    "id": 104,
+    "name": "Cá basa kho tộ",
+    "type": "MAIN_DISH",
+    "calories": 420
+  },
+  {
+    "id": 105,
+    "name": "Tôm rang muối",
+    "type": "MAIN_DISH",
+    "calories": 380
+  },
+  {
+    "id": 106,
+    "name": "Trứng chiên thịt heo",
+    "type": "MAIN_DISH",
+    "calories": 450
+  },
+  {
+    "id": 107,
+    "name": "Đậu phụ sốt cà chua",
+    "type": "MAIN_DISH",
+    "calories": 350
+  },
+  {
+    "id": 108,
+    "name": "Bún bò xào",
+    "type": "MAIN_DISH",
+    "calories": 540
+  },
+  {
+    "id": 109,
+    "name": "Cơm thịt gà nướng",
+    "type": "MAIN_DISH",
+    "calories": 510
+  },
+  {
+    "id": 110,
+    "name": "Thịt kho trứng",
+    "type": "MAIN_DISH",
+    "calories": 560
+  },
+  {
+    "id": 111,
+    "name": "Cá hồi áp chảo",
+    "type": "MAIN_DISH",
+    "calories": 480
+  },
+  {
+    "id": 112,
+    "name": "Cá thu kho",
+    "type": "MAIN_DISH",
+    "calories": 460
+  },
+  {
+    "id": 113,
+    "name": "Mực xào sa tế",
+    "type": "MAIN_DISH",
+    "calories": 410
+  },
+  {
+    "id": 114,
+    "name": "Sườn xào chua ngọt",
+    "type": "MAIN_DISH",
+    "calories": 590
+  },
+  {
+    "id": 115,
+    "name": "Sườn nướng mật ong",
+    "type": "MAIN_DISH",
+    "calories": 610
+  },
+  {
+    "id": 116,
+    "name": "Vịt kho gừng",
+    "type": "MAIN_DISH",
+    "calories": 580
+  },
+  {
+    "id": 117,
+    "name": "Cơm gà xối mỡ",
+    "type": "MAIN_DISH",
+    "calories": 650
+  },
+  {
+    "id": 118,
+    "name": "Bò kho khoai tây",
+    "type": "MAIN_DISH",
+    "calories": 600
+  },
+  {
+    "id": 119,
+    "name": "Gà nướng sả ớt",
+    "type": "MAIN_DISH",
+    "calories": 530
+  },
+  {
+    "id": 120,
+    "name": "Tôm sốt thái",
+    "type": "MAIN_DISH",
+    "calories": 400
+  },
+  {
+    "id": 121,
+    "name": "Cơm chiên trứng",
+    "type": "MAIN_DISH",
+    "calories": 480
+  },
+  {
+    "id": 122,
+    "name": "Cơm chiên dương châu",
+    "type": "MAIN_DISH",
+    "calories": 580
+  },
+  {
+    "id": 123,
+    "name": "Đậu phụ chiên giòn",
+    "type": "MAIN_DISH",
+    "calories": 320
+  },
+  {
+    "id": 124,
+    "name": "Trứng cuộn rau củ",
+    "type": "MAIN_DISH",
+    "calories": 380
+  },
+  {
+    "id": 125,
+    "name": "Bún thịt nướng",
+    "type": "MAIN_DISH",
+    "calories": 560
+  },
+  {
+    "id": 126,
+    "name": "Bún chả",
+    "type": "MAIN_DISH",
+    "calories": 580
+  },
+  {
+    "id": 127,
+    "name": "Phở bò",
+    "type": "MAIN_DISH",
+    "calories": 520
+  },
+  {
+    "id": 128,
+    "name": "Phở gà",
+    "type": "MAIN_DISH",
+    "calories": 480
+  },
+  {
+    "id": 129,
+    "name": "Mì xào hải sản",
+    "type": "MAIN_DISH",
+    "calories": 540
+  },
+  {
+    "id": 130,
+    "name": "Miến xào thịt bò",
+    "type": "MAIN_DISH",
+    "calories": 500
+  },
+  {
+    "id": 201,
+    "name": "Canh bí đỏ thịt heo",
+    "type": "SOUP",
+    "calories": 130
+  },
+  {
+    "id": 202,
+    "name": "Canh cải thịt bằm",
+    "type": "SOUP",
+    "calories": 110
+  },
+  {
+    "id": 203,
+    "name": "Canh rau muống tôm",
+    "type": "SOUP",
+    "calories": 90
+  },
+  {
+    "id": 204,
+    "name": "Canh chua cá basa",
+    "type": "SOUP",
+    "calories": 150
+  },
+  {
+    "id": 205,
+    "name": "Canh trứng cà chua",
+    "type": "SOUP",
+    "calories": 120
+  },
+  {
+    "id": 206,
+    "name": "Canh mướp nấu tôm",
+    "type": "SOUP",
+    "calories": 100
+  },
+  {
+    "id": 207,
+    "name": "Canh bí xanh sườn",
+    "type": "SOUP",
+    "calories": 140
+  },
+  {
+    "id": 208,
+    "name": "Canh nấm rơm đậu phụ",
+    "type": "SOUP",
+    "calories": 95
+  },
+  {
+    "id": 209,
+    "name": "Canh khoai tây cà rốt",
+    "type": "SOUP",
+    "calories": 160
+  },
+  {
+    "id": 210,
+    "name": "Canh bắp cải thịt bằm",
+    "type": "SOUP",
+    "calories": 105
+  },
+  {
+    "id": 211,
+    "name": "Canh chua tôm",
+    "type": "SOUP",
+    "calories": 130
+  },
+  {
+    "id": 212,
+    "name": "Canh đậu cove thịt heo",
+    "type": "SOUP",
+    "calories": 115
+  },
+  {
+    "id": 213,
+    "name": "Canh nấm hương gà",
+    "type": "SOUP",
+    "calories": 125
+  },
+  {
+    "id": 214,
+    "name": "Canh giá đỗ thịt bằm",
+    "type": "SOUP",
+    "calories": 100
+  },
+  {
+    "id": 215,
+    "name": "Canh khoai lang",
+    "type": "SOUP",
+    "calories": 145
+  },
+  {
+    "id": 301,
+    "name": "Rau muống luộc",
+    "type": "VEGETABLE",
+    "calories": 45
+  },
+  {
+    "id": 302,
+    "name": "Rau cải xào tỏi",
+    "type": "VEGETABLE",
+    "calories": 85
+  },
+  {
+    "id": 303,
+    "name": "Bí đỏ hấp",
+    "type": "VEGETABLE",
+    "calories": 55
+  },
+  {
+    "id": 304,
+    "name": "Salad cà chua dưa leo",
+    "type": "VEGETABLE",
+    "calories": 60
+  },
+  {
+    "id": 305,
+    "name": "Rau muống xào tỏi",
+    "type": "VEGETABLE",
+    "calories": 90
+  },
+  {
+    "id": 306,
+    "name": "Súp lơ xanh luộc",
+    "type": "VEGETABLE",
+    "calories": 50
+  },
+  {
+    "id": 307,
+    "name": "Bắp cải luộc",
+    "type": "VEGETABLE",
+    "calories": 40
+  },
+  {
+    "id": 308,
+    "name": "Cà rốt hấp",
+    "type": "VEGETABLE",
+    "calories": 65
+  },
+  {
+    "id": 309,
+    "name": "Đậu cove xào",
+    "type": "VEGETABLE",
+    "calories": 80
+  },
+  {
+    "id": 310,
+    "name": "Mướp xào tỏi",
+    "type": "VEGETABLE",
+    "calories": 70
+  },
+  {
+    "id": 311,
+    "name": "Bí xanh luộc",
+    "type": "VEGETABLE",
+    "calories": 35
+  },
+  {
+    "id": 312,
+    "name": "Salad rau xà lách",
+    "type": "VEGETABLE",
+    "calories": 55
+  },
+  {
+    "id": 313,
+    "name": "Nấm rơm xào",
+    "type": "VEGETABLE",
+    "calories": 75
+  },
+  {
+    "id": 314,
+    "name": "Khoai lang luộc",
+    "type": "VEGETABLE",
+    "calories": 110
+  },
+  {
+    "id": 315,
+    "name": "Salad bơ cà chua",
+    "type": "VEGETABLE",
+    "calories": 130
+  },
+  {
+    "id": 316,
+    "name": "Rau cải luộc",
+    "type": "VEGETABLE",
+    "calories": 30
+  },
+  {
+    "id": 317,
+    "name": "Súp lơ xào tỏi",
+    "type": "VEGETABLE",
+    "calories": 95
+  },
+  {
+    "id": 318,
+    "name": "Cà chua xào trứng",
+    "type": "VEGETABLE",
+    "calories": 120
+  },
+  {
+    "id": 401,
+    "name": "Bánh mì trứng ốp la",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 380
+  },
+  {
+    "id": 402,
+    "name": "Bánh mì thịt heo",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 450
+  },
+  {
+    "id": 403,
+    "name": "Phở bò sáng",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 480
+  },
+  {
+    "id": 404,
+    "name": "Phở gà sáng",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 440
+  },
+  {
+    "id": 405,
+    "name": "Bún bò sáng",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 500
+  },
+  {
+    "id": 406,
+    "name": "Cháo gà",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 320
+  },
+  {
+    "id": 407,
+    "name": "Cháo thịt bằm",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 340
+  },
+  {
+    "id": 408,
+    "name": "Yến mạch sữa chuối",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 350
+  },
+  {
+    "id": 409,
+    "name": "Sữa chua trái cây",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 220
+  },
+  {
+    "id": 410,
+    "name": "Trứng ốp la bánh mì",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 360
+  },
+  {
+    "id": 411,
+    "name": "Xôi đậu xanh",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 420
+  },
+  {
+    "id": 412,
+    "name": "Bún riêu",
+    "type": "MAIN_DISH",
+    "mealTypes": ["breakfast"],
+    "calories": 460
+  }
+]

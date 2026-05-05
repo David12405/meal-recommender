@@ -1,0 +1,235 @@
+{
+  "userId": "demo_user_001",
+  "tdee": 1850,
+  "weight": 68,
+  "goal": {
+    "targetKg": -0.3
+  },
+  "mealStructure": {
+    "breakfast": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 1
+    },
+    "lunch": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    },
+    "dinner": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    }
+  },
+  "planDays": 7,
+  "startDate": "2026-04-27T00:00:00.000Z",
+  "recentMealLog": [
+    {
+      "dishId": 101,
+      "date": "2026-04-23T12:00:00.000Z"
+    },
+    {
+      "dishId": 203,
+      "date": "2026-04-23T12:00:00.000Z"
+    },
+    {
+      "dishId": 301,
+      "date": "2026-04-23T12:00:00.000Z"
+    },
+    {
+      "dishId": 127,
+      "date": "2026-04-24T07:30:00.000Z"
+    },
+    {
+      "dishId": 109,
+      "date": "2026-04-24T19:00:00.000Z"
+    },
+    {
+      "dishId": 205,
+      "date": "2026-04-24T19:00:00.000Z"
+    },
+    {
+      "dishId": 304,
+      "date": "2026-04-24T19:00:00.000Z"
+    },
+    {
+      "dishId": 401,
+      "date": "2026-04-25T07:30:00.000Z"
+    },
+    {
+      "dishId": 104,
+      "date": "2026-04-25T12:00:00.000Z"
+    },
+    {
+      "dishId": 201,
+      "date": "2026-04-25T12:00:00.000Z"
+    },
+    {
+      "dishId": 305,
+      "date": "2026-04-25T12:00:00.000Z"
+    },
+    {
+      "dishId": 408,
+      "date": "2026-04-26T07:30:00.000Z"
+    },
+    {
+      "dishId": 111,
+      "date": "2026-04-26T12:00:00.000Z"
+    },
+    {
+      "dishId": 207,
+      "date": "2026-04-26T12:00:00.000Z"
+    },
+    {
+      "dishId": 306,
+      "date": "2026-04-26T12:00:00.000Z"
+    }
+  ],
+  "fridge": [
+    {
+      "ingredientId": 6,
+      "quantity": 10,
+      "unit": "NUMBER",
+      "dueDate": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 10,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 13,
+      "quantity": 600,
+      "unit": "GAM",
+      "dueDate": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 1,
+      "quantity": 400,
+      "unit": "GAM",
+      "dueDate": "2026-04-29T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 2,
+      "quantity": 300,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 3,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2026-04-29T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 5,
+      "quantity": 1000,
+      "unit": "GAM",
+      "dueDate": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 7,
+      "quantity": 400,
+      "unit": "GAM",
+      "dueDate": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 8,
+      "quantity": 2000,
+      "unit": "GAM",
+      "dueDate": "2026-08-01T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 11,
+      "quantity": 400,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 12,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2026-05-05T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 14,
+      "quantity": 200,
+      "unit": "GAM",
+      "dueDate": "2026-05-03T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 15,
+      "quantity": 800,
+      "unit": "GAM",
+      "dueDate": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 23,
+      "quantity": 300,
+      "unit": "GAM",
+      "dueDate": "2026-05-04T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 25,
+      "quantity": 250,
+      "unit": "GAM",
+      "dueDate": "2026-04-29T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 31,
+      "quantity": 100,
+      "unit": "GAM",
+      "dueDate": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 32,
+      "quantity": 80,
+      "unit": "GAM",
+      "dueDate": "2026-05-10T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 33,
+      "quantity": 100,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 41,
+      "quantity": 5,
+      "unit": "NUMBER",
+      "dueDate": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 48,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2027-01-01T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 50,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2028-01-01T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 53,
+      "quantity": 4,
+      "unit": "NUMBER",
+      "dueDate": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 54,
+      "quantity": 200,
+      "unit": "GAM",
+      "dueDate": "2026-04-29T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 56,
+      "quantity": 80,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    }
+  ]
+}

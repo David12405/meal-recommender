@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 1,
+    "dishId": 101,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 2,
+    "dishId": 101,
+    "ingredientId": 1,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 3,
+    "dishId": 101,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 4,
+    "dishId": 101,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 5,
+    "dishId": 102,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 6,
+    "dishId": 102,
+    "ingredientId": 2,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 7,
+    "dishId": 102,
+    "ingredientId": 14,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 8,
+    "dishId": 102,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 9,
+    "dishId": 102,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 10,
+    "dishId": 103,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 11,
+    "dishId": 103,
+    "ingredientId": 3,
+    "amount": 140,
+    "gramsEquivalent": 140,
+    "unit": "GAM"
+  },
+  {
+    "id": 12,
+    "dishId": 103,
+    "ingredientId": 15,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 13,
+    "dishId": 103,
+    "ingredientId": 32,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 14,
+    "dishId": 103,
+    "ingredientId": 48,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 15,
+    "dishId": 104,
+    "ingredientId": 8,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 16,
+    "dishId": 104,
+    "ingredientId": 4,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 17,
+    "dishId": 104,
+    "ingredientId": 15,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 18,
+    "dishId": 104,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 19,
+    "dishId": 104,
+    "ingredientId": 49,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 20,
+    "dishId": 105,
+    "ingredientId": 8,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 21,
+    "dishId": 105,
+    "ingredientId": 5,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 22,
+    "dishId": 105,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 23,
+    "dishId": 105,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 24,
+    "dishId": 105,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 25,
+    "dishId": 106,
+    "ingredientId": 8,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 26,
+    "dishId": 106,
+    "ingredientId": 6,
+    "amount": 2,
+    "gramsEquivalent": 110,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 27,
+    "dishId": 106,
+    "ingredientId": 1,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 28,
+    "dishId": 106,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 29,
+    "dishId": 106,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 30,
+    "dishId": 107,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 31,
+    "dishId": 107,
+    "ingredientId": 7,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 32,
+    "dishId": 107,
+    "ingredientId": 13,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 33,
+    "dishId": 107,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 34,
+    "dishId": 107,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 35,
+    "dishId": 108,
+    "ingredientId": 9,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 36,
+    "dishId": 108,
+    "ingredientId": 2,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 37,
+    "dishId": 108,
+    "ingredientId": 10,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 38,
+    "dishId": 108,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 39,
+    "dishId": 108,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 40,
+    "dishId": 109,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 41,
+    "dishId": 109,
+    "ingredientId": 3,
+    "amount": 130,
+    "gramsEquivalent": 130,
+    "unit": "GAM"
+  },
+  {
+    "id": 42,
+    "dishId": 109,
+    "ingredientId": 15,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 43,
+    "dishId": 109,
+    "ingredientId": 48,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 44,
+    "dishId": 109,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 45,
+    "dishId": 110,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 46,
+    "dishId": 110,
+    "ingredientId": 1,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 47,
+    "dishId": 110,
+    "ingredientId": 6,
+    "amount": 1,
+    "gramsEquivalent": 55,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 48,
+    "dishId": 110,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 49,
+    "dishId": 110,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 50,
+    "dishId": 111,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 51,
+    "dishId": 111,
+    "ingredientId": 16,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 52,
+    "dishId": 111,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 53,
+    "dishId": 111,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 54,
+    "dishId": 111,
+    "ingredientId": 53,
+    "amount": 1,
+    "gramsEquivalent": 60,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 55,
+    "dishId": 112,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 56,
+    "dishId": 112,
+    "ingredientId": 17,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 57,
+    "dishId": 112,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 58,
+    "dishId": 112,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 59,
+    "dishId": 112,
+    "ingredientId": 49,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 60,
+    "dishId": 113,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 61,
+    "dishId": 113,
+    "ingredientId": 18,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 62,
+    "dishId": 113,
+    "ingredientId": 14,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 63,
+    "dishId": 113,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 64,
+    "dishId": 113,
+    "ingredientId": 52,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 65,
+    "dishId": 114,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 66,
+    "dishId": 114,
+    "ingredientId": 19,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 67,
+    "dishId": 114,
+    "ingredientId": 13,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 68,
+    "dishId": 114,
+    "ingredientId": 49,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 69,
+    "dishId": 114,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 70,
+    "dishId": 115,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 71,
+    "dishId": 115,
+    "ingredientId": 19,
+    "amount": 160,
+    "gramsEquivalent": 160,
+    "unit": "GAM"
+  },
+  {
+    "id": 72,
+    "dishId": 115,
+    "ingredientId": 49,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 73,
+    "dishId": 115,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 74,
+    "dishId": 115,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 75,
+    "dishId": 116,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 76,
+    "dishId": 116,
+    "ingredientId": 20,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 77,
+    "dishId": 116,
+    "ingredientId": 32,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 78,
+    "dishId": 116,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 79,
+    "dishId": 116,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 80,
+    "dishId": 117,
+    "ingredientId": 8,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 81,
+    "dishId": 117,
+    "ingredientId": 3,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 82,
+    "dishId": 117,
+    "ingredientId": 15,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 83,
+    "dishId": 117,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 84,
+    "dishId": 117,
+    "ingredientId": 48,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 85,
+    "dishId": 118,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 86,
+    "dishId": 118,
+    "ingredientId": 2,
+    "amount": 140,
+    "gramsEquivalent": 140,
+    "unit": "GAM"
+  },
+  {
+    "id": 87,
+    "dishId": 118,
+    "ingredientId": 21,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 88,
+    "dishId": 118,
+    "ingredientId": 23,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 89,
+    "dishId": 118,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 90,
+    "dishId": 119,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 91,
+    "dishId": 119,
+    "ingredientId": 3,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 92,
+    "dishId": 119,
+    "ingredientId": 31,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 93,
+    "dishId": 119,
+    "ingredientId": 52,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 94,
+    "dishId": 119,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 95,
+    "dishId": 120,
+    "ingredientId": 8,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 96,
+    "dishId": 120,
+    "ingredientId": 5,
+    "amount": 140,
+    "gramsEquivalent": 140,
+    "unit": "GAM"
+  },
+  {
+    "id": 97,
+    "dishId": 120,
+    "ingredientId": 13,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 98,
+    "dishId": 120,
+    "ingredientId": 52,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 99,
+    "dishId": 120,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 100,
+    "dishId": 121,
+    "ingredientId": 8,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 101,
+    "dishId": 121,
+    "ingredientId": 6,
+    "amount": 2,
+    "gramsEquivalent": 110,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 102,
+    "dishId": 121,
+    "ingredientId": 15,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 103,
+    "dishId": 121,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 104,
+    "dishId": 121,
+    "ingredientId": 48,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 105,
+    "dishId": 122,
+    "ingredientId": 8,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 106,
+    "dishId": 122,
+    "ingredientId": 6,
+    "amount": 1,
+    "gramsEquivalent": 55,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 107,
+    "dishId": 122,
+    "ingredientId": 5,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 108,
+    "dishId": 122,
+    "ingredientId": 1,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 109,
+    "dishId": 122,
+    "ingredientId": 23,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 110,
+    "dishId": 122,
+    "ingredientId": 15,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 111,
+    "dishId": 123,
+    "ingredientId": 7,
+    "amount": 200,
+    "gramsEquivalent": 200,
+    "unit": "GAM"
+  },
+  {
+    "id": 112,
+    "dishId": 123,
+    "ingredientId": 15,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 113,
+    "dishId": 123,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 114,
+    "dishId": 123,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 115,
+    "dishId": 124,
+    "ingredientId": 6,
+    "amount": 3,
+    "gramsEquivalent": 165,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 116,
+    "dishId": 124,
+    "ingredientId": 23,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 117,
+    "dishId": 124,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 118,
+    "dishId": 124,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 119,
+    "dishId": 124,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 120,
+    "dishId": 125,
+    "ingredientId": 9,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 121,
+    "dishId": 125,
+    "ingredientId": 1,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 122,
+    "dishId": 125,
+    "ingredientId": 54,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 123,
+    "dishId": 125,
+    "ingredientId": 56,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 124,
+    "dishId": 125,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 125,
+    "dishId": 126,
+    "ingredientId": 9,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 126,
+    "dishId": 126,
+    "ingredientId": 1,
+    "amount": 130,
+    "gramsEquivalent": 130,
+    "unit": "GAM"
+  },
+  {
+    "id": 127,
+    "dishId": 126,
+    "ingredientId": 56,
+    "amount": 15,
+    "gramsEquivalent": 15,
+    "unit": "GAM"
+  },
+  {
+    "id": 128,
+    "dishId": 126,
+    "ingredientId": 48,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 129,
+    "dishId": 126,
+    "ingredientId": 53,
+    "amount": 1,
+    "gramsEquivalent": 60,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 130,
+    "dishId": 127,
+    "ingredientId": 37,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 131,
+    "dishId": 127,
+    "ingredientId": 2,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 132,
+    "dishId": 127,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 133,
+    "dishId": 127,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 134,
+    "dishId": 127,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 135,
+    "dishId": 128,
+    "ingredientId": 37,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 136,
+    "dishId": 128,
+    "ingredientId": 3,
+    "amount": 130,
+    "gramsEquivalent": 130,
+    "unit": "GAM"
+  },
+  {
+    "id": 137,
+    "dishId": 128,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 138,
+    "dishId": 128,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 139,
+    "dishId": 128,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 140,
+    "dishId": 129,
+    "ingredientId": 35,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 141,
+    "dishId": 129,
+    "ingredientId": 5,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 142,
+    "dishId": 129,
+    "ingredientId": 18,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 143,
+    "dishId": 129,
+    "ingredientId": 11,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 144,
+    "dishId": 129,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 145,
+    "dishId": 130,
+    "ingredientId": 36,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 146,
+    "dishId": 130,
+    "ingredientId": 2,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 147,
+    "dishId": 130,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 148,
+    "dishId": 130,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 149,
+    "dishId": 130,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 150,
+    "dishId": 201,
+    "ingredientId": 12,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 151,
+    "dishId": 201,
+    "ingredientId": 1,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 152,
+    "dishId": 201,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 153,
+    "dishId": 202,
+    "ingredientId": 11,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 154,
+    "dishId": 202,
+    "ingredientId": 1,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 155,
+    "dishId": 202,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 156,
+    "dishId": 203,
+    "ingredientId": 10,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 157,
+    "dishId": 203,
+    "ingredientId": 5,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 158,
+    "dishId": 203,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 159,
+    "dishId": 204,
+    "ingredientId": 4,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 160,
+    "dishId": 204,
+    "ingredientId": 13,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 161,
+    "dishId": 204,
+    "ingredientId": 10,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 162,
+    "dishId": 204,
+    "ingredientId": 53,
+    "amount": 1,
+    "gramsEquivalent": 60,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 163,
+    "dishId": 204,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 164,
+    "dishId": 205,
+    "ingredientId": 6,
+    "amount": 1,
+    "gramsEquivalent": 55,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 165,
+    "dishId": 205,
+    "ingredientId": 13,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 166,
+    "dishId": 205,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 167,
+    "dishId": 205,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 168,
+    "dishId": 206,
+    "ingredientId": 27,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 169,
+    "dishId": 206,
+    "ingredientId": 5,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 170,
+    "dishId": 206,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 171,
+    "dishId": 206,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 172,
+    "dishId": 207,
+    "ingredientId": 28,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 173,
+    "dishId": 207,
+    "ingredientId": 19,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 174,
+    "dishId": 207,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 175,
+    "dishId": 207,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 176,
+    "dishId": 208,
+    "ingredientId": 29,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 177,
+    "dishId": 208,
+    "ingredientId": 7,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 178,
+    "dishId": 208,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 179,
+    "dishId": 208,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 180,
+    "dishId": 209,
+    "ingredientId": 21,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 181,
+    "dishId": 209,
+    "ingredientId": 23,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 182,
+    "dishId": 209,
+    "ingredientId": 1,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 183,
+    "dishId": 209,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 184,
+    "dishId": 210,
+    "ingredientId": 24,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 185,
+    "dishId": 210,
+    "ingredientId": 1,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 186,
+    "dishId": 210,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 187,
+    "dishId": 210,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 188,
+    "dishId": 211,
+    "ingredientId": 5,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 189,
+    "dishId": 211,
+    "ingredientId": 13,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 190,
+    "dishId": 211,
+    "ingredientId": 53,
+    "amount": 1,
+    "gramsEquivalent": 60,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 191,
+    "dishId": 211,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 192,
+    "dishId": 212,
+    "ingredientId": 26,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 193,
+    "dishId": 212,
+    "ingredientId": 1,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 194,
+    "dishId": 212,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 195,
+    "dishId": 212,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 196,
+    "dishId": 213,
+    "ingredientId": 30,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 197,
+    "dishId": 213,
+    "ingredientId": 3,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 198,
+    "dishId": 213,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 199,
+    "dishId": 213,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 200,
+    "dishId": 214,
+    "ingredientId": 55,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 201,
+    "dishId": 214,
+    "ingredientId": 1,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 202,
+    "dishId": 214,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 203,
+    "dishId": 214,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 204,
+    "dishId": 215,
+    "ingredientId": 22,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 205,
+    "dishId": 215,
+    "ingredientId": 1,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 206,
+    "dishId": 215,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 207,
+    "dishId": 301,
+    "ingredientId": 10,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 208,
+    "dishId": 301,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 209,
+    "dishId": 302,
+    "ingredientId": 11,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 210,
+    "dishId": 302,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 211,
+    "dishId": 302,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 212,
+    "dishId": 303,
+    "ingredientId": 12,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 213,
+    "dishId": 303,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 214,
+    "dishId": 304,
+    "ingredientId": 13,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 215,
+    "dishId": 304,
+    "ingredientId": 54,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 216,
+    "dishId": 304,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 217,
+    "dishId": 304,
+    "ingredientId": 15,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 218,
+    "dishId": 305,
+    "ingredientId": 10,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 219,
+    "dishId": 305,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 220,
+    "dishId": 305,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 221,
+    "dishId": 306,
+    "ingredientId": 25,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 222,
+    "dishId": 306,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 223,
+    "dishId": 307,
+    "ingredientId": 24,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 224,
+    "dishId": 307,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 225,
+    "dishId": 308,
+    "ingredientId": 23,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 226,
+    "dishId": 308,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 227,
+    "dishId": 309,
+    "ingredientId": 26,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 228,
+    "dishId": 309,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 229,
+    "dishId": 309,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 230,
+    "dishId": 310,
+    "ingredientId": 27,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 231,
+    "dishId": 310,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 232,
+    "dishId": 310,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 233,
+    "dishId": 311,
+    "ingredientId": 28,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 234,
+    "dishId": 311,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 235,
+    "dishId": 312,
+    "ingredientId": 57,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 236,
+    "dishId": 312,
+    "ingredientId": 13,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 237,
+    "dishId": 312,
+    "ingredientId": 54,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 238,
+    "dishId": 312,
+    "ingredientId": 15,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 239,
+    "dishId": 313,
+    "ingredientId": 29,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 240,
+    "dishId": 313,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 241,
+    "dishId": 313,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 242,
+    "dishId": 313,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 243,
+    "dishId": 314,
+    "ingredientId": 22,
+    "amount": 200,
+    "gramsEquivalent": 200,
+    "unit": "GAM"
+  },
+  {
+    "id": 244,
+    "dishId": 314,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 245,
+    "dishId": 315,
+    "ingredientId": 58,
+    "amount": 1,
+    "gramsEquivalent": 200,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 246,
+    "dishId": 315,
+    "ingredientId": 13,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 247,
+    "dishId": 315,
+    "ingredientId": 57,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 248,
+    "dishId": 315,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 249,
+    "dishId": 316,
+    "ingredientId": 11,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 250,
+    "dishId": 316,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 251,
+    "dishId": 317,
+    "ingredientId": 25,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 252,
+    "dishId": 317,
+    "ingredientId": 15,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 253,
+    "dishId": 317,
+    "ingredientId": 31,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 254,
+    "dishId": 318,
+    "ingredientId": 13,
+    "amount": 120,
+    "gramsEquivalent": 120,
+    "unit": "GAM"
+  },
+  {
+    "id": 255,
+    "dishId": 318,
+    "ingredientId": 6,
+    "amount": 2,
+    "gramsEquivalent": 110,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 256,
+    "dishId": 318,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 257,
+    "dishId": 318,
+    "ingredientId": 33,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 258,
+    "dishId": 401,
+    "ingredientId": 38,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 259,
+    "dishId": 401,
+    "ingredientId": 6,
+    "amount": 2,
+    "gramsEquivalent": 110,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 260,
+    "dishId": 401,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 261,
+    "dishId": 401,
+    "ingredientId": 54,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 262,
+    "dishId": 401,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 263,
+    "dishId": 402,
+    "ingredientId": 38,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 264,
+    "dishId": 402,
+    "ingredientId": 1,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 265,
+    "dishId": 402,
+    "ingredientId": 54,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 266,
+    "dishId": 402,
+    "ingredientId": 13,
+    "amount": 30,
+    "gramsEquivalent": 30,
+    "unit": "GAM"
+  },
+  {
+    "id": 267,
+    "dishId": 402,
+    "ingredientId": 56,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 268,
+    "dishId": 403,
+    "ingredientId": 37,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 269,
+    "dishId": 403,
+    "ingredientId": 2,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 270,
+    "dishId": 403,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 271,
+    "dishId": 403,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 272,
+    "dishId": 403,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 273,
+    "dishId": 404,
+    "ingredientId": 37,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 274,
+    "dishId": 404,
+    "ingredientId": 3,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 275,
+    "dishId": 404,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 276,
+    "dishId": 404,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 277,
+    "dishId": 404,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 278,
+    "dishId": 405,
+    "ingredientId": 9,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 279,
+    "dishId": 405,
+    "ingredientId": 2,
+    "amount": 100,
+    "gramsEquivalent": 100,
+    "unit": "GAM"
+  },
+  {
+    "id": 280,
+    "dishId": 405,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 281,
+    "dishId": 405,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 282,
+    "dishId": 405,
+    "ingredientId": 50,
+    "amount": 3,
+    "gramsEquivalent": 3,
+    "unit": "GAM"
+  },
+  {
+    "id": 283,
+    "dishId": 406,
+    "ingredientId": 8,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 284,
+    "dishId": 406,
+    "ingredientId": 3,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 285,
+    "dishId": 406,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 286,
+    "dishId": 406,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 287,
+    "dishId": 406,
+    "ingredientId": 32,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 288,
+    "dishId": 407,
+    "ingredientId": 8,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 289,
+    "dishId": 407,
+    "ingredientId": 1,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 290,
+    "dishId": 407,
+    "ingredientId": 33,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  },
+  {
+    "id": 291,
+    "dishId": 407,
+    "ingredientId": 50,
+    "amount": 2,
+    "gramsEquivalent": 2,
+    "unit": "GAM"
+  },
+  {
+    "id": 292,
+    "dishId": 408,
+    "ingredientId": 59,
+    "amount": 60,
+    "gramsEquivalent": 60,
+    "unit": "GAM"
+  },
+  {
+    "id": 293,
+    "dishId": 408,
+    "ingredientId": 39,
+    "amount": 200,
+    "gramsEquivalent": 200,
+    "unit": "GAM"
+  },
+  {
+    "id": 294,
+    "dishId": 408,
+    "ingredientId": 41,
+    "amount": 1,
+    "gramsEquivalent": 120,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 295,
+    "dishId": 409,
+    "ingredientId": 40,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 296,
+    "dishId": 409,
+    "ingredientId": 41,
+    "amount": 1,
+    "gramsEquivalent": 120,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 297,
+    "dishId": 409,
+    "ingredientId": 42,
+    "amount": 1,
+    "gramsEquivalent": 180,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 298,
+    "dishId": 410,
+    "ingredientId": 38,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 299,
+    "dishId": 410,
+    "ingredientId": 6,
+    "amount": 2,
+    "gramsEquivalent": 110,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 300,
+    "dishId": 410,
+    "ingredientId": 15,
+    "amount": 8,
+    "gramsEquivalent": 8,
+    "unit": "GAM"
+  },
+  {
+    "id": 301,
+    "dishId": 410,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 302,
+    "dishId": 411,
+    "ingredientId": 8,
+    "amount": 150,
+    "gramsEquivalent": 150,
+    "unit": "GAM"
+  },
+  {
+    "id": 303,
+    "dishId": 411,
+    "ingredientId": 44,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 304,
+    "dishId": 411,
+    "ingredientId": 47,
+    "amount": 5,
+    "gramsEquivalent": 5,
+    "unit": "GAM"
+  },
+  {
+    "id": 305,
+    "dishId": 411,
+    "ingredientId": 50,
+    "amount": 1,
+    "gramsEquivalent": 1,
+    "unit": "GAM"
+  },
+  {
+    "id": 306,
+    "dishId": 412,
+    "ingredientId": 9,
+    "amount": 180,
+    "gramsEquivalent": 180,
+    "unit": "GAM"
+  },
+  {
+    "id": 307,
+    "dishId": 412,
+    "ingredientId": 13,
+    "amount": 80,
+    "gramsEquivalent": 80,
+    "unit": "GAM"
+  },
+  {
+    "id": 308,
+    "dishId": 412,
+    "ingredientId": 5,
+    "amount": 40,
+    "gramsEquivalent": 40,
+    "unit": "GAM"
+  },
+  {
+    "id": 309,
+    "dishId": 412,
+    "ingredientId": 7,
+    "amount": 50,
+    "gramsEquivalent": 50,
+    "unit": "GAM"
+  },
+  {
+    "id": 310,
+    "dishId": 412,
+    "ingredientId": 56,
+    "amount": 10,
+    "gramsEquivalent": 10,
+    "unit": "GAM"
+  }
+]

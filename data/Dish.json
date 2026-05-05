@@ -1,0 +1,2950 @@
+[
+  {
+    "id": 1,
+    "name": "Thịt Ba Chỉ Hầm",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "19:50.8",
+    "updatedAt": "19:50.8",
+    "difficulty": "EASY",
+    "description": "Thịt ba chỉ hầm tảo biển kiểu Hàn Quốc với thịt mềm nhừ thấm vị, kết hợp cùng mộc nhĩ giòn sần sật. Món ăn đậm đà, ăn kèm kim chi và cơm nóng cực kỳ đưa miệng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thịt ba chỉ rửa sạch, lau khô, áp chảo cho vàng đều 2 mặt."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho tỏi, hành tây, ớt, tiêu  vào đảo cùng thịt cho thơm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thêm nước lọc cho ngập thịt, cho hết hỗn hợp gia vị như phần nguyên liệu ghi trên vào đun sôi, hớt bọt, hạ nhỏ lửa hầm 1 tiếng.m(tuỳ độ mềm muốn ăn, mình thích ăn mềm như thịt ninh nhừ nên ninh khoảng 1 tiếng10p). Lúc này chưa bỏ mục nhĩ nha"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Khoảng 30p lật miếng thịt lại cho chín đều, đậy vung cho nhanh nhừ. Giữa chừng nếu cạn nước thịt cho thêm nước vào. Mình để ảnh gia vị bên dưới. Khoảng 5p trước khi tắt bếp cho mục nhĩ đã ngâm vào đun cùng"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Đun đến khi nước sệt lại còn 1 chút, Thịt chín mềm, vớt ra thái lát, xếp ra đĩa cùng tảo biển, mộc nhĩ cắt miếng vừa ăn. Dưới chút nước sốt hầm thịt lên trên và thưởng thức. Ăn cùng kim chi cũng rất ngon."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/041d89587d17407e/300x426f0.500854_0.5_1.0q80/th%E1%BB%8Bt-ba-ch%E1%BB%89-h%E1%BA%A7m-t%E1%BA%A3o-bi%E1%BB%83n-han-qu%E1%BB%91c-recipe-main-photo.jpg"
+    ],
+    "calories": 428,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 2,
+    "name": "Thịt ba chỉ/sườn ba chỉ kho trứng nước",
+    "prepTimeMin": 10,
+    "cookTimeMin": 45,
+    "createdAt": "19:50.9",
+    "updatedAt": "19:50.9",
+    "difficulty": "HARD",
+    "description": "Thịt ba chỉ kho trứng nước truyền thống với hương vị mặn ngọt hài hòa, thịt mềm thấm gia vị quyện cùng trứng luộc beo béo. Món kho đơn giản nhưng đậm đà, là lựa chọn hoàn hảo cho bữa cơm gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế nguyên liệu: Thịt sơ chế rửa muối cắt lát để khô ráo. Trứng luộc lọt vỏ để sẵn. Hành tím lọt vỏ thái mỏng"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nấu: bắt chảo thêm ít dầu và thịt đảo cho chín khoảng 5 phút, sau đó cho hành tím vào đảo đều tiếp khoảng 2 phút. Tiếp tục cho gia vị nước mắm, đường, tiêu và 1 chén nước sôi để nguội + Trứng + hạ nhỏ lửa mức trung bình 6-7 để kho thịt tiếp khoảng 37 phút. Tổng thời gian nấu 45 phút."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/211a29745ee7c73d/300x426f0.5_0.43125_1.0q80/th%E1%BB%8Bt-ba-ch%E1%BB%89s%C6%B0%E1%BB%9Dn-ba-ch%E1%BB%89-kho-tr%E1%BB%A9ng-n%C6%B0%E1%BB%9Bc-recipe-main-photo.jpg"
+    ],
+    "calories": 275,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 3,
+    "name": "Ba Rọi Kho Tôm",
+    "prepTimeMin": 15,
+    "cookTimeMin": 25,
+    "createdAt": "19:51.0",
+    "updatedAt": "19:51.0",
+    "difficulty": "MEDIUM",
+    "description": "Ba rọi kho tôm với thịt heo béo ngậy hòa quyện cùng tôm tươi ngọt, lên màu đẹp mắt nhờ dầu điều. Vị mặn ngọt đậm đà cùng mùi tiêu thơm nồng, ăn cùng cơm nóng thì còn gì bằng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Tôm rửa sạch, để ráo, ướp với hành tỏi băm nhỏ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Thịt ba rọi xắt miếng vừa ăn, ướp với hành tỏi băm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Làm nóng chảo, cho thịt vào xào cho săn lại. Tươm mỡ bớt thì múc bớt mỡ ra."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Thêm tôm vào xào chung đến khi tôm chuyển màu."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Thêm dầu điều, đảo đều cho lên màu đẹp."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Rưới nước mắm, kho nhỏ lửa cho thấm vị."
+      },
+      {
+        "title": "Bước 7",
+        "content": "Rắc tiêu xay lên trên trước khi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/c673e67f86edf074/300x426f0.48913_0.5_1.0q80/ba-r%E1%BB%8Di-kho-tep-d%E1%BA%A5t-recipe-main-photo.jpg"
+    ],
+    "calories": 448,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 4,
+    "name": "Trứng Vịt Chiên",
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "createdAt": "20:08.1",
+    "updatedAt": "20:08.1",
+    "difficulty": "EASY",
+    "description": "Trứng vịt chiên vàng giòn thơm phức mùi hành lá và tỏi phi. Món ăn đơn giản, nhanh gọn nhưng luôn là lựa chọn quen thuộc cho bữa cơm hàng ngày, đặc biệt hợp với cơm trắng nóng hổi.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đập trứng vịt, thêm hạt nêmvà hành lá, đánh đều."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Phi thơm tỏi với dầu vào xào thơm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đổ trứng vào chảo, chiên lửa vừa đến khi vàng đều."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Lật mặt chiên tiếp cho vàng đều rồi dọn ra dĩa dùng nóng với cơm."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/752ade245418a824/300x426cq80/tr%E1%BB%A9ng-v%E1%BB%8Bt-chien-c%E1%BB%A7-c%E1%BA%A3i-mu%E1%BB%91i-xa-b%E1%BA%A5u-recipe-main-photo.jpg"
+    ],
+    "calories": 248,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 5,
+    "name": "Cải Rổ Xào Trứng Vịt",
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "createdAt": "20:08.2",
+    "updatedAt": "20:08.2",
+    "difficulty": "EASY",
+    "description": "Cải rổ xào trứng vịt với vị ngọt tự nhiên của rau quyện cùng trứng béo và dầu hào đậm đà. Món xào nhanh gọn, dinh dưỡng cân bằng, rất hợp cho bữa cơm gia đình ngày bận rộn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Trứng vịt đập ra, đánh tan nhẹ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng dầu, phi thơm tỏi, cho trứng vào đảo sơ."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Nêm dầu hào, đảo đều rồi tắt bếp. Rắc tiêu lên trên trước khi dùng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/276289ab877af233/300x426cq80/c%E1%BA%A3i-r%E1%BB%95-xao-tr%E1%BB%A9ng-v%E1%BB%8Bt-recipe-main-photo.jpg"
+    ],
+    "calories": 247,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 6,
+    "name": "Thịt Kho Tàu (Thịt Kho Hột Vịt) Miền Nam",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "createdAt": "20:08.2",
+    "updatedAt": "20:08.2",
+    "difficulty": "MEDIUM",
+    "description": "Thịt kho tàu (kho hột vịt) miền Nam với thịt ba chỉ mềm rục, trứng vịt thấm vị nâu cánh gián đẹp mắt. Hương vị mặn ngọt đặc trưng, là món ăn truyền thống không thể thiếu trong mâm cơm Tết của người miền Nam.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thịt rửa sạch với chanh và muối, cắt miếng vừa ăn."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Luộc trứng với 1 xíu dấm, muối sẽ không nứt vỏ. Sau nước sôi 8 phút."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Ướp thịt với nước hành tỏi ớt xay, đường, muối. Để ngăn mát tủ lạnh 1 buổi cho thấm vị."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho thịt vào nồi, thêm nửa lít nước, kho lửa nhỏ 60 phút, vớt bọt thường xuyên."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Thêm nửa lít nước và 10 trứng vịt đã luộc, kho tiếp 30 phút."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Nêm nước mắm cho vị mặn ngọt vừa ăn, tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a2fae8e1fc1ddf11/300x426f0.5_0.566096_1.0q80/th%E1%BB%8Bt-kho-tau-th%E1%BB%8Bt-kho-h%E1%BB%99t-v%E1%BB%8Bt-mi%E1%BB%81n-nam-recipe-main-photo.jpg"
+    ],
+    "calories": 713,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 7,
+    "name": "Cơm Rang Dưa Bò",
+    "prepTimeMin": 10,
+    "cookTimeMin": 10,
+    "createdAt": "20:25.3",
+    "updatedAt": "20:25.3",
+    "difficulty": "EASY",
+    "description": "Cơm rang dưa bò kết hợp giữa thịt bò mềm ngọt, dưa cải chua giòn và cơm tơi vàng ươm. Hương vị chua mặn hài hòa, thơm phức mùi tỏi phi, là món ăn lý tưởng cho bữa sáng hoặc bữa trưa nhanh gọn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thịt bò thái mỏng, ướp với chút nước mắm và tiêu trong 10 phút."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Dưa cải muối vắt bớt nước, thái nhỏ. Hành lá rửa sạch, cắt khúc."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đun nóng dầu ăn, phi thơm tỏi, cho thịt bò vào xào nhanh trên lửa lớn."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Thêm dưa cải vào xào cùng thịt bò khoảng 2 phút."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cho cơm nguội vào đảo đều, thêm trứng gà, đảo nhanh tay cho trứng bám đều cơm."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Nêm nước mắm, tiêu, đảo đều, cuối cùng cho hành lá vào, đảo thêm 1 phút rồi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/95af12aa617fb178/300x426cq80/c%C6%A1m-rang-d%C6%B0a-bo-recipe-main-photo.jpg"
+    ],
+    "calories": 640,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 8,
+    "name": "Soup Khoai Tây",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "20:43.0",
+    "updatedAt": "20:43.0",
+    "difficulty": "MEDIUM",
+    "description": "Soup khoai tây kem mịn màng với vị béo ngậy của kem tươi và ngọt thanh tự nhiên từ khoai tây, hành tây. Món soup ấm áp, dễ ăn, phù hợp cho cả người lớn và trẻ nhỏ.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thêm khoai tây và hành tây đã gọt vỏ, cắt nhỏ vào nồi, hầm đến khi mềm."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho tất cả vào máy xay sinh tố, xay nhuyễn mịn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đổ hỗn hợp đã xay lại vào nồi, nấu nhỏ lửa, nêm muối và hạt nêm chay vừa ăn."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Thêm kem tươi, đun sôi nhẹ rồi tắt bếp"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a594406cb3fd7628/300x426f0.383131_0.5_1.0q80/soup-khoai-tay-h%E1%BA%A1t-m%E1%BA%AFc-ca-recipe-main-photo.jpg"
+    ],
+    "calories": 377,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 9,
+    "name": "Khoai tây chiên",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "20:43.1",
+    "updatedAt": "20:43.1",
+    "difficulty": "MEDIUM",
+    "description": "Khoai tây chiên giòn rụm bên ngoài, mềm xốp bên trong nhờ kỹ thuật chiên hai lần với nồi chiên không dầu. Món ăn vặt khoái khẩu của mọi lứa tuổi, ít dầu mỡ nên ăn không lo ngán.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Giữ nguyên vỏ, cắt khoai tây mini thành 6 miếng bổ cau."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Luộc khoai với 1/2 thìa canh muối trong 5 phút, vớt ra để ráo."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Trộn khoai với bột năng, 1/2 thìa canh muối và 1 thìa cà phê dầu."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho khoai vào nồi chiên không dầu, chiên ở 190°C trong 10 phút."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Lấy khoai ra, trộn thêm 2 thìa cà phê dầu, sóc đều."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Chiên tiếp ở 200°C trong 8 phút cho khoai vàng giòn."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/cc05a1a6f7324105/300x426f0.501162_0.5_1.0q80/khoai-tay-chien-b%E1%BA%B1ng-n%E1%BB%93i-chien-khong-d%E1%BA%A7u-recipe-main-photo.jpg"
+    ],
+    "calories": 769,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 10,
+    "name": "Suờn Heo Nấu Khoai Tây",
+    "prepTimeMin": 10,
+    "cookTimeMin": 120,
+    "createdAt": "20:43.1",
+    "updatedAt": "20:43.1",
+    "difficulty": "HARD",
+    "description": "Sườn heo nấu khoai tây hầm chậm trong 2 tiếng cho thịt mềm rục, khoai bở thấm đẫm nước dùng ngọt thanh. Món canh bổ dưỡng có thể ăn kèm cơm, bún hay bánh mì đều rất ngon.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cho nguyên liệu đã sẵn sàng sạch sẽ vào nồi nấu chậm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Sau hai tiếng tất cả đã chín mềm thì  nêm nếm lại cho vừa khẩu vị"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Múc ra tô thêm hành ngò ít tiêu xay là có thể thưởng thức được rồi, có thể ăn cùng : cơm, bún, bánh mì đều ngon "
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/ef267105b7d3348f/300x426f0.5_0.5_1.0q80/su%E1%BB%9Dn-heo-n%E1%BA%A5u-khoai-tay-d%E1%BA%ADu-recipe-main-photo.jpg"
+    ],
+    "calories": 582,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 11,
+    "name": "Gà Tỏi Sốt Cay",
+    "prepTimeMin": 20,
+    "cookTimeMin": 15,
+    "createdAt": "21:33.7",
+    "updatedAt": "21:33.7",
+    "difficulty": "MEDIUM",
+    "description": "Gà tỏi sốt cay với cánh gà chiên giòn vàng ruộm, áo lớp sốt chua cay mặn ngọt thấm đậm từng miếng. Món ăn hấp dẫn này chắc chắn sẽ làm hài lòng những ai yêu thích vị cay nồng và gà chiên giòn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ướp cánh tỏi gà với bột tỏi, hạt nêm, tiêu trong 20 phút."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Lăn cánh gà qua bột mì cho đều."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đun nóng dầu, chiên cánh gà vàng giòn rồi vớt ra để ráo dầu."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Trộn đều tương ớt, dầu hào, tương cà, đường làm sốt. Đổ dầu chiên gà ra gần hết, đập dập 3 múi tỏi cho vô chảo phi thơm, cho chén sốt vô nấu sôi, nêm nếm cho vừa ăn."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cho cánh gà vào chảo sốt đảo đều cho thấm rồi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/64d39018dd805dde/300x426f0.5_0.5_1.0q80/canh-t%E1%BB%8Fi-ga-s%E1%BB%91t-cay-recipe-main-photo.jpg"
+    ],
+    "calories": 414,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 12,
+    "name": "Tôm sốt bơ tỏi",
+    "prepTimeMin": 30,
+    "cookTimeMin": 10,
+    "createdAt": "21:59.1",
+    "updatedAt": "21:59.1",
+    "difficulty": "MEDIUM",
+    "description": "Tôm sốt bơ tỏi với tôm tươi ngọt, áo lớp bơ tỏi thơm phức cùng hương xạ hương tinh tế. Món ăn sang trọng nhưng dễ làm, nấu ở nhiệt độ vừa phải để giữ trọn vị ngọt tự nhiên của tôm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Phần lâu nhất của món này là lột vỏ tôm tươi, rút dây ruột, và dùng dao nhỏ khứa đôi theo chiều dọc của tôm. Mất chừng 30-45 phút."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Tỏi bóc vỏ, băm nhỏ. Cho bơ vào chảo cùng tỏi và xạ hương. Để chảo ở 140C. Khi bơ tan thì cho tôm vào đảo nhanh tay, cho nhiệt độ tăng lên 160C. Mình thường không chế biến món ăn cao trên 160C vì ở nhiệt độ này, thực phẩm sẽ sinh ra chất làm tăng nguy cơ gây ung thư."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đảo nhanh khoảng 2 phút cho tới khi tôm hơi tái tái thì cho nước mắm vào đảo đều, rồi đảo tiếp thêm chừng 2 phút hoặc tới khi tôm chuyển màu cam đỏ hoàn toàn là chín. Tắt bếp và cho tôm ra đĩa, lên mâm thôi :D"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a82ce0ee7fa4479e/300x426f0.5_0.43125_1.0q80/tom-s%E1%BB%91t-b%C6%A1-t%E1%BB%8Fi-x%E1%BA%A1-h%C6%B0%C6%A1ng-b%E1%BA%A5t-b%E1%BA%A1i-recipe-main-photo.jpg"
+    ],
+    "calories": 170,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 13,
+    "name": "Cơm Nắm Cá Hồi",
+    "prepTimeMin": 30,
+    "cookTimeMin": 10,
+    "createdAt": "22:14.8",
+    "updatedAt": "22:14.8",
+    "difficulty": "MEDIUM",
+    "description": "Cơm nắm cá hồi với cá hồi nướng béo ngậy trộn cùng cơm sushi dẻo thơm, rau xanh, mè rang và rong biển. Món ăn vừa ngon miệng vừa giàu dinh dưỡng, lý tưởng cho bữa trưa văn phòng hay dã ngoại.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nấu cơm sushi theo hướng dẫn, để cơm chín và nguội bớt."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nướng cá hồi bằng nồi chiên không dầu ở 400°F (khoảng 200°C) trong 20-30 phút. Mình bọc giấy nến bên trong giấy bạc nên không sợ cá khét mà cá còn mềm không bị khô nha."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cá hồi nướng xong, gỡ bỏ da."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Múc 3 chén cơm sushi đã nấu chín vào tô. Sau đó cho nước tương ớt, cá hồi vào"
+      },
+      {
+        "title": "Bước 6",
+        "content": "Thêm rau đã cắt nhỏ, mè rang, rong biển bóp vụn vào tô và trộn đều."
+      },
+      {
+        "title": "Bước 7",
+        "content": "Nắm cơm thành từng viên vừa ăn, tạo hình tùy ý."
+      },
+      {
+        "title": "Bước 8",
+        "content": "Dùng ngay sau khi trộn là ngon nhất nha"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/514a2fbe5d492a1f/300x426f0.5_0.497782_1.0q80/c%C6%A1m-n%E1%BA%AFm-ca-h%E1%BB%93i-rau-t%E1%BA%A7n-o-recipe-main-photo.jpg"
+    ],
+    "calories": 507,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 14,
+    "name": "Cơm cuộn cá hồi",
+    "prepTimeMin": 30,
+    "cookTimeMin": 10,
+    "createdAt": "22:14.8",
+    "updatedAt": "22:14.8",
+    "difficulty": "MEDIUM",
+    "description": "Cơm cuộn cá hồi tươi ngon với rau củ giòn ngọt, gói trọn trong lớp cơm sushi dẻo thơm. Khi chấm cùng mayo và ketchup tạo nên hương vị béo ngậy khó cưỡng, đẹp mắt và hấp dẫn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá hồi rửa sạch, để ráo."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Su su và cà rốt thái sợi, chần với nước sôi cho vừa chín."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Pha gia vị ướp cơm giống như công thức ở trên, hoặc mọi người có thể dùng chao gia vị ướp sushi sẵn."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Bày các nguyên liệu ra đĩa rồi cuốn cơm."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cắt cuốn cơm thành từng khúc vừa ăn. Ngon nhất khi chấm với mayo và ketchup."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/86d5554c27463780/300x426cq80/c%C6%A1m-cu%E1%BB%99n-ca-h%E1%BB%93i-mayo-recipe-main-photo.jpg"
+    ],
+    "calories": 619,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 15,
+    "name": "Cơm chiên trứng",
+    "prepTimeMin": 30,
+    "cookTimeMin": 10,
+    "createdAt": "22:47.8",
+    "updatedAt": "22:47.8",
+    "difficulty": "MEDIUM",
+    "description": "Cơm chiên trứng vàng ươm tơi xốp với từng hạt cơm áo trứng vàng đẹp mắt, giòn nhẹ. Món ăn quen thuộc, đơn giản nhưng luôn được yêu thích vì hương vị béo thơm đặc trưng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cơm ướp với 1 quả trứng  đến khi ngấm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "1 quả còn lại đánh với gia vị.Làm nóng dầu,cho trứng vào đến khi se phần dưới,đảo đều,cho 1/2 phần cơm vào đảo đến khi tơi nhẹ,cho tiếp 1/2 còn lại vào đảo đến khi tơi và săn.Thi thoảng cho chút dầu để làm cơm giòn"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/505987b607db01fd/300x426f0.5_0.501445_1.0q80/c%C6%A1m-chien-tr%E1%BB%A9ng-recipe-main-photo.jpg"
+    ],
+    "calories": 496,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 16,
+    "name": "Đậu Phụ Xào Sa Tế",
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "createdAt": "23:04.8",
+    "updatedAt": "23:04.8",
+    "difficulty": "EASY",
+    "description": "Đậu phụ xào sa tế với đậu chiên vàng giòn ngoài mềm trong, thấm đẫm vị cay nồng của sa tế và đậm đà từ nước tương. Món chay đơn giản mà đậm đà, ăn kèm cơm nóng cực kỳ hao cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu phụ tươi dùng tay gỡ thành miếng nhỏ cỡ đốt tay."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đun nóng dầu, chiên đậu hơi ngập dầu với lửa lớn đến khi vàng giòn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Vớt đậu ra, để lên giấy thấm dầu cho ráo."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho đậu đã chiên vào chảo rồi thêm sa tế, hạt nêm, nước tương, đường trộn đều. Sau đó bật bếp."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Xào nhỏ lửa khoảng 5 phút cho thấm vị, đảo đều tay. Gắp ra đĩa, trang trí rau mùi và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/0aa2d5f8854d2437/300x426f0.375249_0.5_1.0q80/d%E1%BA%ADu-ph%E1%BB%A5-xao-sa-t%E1%BA%BF-recipe-main-photo.jpg"
+    ],
+    "calories": 253,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 17,
+    "name": "Đậu Hũ Xào Rong Biển",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "23:04.9",
+    "updatedAt": "23:04.9",
+    "difficulty": "EASY",
+    "description": "Đậu hũ xào rong biển với đậu hũ non béo mịn quyện cùng vị mặn umami của rong biển và mùi thơm boa rô phi. Món chay thanh đạm, lành mạnh, dễ làm cho bữa cơm gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu hũ non bóp nhỏ vừa phải, không làm nát vụn."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Boa rô cắt nhỏ, phi thơm với dầu ăn trên lửa nhỏ."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho đậu hũ vào xào cùng boa rô, đảo nhẹ tay trên lửa nhỏ khoảng 10 phút."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Lá rong biển xé nhỏ, cho vào chảo, xào thêm 2-3 phút."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Nêm muối, hạt nêm vừa ăn. Có thể thêm ớt và tiêu nếu thích. Tắt bếp, múc ra đĩa và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/70083e15bebd859f/300x426f0.41964_0.5_1.0q80/d%E1%BA%ADu-hu-non-xao-rong-bi%E1%BB%83n-recipe-main-photo.jpg"
+    ],
+    "calories": 335,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 18,
+    "name": "Bí xanh, cà rốt xào nấm",
+    "prepTimeMin": 10,
+    "cookTimeMin": 10,
+    "createdAt": "23:39.2",
+    "updatedAt": "23:39.2",
+    "difficulty": "EASY",
+    "description": "Bí xanh, cà rốt xào nấm với rau củ giòn ngọt, nấm dai mềm hòa quyện trong gia vị nhẹ nhàng. Món xào thanh mát, nhiều màu sắc, vừa đẹp mắt vừa giàu vitamin cho bữa ăn lành mạnh.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Bí xanh và cà rốt bào sợi, nấm cắt   mỏng."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Ướp bí xanh và cà rốt với 2g hạt nêm trong 5-10 phút cho mềm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Xào nấm với 1g hạt nêm trong 5-7 phút."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho bí xanh và cà rốt vào xào cùng nấm. Nêm hạt nêm cho vừa ăn, nếu khô thêm 1-2 muỗng canh nước."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Xào bí khoảng 5 đến 7 phút. Cho ngò rí vào rồi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/c8fd00ec8af5ea6a/300x426f0.445777_0.5_1.0q80/bi-xanh-ca-r%E1%BB%91t-xao-n%E1%BA%A5m-recipe-main-photo.jpg"
+    ],
+    "calories": 108,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 19,
+    "name": "Su hào xào cà rốt nấm mèo",
+    "prepTimeMin": 10,
+    "cookTimeMin": 10,
+    "createdAt": "23:39.2",
+    "updatedAt": "23:39.2",
+    "difficulty": "EASY",
+    "description": "Su hào xào cà rốt nấm mèo với rau củ thái sợi giòn sần sật, thơm mùi rau mùi ta. Món xào đơn giản nhưng giữ được độ giòn tự nhiên của su hào, là lựa chọn tuyệt vời cho người ăn chay hoặc giảm cân.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Su hào, cà rốt, nấm mèo cắt sợi."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Trộn các nguyên liệu với muối và hạt nêm, ướp 10 phút cho mềm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Làm nóng chảo, cho dầu ăn vào, xào hỗn hợp trên lửa vừa 5 phút cho su hào vừa chín tới, còn giòn."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Nếu thích ăn mềm hơn, xào thêm 2-3 phút."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Tắt bếp, rắc rau mùi ta lên, đảo đều và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/de19ecd68aa24d6b/300x426f0.48104_0.5_1.0q80/su-hao-xao-ca-r%E1%BB%91t-n%E1%BA%A5m-meo-recipe-main-photo.jpg"
+    ],
+    "calories": 112,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 20,
+    "name": "Bánh đa khô xào cải bắp",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "24:31.4",
+    "updatedAt": "24:31.4",
+    "difficulty": "EASY",
+    "description": "Bánh đa khô xào cải bắp với sợi bánh đa dai mềm, cải bắp ngọt thanh và chả chay đậm vị. Món xào dân dã nhưng no bụng, có thể dùng làm bữa chính hay ăn vặt đều phù hợp.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ngâm bánh đa khô trong nước cho mềm, để ráo. Cải bắp thái sợi vừa ăn. Chả chay cắt mỏng hay cắt sợi tuỳ ý"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng dầu ăn, cho cải bắp vào xào đến khi mềm, nêm hạt nêm hơi lạt tí xíu. Cho bánh đa đảo đều. Nêm thêm hạt nêm vừa ăn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho nước vào từ từ, nếu thấy khô, xào đến khi bánh đa mềm mà không bị nát. Tắt bếp, dọn ra đĩa."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/9c60527a233c2b7e/300x426f0.414661_0.5_1.0q80/banh-da-kho-xao-c%E1%BA%A3i-b%E1%BA%AFp-recipe-main-photo.jpg"
+    ],
+    "calories": 329,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 21,
+    "name": "Ngô Phô Mai Nướng",
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "createdAt": "24:31.4",
+    "updatedAt": "24:31.4",
+    "difficulty": "EASY",
+    "description": "Ngô phô mai nướng với hạt ngô ngọt căng mọng phủ lớp phô mai tan chảy béo ngậy và bơ thơm phức. Món ăn vặt hấp dẫn cho cả gia đình, làm nhanh chỉ với nồi chiên không dầu.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Trần ngô ngọt với nước sôi trong 2 phút, vớt ra để ráo."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho bơ lạt, đường (hoặc sữa đặc) và ngô vào khay, trộn đều."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thêm phô mai lên trên."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Đặt khay vào nồi chiên không dầu, nướng ở 180 độ C trong 10 phút cho phô mai tan chảy và vàng nhẹ."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Lấy ra thưởng thức khi còn nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/6c6daf8819842e26/300x426f0.5_0.505557_1.0q80/ngo-pho-mai-n%C6%B0%E1%BB%9Bng-n%E1%BB%93i-chien-khong-d%E1%BA%A7u-recipe-main-photo.jpg"
+    ],
+    "calories": 531,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 22,
+    "name": "Canh Bắp Ngọt Khoai Tây Đậu Hà Lan",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "24:31.5",
+    "updatedAt": "24:31.5",
+    "difficulty": "MEDIUM",
+    "description": "Canh bắp ngọt khoai tây đậu Hà Lan với vị ngọt thanh tự nhiên từ bắp và khoai, kết hợp đậu Hà Lan giòn nhẹ. Món canh chay thanh mát, dễ nấu, phù hợp cho mọi lứa tuổi trong gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Khoai tây cắt khúc, bắp cắt khoanh."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đun sôi nước, cho bắp và khoai tây vào cùng hạt nêm và muối, nấu cho khoai tây thấm vị."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khi khoai tây gần mềm, cho đậu Hà Lan vào, nấu thêm khoảng 5 phút."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Có thể thêm nấm tươi tuỳ thích. Nếu dùng nấm tươi thì cho vào ngay từ đầu để tạo độ ngọt"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Tắt bếp, thêm ngò gai nếu thích hoặc bỏ qua cho người không ăn ngũ vị tân."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/8b4a95aafb2440ae/300x426f0.503443_0.5_1.0q80/canh-b%E1%BA%AFp-ng%E1%BB%8Dt-khoai-tay-d%E1%BA%ADu-ha-lan-recipe-main-photo.jpg"
+    ],
+    "calories": 580,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 23,
+    "name": "Canh bầu nấu với tôm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "25:02.0",
+    "updatedAt": "25:02.0",
+    "difficulty": "MEDIUM",
+    "description": "Canh bầu nấu tôm với bầu mềm ngọt mát, tôm tươi tạo vị umami tự nhiên cho nước canh trong vắt. Món canh giải nhiệt lý tưởng cho những ngày nóng, vừa nhanh vừa bổ dưỡng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Bầu gọt vỏ, cắt khúc hoặc thái sợi tuỳ ý"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Tôm  ngâm với nước nóng 10 phút cho mềm, rửa sạch rồi nấu cùng 200ml nước cho sôi rồi giảm lửa vừa."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Múc ra bát rồi thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/e68608ac6282143a/300x426f0.5_0.501018_1.0q80/canh-b%E1%BA%A7u-n%E1%BA%A5u-v%E1%BB%9Bi-tom-non-recipe-main-photo.jpg"
+    ],
+    "calories": 53,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 24,
+    "name": "Khoai Tây Xào Bí Đỏ",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "25:18.9",
+    "updatedAt": "25:18.9",
+    "difficulty": "MEDIUM",
+    "description": "Khoai tây xào bí đỏ với khoai tây mềm bùi quyện trong sốt bí đỏ sánh mịn ngọt thanh, thơm mùi thì là. Món chay đầy màu sắc, dinh dưỡng cao và rất bắt cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Khoai tây gọt vỏ, cắt lát mỏng. Bí đỏ cũng cắt lát mỏng."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng dầu ăn, cho bí đỏ vào xào, thêm 20ml nước, đảo đều."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khi bí đỏ mềm, dùng thìa dằm nhuyễn cho sánh lại như sốt."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho khoai tây vào, nêm muối và hạt nêm, đảo đều. Đậy vung, đun nhỏ lửa đến khi khoai tây mềm."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Nêm nếm lại cho vừa ăn, rắc thì là cắt nhỏ, tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/44689175b5c98942/300x426f0.507592_0.5_1.0q80/khoai-tay-xao-bi-d%E1%BB%8F-recipe-main-photo.jpg"
+    ],
+    "calories": 163,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 25,
+    "name": "Soup Bí đỏ Hạt điều",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "25:19.0",
+    "updatedAt": "25:19.0",
+    "difficulty": "MEDIUM",
+    "description": "Soup bí đỏ hạt điều với vị ngọt béo của bí đỏ và hạt điều xay nhuyễn, hòa quyện cùng kem tươi mịn màng. Món soup ấm áp, đầy dinh dưỡng và thơm hương lá thơm tinh tế.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Gọt vỏ, cắt nhỏ khoai tây và hành tây."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng bơ trong nồi, xào khoai tây, hành tây trong 5 phút cho thơm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đổ nước xăm xắp mặt nguyên liệu, Cho hạt điều vào. Nấu nhỏ lửa đến khi khoai tây mềm và hạt điều mềm"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Để nguội bớt, cho tất cả vào máy xay sinh tố xay nhuyễn."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Đổ lại vào nồi, nêm muối, hạt nêm, lá thơm, nấu lửa thật nhỏ."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Cuối cùng cho kem tươi vào, khuấy đều rồi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/995a24c9b3b8c11b/300x426f0.417566_0.5_1.0q80/soup-bi-d%E1%BB%8F-y%E1%BA%BFn-m%E1%BA%A1ch-h%E1%BA%A1t-di%E1%BB%81u-recipe-main-photo.jpg"
+    ],
+    "calories": 284,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 26,
+    "name": "Chả cá thác lác, basa",
+    "prepTimeMin": 60,
+    "cookTimeMin": 15,
+    "createdAt": "26:26.0",
+    "updatedAt": "26:26.0",
+    "difficulty": "MEDIUM",
+    "description": "Chả cá thác lác basa với thịt cá xay nhuyễn dẻo dai, thơm mùi thì là và giòn rụm bên ngoài. Món chả cá chiên không dầu lành mạnh, có thể ăn kèm bún, cơm hoặc làm món nhậu đều ngon.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thịt cá basa, thịt cá thác lác nạo sẵn, mua về để tủ đông khoảng 1 tiếng. Sau đó bỏ ra cho vào cối xay thịt, cho hạt nêm, mì chính vào, xay thật nhuyễn, thật dẻo."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Bỏ phần thịt cá đã xay nhuyễn ra tô, cho phần rau thì là đã băm nhuyễn cùng bột năng vào nhào kỹ, sau đó nặn thành miếng vừa ăn, nên nặn tròn rồi ấn dẹt ra."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Để 1 lớp giấy lót nồi chiên không dầu, sau đó cho phần chả cá đã nặn vào nồi, quét ít dầu ăn lên bề mặt, chiên bằng nồi chiên không dầu trong 13ph với 200 độ, sau đó lật mặt sau lên, chiên tương tự với mặt sau. Nếu không có nckd thì cho vào chảo dầu rán như bình thường."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/1dcd6a5553b59534/300x426f0.5_0.500276_1.0q80/ch%E1%BA%A3-ca-thac-lac-basa-recipe-main-photo.jpg"
+    ],
+    "calories": 198,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 27,
+    "name": "Cá Dìa Chiên Muối Ớt",
+    "prepTimeMin": 30,
+    "cookTimeMin": 15,
+    "createdAt": "26:43.9",
+    "updatedAt": "26:43.9",
+    "difficulty": "MEDIUM",
+    "description": "Cá dìa chiên muối ớt vàng giòn hai mặt, thấm vị muối ớt cay mặn đặc trưng. Món cá đơn giản nhưng đậm đà, ăn cùng cơm nóng và rau sống là chuẩn vị bữa cơm Việt.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá dìa rửa sạch sẽ để ráo, cắt khứa cá, rồi ướp muối ớt để 30 phút cho thấm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng chảo cho dầu ăn vào đợi sôi lên thì cho cá dìa vào chiên cho chín vàng đều cả hai mặt cá."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho cá dìa ra dĩa"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/6a10f350244860aa/300x426f0.5_0.50125_1.0q80/ca-dia-chien-mu%E1%BB%91i-%E1%BB%9Bt-recipe-main-photo.jpg"
+    ],
+    "calories": 814,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 28,
+    "name": "Bông Cải và Đậu Cô Ve Xào Nấm Hương",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "27:35.4",
+    "updatedAt": "27:35.4",
+    "difficulty": "MEDIUM",
+    "description": "Bông cải và đậu cô ve xào nấm hương với rau củ giòn ngọt được trụng giữ màu xanh đẹp mắt, quyện cùng nấm hương thơm đậm đà. Món chay thanh đạm, giàu chất xơ và vitamin.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ngâm nấm hương khô cho mềm, rửa sạch, cắt lát mỏng."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đậu cô ve nhặt sạch, cắt miếng vừa ăn. Bông cải trắng cắt miếng nhỏ."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đun sôi nước với muối và đường, trụng bông cải trắng và đậu cô ve 2 phút, vớt ra xả nước lạnh."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Xào nấm hương với ít hạt nêm và 1 ít nước ngâm nấm khoảng 3-4 phút cho thơm."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cho bông cải trắng và đậu cô ve vào chảo, nêm hạt nêm vừa ăn, xào thêm 5-7 phút. Nếu khô, thêm nước ngâm nấm. Tắt bếp, dọn ra đĩa. Có thể rắc thêm 1 ít hạt tiêu cho thơm nếu như thích"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/5f44845b7a4bb6f0/300x426f0.48353_0.5_1.0q80/bong-c%E1%BA%A3i-tr%E1%BA%AFng-va-d%E1%BA%ADu-co-ve-xao-n%E1%BA%A5m-h%C6%B0%C6%A1ng-kho-recipe-main-photo.jpg"
+    ],
+    "calories": 242,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 29,
+    "name": "Đậu cô ve xào thịt bò cà chua",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "27:35.5",
+    "updatedAt": "27:35.5",
+    "difficulty": "MEDIUM",
+    "description": "Đậu cô ve xào thịt bò cà chua với thịt bò mềm ngọt, đậu cô ve giòn xanh và cà chua chua nhẹ tạo nên màu sắc bắt mắt. Món xào nhanh gọn, đầy đủ dinh dưỡng cho bữa cơm gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu cô ve, bắp sú rửa sạch, cắt miếng vừa ăn. Cà chua thái múi cau."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho cà chua vào xào mềm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thêm bắp sú vào xào cùng cà chua khoảng 2 phút."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho đậu cô ve vào, đảo đều, nêm muối, nước mắm, hạt nêm."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Khi rau gần chín, cho thịt bò vào xào nhanh tay đến khi thịt vừa chín tới."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Tắt bếp, dọn ra đĩa và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/da4b843076d91137/300x426f0.5_0.5_1.0q80/d%E1%BA%ADu-co-ve-xao-th%E1%BB%8Bt-bo-ca-chua-recipe-main-photo.jpg"
+    ],
+    "calories": 309,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 30,
+    "name": "Cá Thu Sốt Cay",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "27:52.5",
+    "updatedAt": "27:52.5",
+    "difficulty": "MEDIUM",
+    "description": "Cá thu sốt cay với cá thu chiên săn ngoài mềm trong, áo lớp sốt cà chua cay nồng đậm đà. Món ăn đậm vị, lên màu đẹp mắt, là lựa chọn lý tưởng để chiêu đãi cả nhà.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá thu thấm khô, rắc chút muối và tiêu 2 mặt. Bắc chảo, chảo nóng cho dầu ăn, thả ít bột mì cho đỡ bắn, cho cá vào chiên lửa lớn cho vàng săn 2 mặt. Cho cá ra đĩa."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho tỏi vào đảo thơm thơm, trút cà chua vào xào lửa lớn cho săn săn. Đặt lại 2 miếng cá vào chảo. Nêm các gia vị còn lại vào. Lắc chảo cho đều gia vị. Thêm 1/4 cup nước. Đun lửa lớn, thi thoảng lắc chảo, lật miếng cá. Thấy sốt sánh, thả hành hoa vào là xong."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/87115ea9e80d53d5/300x426cq80/ca-thu-s%E1%BB%91t-cay-dung-s%E1%BB%91t-%E1%BB%9Bt-ng%E1%BB%8Dt-thai-recipe-main-photo.jpg"
+    ],
+    "calories": 488,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 31,
+    "name": "Cá thu chiên xốt cà chua",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "26:35.5",
+    "updatedAt": "26:35.5",
+    "difficulty": "MEDIUM",
+    "description": "Cá thu chiên xốt cà chua với cá vàng giòn áo trong nước sốt cà chua sánh mịn chua ngọt vừa miệng. Món ăn truyền thống quen thuộc, dễ làm và rất bắt cơm trong những ngày se lạnh.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chiên xém vàng 2 mặt cá thu. Chú ý không chiên cá quá khô."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Chắt bớt dầu ăn ra chén, chỉ chừa lại 1 ít trong chảo để xốt với cà. Cắt cà chua bi, cho vào chảo cùng các gia vị nêm, cho thêm 1-2 mc nước nóng. Đậy nắp, để lửa nhỏ để cà chua mềm, cá thấm gia vị. Dùng đũa dằm cà chua nát ra."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Mở nắp, lật mặt cá, tiếp tục nấu lửa nhỏ cho đến khi nước sánh lại là được. Nêm lại lần nữa rồi tắt bếp. Vậy là xong."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/da87a9507e58a758/300x426f0.504253_0.5_1.0q80/ca-thu-chien-x%E1%BB%91t-ca-chua-recipe-main-photo.jpg"
+    ],
+    "calories": 359,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 32,
+    "name": "Cá Thu, Nấm Mỡ, Khoai Tây Đút Lò Kèm Sốt Cam Bơ",
+    "prepTimeMin": 10,
+    "cookTimeMin": 35,
+    "createdAt": "40:45.5",
+    "updatedAt": "40:45.5",
+    "difficulty": "MEDIUM",
+    "description": "Cá thu, nấm mỡ, khoai tây đút lò kèm sốt cam bơ là sự kết hợp tinh tế giữa cá thu áp chảo, rau củ nướng và sốt cam bơ chua ngọt thơm lừng. Món ăn fusion sang trọng, thích hợp cho bữa tối đặc biệt.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chuẩn bị các nguyên liệu. Cá Thu khoanh rửa sạch với nước muối loãng. Nấm mỡ ngâm nước muối khoảng 10 phút rồi rửa sạch. Khoai tây rửa sạch vỏ, không cần gọt. Bơ để tan chảy trong nhiệt độ phòng."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cá thu thấm khô, rắc lên một nhúm nhỏ muối và tiêu ở cả hai mặt. \nCho vào chảo 1tbsp dầu Olive. Khi dầu nóng, ta cho cá vào áp chảo lần lượt mỗi mặt khoảng 2 phút cho cả hai mặt đều vừa chín thì vớt ra dĩa."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khoai tây cắt mỗi củ thành 8 miếng, cho vào khay, rắc lên một nhúm nhỏ muối và tiêu. Rưới 1tbsp dầu Olive lên khoai rồi cho khay vào nồi chiên không dầu nướng ở nhiệt độ 180 độ C trong khoảng 10 phút.\nTrong lúc nướng khoai, ta lấy nấm mỡ, bỏ gốc, cắt làm 4, rắc lên một nhúm nhỏ muối và tiêu. Rưới 1tbsp dầu Olive lên nấm. Khi khoai tây nướng được 10 phút thì ta cho nấm vào nướng chung khoảng 7 phút nữa."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Tiếp tục cho khoanh cá thu đã áp chảo vào khay nướng chung với khoai tây và nấm mỡ. Cắt một khoanh cam, đặt lên khoanh cá và nướng tiếp trong 8 phút nữa thì tắt bếp."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Pha nước sốt: Ta vắt quả cam lấy 4tbsp nước. Cho 4tbsp bơ đã tan chảy vào chảo bắt lên bếp, để lửa vừa. Cho 1.5tbsp tỏi băm vào phi cho thơm rồi cho vào đó 4tbsp nước cam ép. Cho vào 1 nhúm muối + 1 nhúm tiêu + 1/2tbsp đường khuấy đều cho tan. Pha hỗn hợp 1/2tbsp bột bắp + 1tbsp nước lọc. Cho vào hỗn hợp đang sôi và khuấy nhẹ cho đến khi hỗn hợp nước sốt hơi sánh lại và có độ trong thì tắt bếp."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Cho cá ra dĩa, đặt khoanh cam nướng kế bên. Chung quanh, ta xếp khoai tây và nấm mỡ đút lò. Sau đó, ta rưới vài tbsp nước sốt cam bơ lên cá, rắc thêm một nhúm tiêu rồi thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/51e044ee5103bcd2/300x426f0.500306_0.5_1.0q80/ca-thu-n%E1%BA%A5m-m%E1%BB%A1-khoai-tay-dut-lo-kem-s%E1%BB%91t-cam-b%C6%A1-recipe-main-photo.jpg"
+    ],
+    "calories": 1081,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 33,
+    "name": "Cà tím nướng mỡ hành ớt chuông",
+    "prepTimeMin": 5,
+    "cookTimeMin": 45,
+    "createdAt": "45:52.9",
+    "updatedAt": "45:52.9",
+    "difficulty": "MEDIUM",
+    "description": "Cà tím nướng mỡ hành ớt chuông với cà tím mềm thơm phủ mỡ hành béo ngậy và ớt chuông giòn ngọt. Món ăn dân dã được nâng tầm bằng vị mặn ngọt hài hòa của nước mắm hành, ăn cùng cơm nóng cực kỳ hao cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cà tím rửa sạch, dùng nĩa xăm vào thân cà, cho vào nckd nướng 15 phút 180 độ rồi lật mặt chiên tiếp 15 phút nữa đến khi cà chín mềm, bóc vỏ, cắt dọc."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Hành lá cắt nhỏ, ớt chuông cắt hạt lựu, tỏi băm nhỏ. Pha mỡ hành: Trong 1 nồi nhỏ cho 1 muỗng mỡ heo vào rồi đến tỏi băm. Phi thơm tỏi, cho hành lá, ớt chuông vào đảo đều. Thêm nước mắm, đường, đảo đều rồi tắt bếp."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rưới hỗn hợp mắm hành lên dĩa cà tím. Dọn dùng nóng với cơm."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/cfc31604bb0f7a67/300x426cq80/ca-tim-n%C6%B0%E1%BB%9Bng-m%E1%BB%A1-hanh-%E1%BB%9Bt-chuong-recipe-main-photo.jpg"
+    ],
+    "calories": 230,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 34,
+    "name": "Cà tím kho nấm rơm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "46:36.4",
+    "updatedAt": "46:36.4",
+    "difficulty": "MEDIUM",
+    "description": "Cà tím kho nấm rơm với cà tím mềm thấm vị, nấm rơm dai ngọt quyện trong nước kho nâu sóng sánh. Món chay đậm đà đưa cơm, hương vị mặn ngọt vừa phải rất dễ ăn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "1. Sơ chế nguyên liệu:\n•Nấm rơm cắt bỏ chân, ngâm nước muối loãng, rửa sạch, để ráo. Cắt đôi hoặc thái lát tùy thích.\n•Cà tím bỏ cuống, rửa sạch, thái miếng vừa ăn. Ngâm cà tím vào nước muối loãng để không bị thâm đen. •Hành tím, tỏi băm nhỏ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "2. Kho nấm: •Cho dầu ăn vào nồi, phi thơm hành tỏi băm. •Cho hỗn hợp nấm, cà tím vào xào săn.\n• Nêm nước tương, đường, hạt nêm, thêm chút nước, kho nhỏ lửa cho đến khi cà tím chín mềm, nấm rơm thấm gia vị.\n•Nêm nếm lại gia vị cho vừa ăn. Tắt bếp"
+      },
+      {
+        "title": "Bước 3",
+        "content": "3. Trang trí: Thêm tiêu, hành lá rồi đem ra dĩa"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/4209c49bb93fbfde/300x426f0.534363_0.515302_1.20544q80/ca-tim-kho-n%E1%BA%A5m-r%C6%A1m-recipe-main-photo.jpg"
+    ],
+    "calories": 147,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 35,
+    "name": "Canh cá thác lác nấu cải bẹ xanh",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "52:53.1",
+    "updatedAt": "52:53.1",
+    "difficulty": "MEDIUM",
+    "description": "Canh cá thác lác nấu cải bẹ xanh với những viên chả cá dai ngọt nổi cùng cải xanh mềm hơi đắng nhẹ. Món canh thanh mát, dễ nấu, giúp giải ngấy hiệu quả cho bữa cơm nhiều món chiên xào.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá thác lác thêm chút tiêu và hạt nêm, dùng muỗng quết nhiều lần cho chả dai, múc từng viên cá cho vào nồi nước sôi. Cải xanh rửa sạch, cắt nhỏ và bóp nát cho đỡ đắng rồi cho vào nồi nước sôi, thêm muối và hạt nêm, đảo đều cho rau chín và tắt bếp"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Múc canh ra tô, rắc tiêu xay cho thơm"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/cc6d01cb0c5aa70d/300x426cq80/canh-ca-thac-lac-n%E1%BA%A5u-c%E1%BA%A3i-b%E1%BA%B9-xanh-recipe-main-photo.jpg"
+    ],
+    "calories": 117,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 36,
+    "name": "Cải xanh nấu tôm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "53:21.4",
+    "updatedAt": "53:21.4",
+    "difficulty": "MEDIUM",
+    "description": "Cải xanh nấu tôm với rau cải tươi xanh và tôm tươi ngọt nước, thơm mùi gừng đặc trưng. Món canh đơn giản, vị thanh ngọt tự nhiên rất tốt cho sức khỏe và dễ ăn cho cả nhà.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cải xanh rửa sạch cắt khúc để ráo cọng lá để riêng. Gừng xắt sợi. Tôm lột vỏ dùng dao đập dập ướp vào bột nêm và tiêu. Bắc nồi lên cho chút dầu ăn vào cho tôm vào xào chín trút tôm ra cho thêm xíu dầu cho gừng vào xào gừng thơm cho nước vào. Nước sôi cho cọng cải vào trước chừng 2 phút sau cho hết lá vào. Nước sôi lại cho tôm vào quậy một vòng nêm lại và nhắc xuống cho ra tô"
+      },
+      {
+        "title": "Bước 2",
+        "content": ""
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/2e18a70e8c2c2315/300x426cq80/c%E1%BA%A3i-xanh-n%E1%BA%A5u-tom-recipe-main-photo.jpg"
+    ],
+    "calories": 127,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 37,
+    "name": "Canh Cải Ngọt Nấu Tôm Biển",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "55:36.6",
+    "updatedAt": "55:36.6",
+    "difficulty": "MEDIUM",
+    "description": "Canh cải ngọt nấu tôm biển với vị ngọt thanh từ tôm tươi và cải ngọt mềm xanh, thơm mùi gừng đập dập. Món canh giải nhiệt lý tưởng cho ngày nóng, dễ nấu chỉ trong 15 phút.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chuẩn bị các nguyên liệu sẵn sàng sạch sẽ để ráo. Rau cắt nhỏ phần thân và phần lá để riêng. Tôm lột vỏ bỏ chỉ sống lưng, ướp với xíu muối. Gừng đập dập."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nấu sôi nước cho tôm và gừng vào, sau đó cho phần thân rau cải vào trước nấu 1-2 phút"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rồi cho thêm phần lá cải vào."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Khi tấc cả đã chín, thì nêm nếm lại cho vừa khẩu vị của gia đình nhé."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/0394ee9410875e0a/300x426f0.5_0.5_1.0q80/canh-c%E1%BA%A3i-ng%E1%BB%8Dt-n%E1%BA%A5u-tom-bi%E1%BB%83n-recipe-main-photo.jpg"
+    ],
+    "calories": 89,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 38,
+    "name": "Cải ngọt xào nấm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "21:00.3",
+    "updatedAt": "21:00.3",
+    "difficulty": "MEDIUM",
+    "description": "Cải ngọt xào nấm với rau cải xanh giòn, nấm hương thơm đậm và dầu hào tạo vị umami sâu lắng. Món chay đơn giản, dinh dưỡng và rất bắt cơm, phù hợp cho cả người ăn chay lẫn ăn mặn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Làm sạch nguyên liệu: Rau cải bỏ rễ, tách bẹ, rửa sạch; Nấm hương ngâm nước nóng cho mềm rồi vớt ra rửa sạch với nước."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cắt đôi hoặc cắt 3 rau cải cho dễ ăn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho một thìa dầu ăn vào nồi rồi cho rau cải vào đảo đều. Chú ý lửa vừa phải, chế thêm nước để tránh bị cháy."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Thêm gia vị, dầu hào và nấm hương vào đảo đều. Nêm nếm sao vừa miệng. Nhà mình không ăn bột nêm hay mì chính mà chỉ ăn muối bột canh. Lúc này, những ai thích ăn nhiều hạt tiêu có thể rắc hạt tiêu vào luôn cũng ok. Mình hay rắc hạt tiêu 2 lần cho dậy vị và đẹp mắt ^^"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Khi bẹ rau chuyển sang hơi trong thì tắt bếp. Rau nên múc sang đĩa ngay còn nóng để tránh bị nát."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Rắc chút hạt tiêu lên trên cho đẹp mắt."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/3a4a9ff17ac10244/300x426cq80/c%E1%BA%A3i-ng%E1%BB%8Dt-xao-n%E1%BA%A5m-recipe-main-photo.jpg"
+    ],
+    "calories": 51,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 39,
+    "name": "Cải thảo xào hẹ",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "32:01.8",
+    "updatedAt": "32:01.8",
+    "difficulty": "MEDIUM",
+    "description": "Cải thảo xào hẹ với cải thảo ngọt mềm và hẹ thơm tươi xanh, nhanh tay đảo trên lửa lớn để giữ độ giòn. Món xào nhẹ nhàng, thanh mát, là lựa chọn tuyệt vời cho bữa cơm gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Bắp cải thảo tách lá rửa sạch, cắt khúc và để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Phi thơm tỏi băm, cho rau vào xào, thêm gia vị và ít nước. Rau mềm thì cho hẹ cắt khúc vào"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Gắp ra dĩa, thêm ít tiêu xay"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/147dc942578a602e/300x426f0.5_0.5_1.0q80/c%E1%BA%A3i-th%E1%BA%A3o-xao-h%E1%BA%B9-recipe-main-photo.jpg"
+    ],
+    "calories": 142,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 40,
+    "name": "Canh cải thảo nấu hến",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "34:00.6",
+    "updatedAt": "34:00.6",
+    "difficulty": "MEDIUM",
+    "description": "Canh cải thảo nấu hến với hến xào thơm béo và cải thảo ngọt mềm, tạo nên nước canh trong vắt thanh ngọt. Món canh dân dã đơn giản nhưng đậm đà hương vị quê nhà.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Hến xào thơm. Cải thảo cắt khúc vừa ăn, rửa sạch, để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đặt nồi nước lên bếp, nước sôi cho rau vào, nêm hạt nêm và muối, rau chín thêm hành lá cắt nhỏ"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/9a5d37806568a326/300x426cq80/canh-c%E1%BA%A3i-th%E1%BA%A3o-n%E1%BA%A5u-h%E1%BA%BFn-recipe-main-photo.jpg"
+    ],
+    "calories": 26,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 41,
+    "name": "Nước cam quýt vắt",
+    "prepTimeMin": 10,
+    "cookTimeMin": 10,
+    "createdAt": "50:47.0",
+    "updatedAt": "50:47.0",
+    "difficulty": "MEDIUM",
+    "description": "Nước cam quýt vắt tươi mát với vị chua ngọt cân bằng, giàu vitamin C cho cả gia đình. Thức uống giải khát tự nhiên hoàn hảo cho những ngày nắng nóng, vừa thơm ngon vừa bổ dưỡng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cam quýt rửa sạch, cắt đôi theo chiều ngang và vắt lấy nước"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Lọc bỏ hột qua rây"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Pha thêm đường và ít muối tùy độ chua của cam. Thêm đá viên và thưởng thức"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/34ace336a5e1afdf/300x426f0.5_0.5_1.0q80/n%C6%B0%E1%BB%9Bc-cam-quyt-v%E1%BA%AFt-recipe-main-photo.jpg"
+    ],
+    "calories": 459,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 42,
+    "name": "Sườn non sốt cam",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "51:37.3",
+    "updatedAt": "51:37.3",
+    "difficulty": "MEDIUM",
+    "description": "Sườn non sốt cam với sườn mềm thấm vị, áo lớp sốt cam chua ngọt cay nhẹ độc đáo và bắt mắt. Món ăn fusion lạ miệng, đậm đà mà không ngán, sẽ làm thực đơn gia đình thêm phong phú.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sườn non chặt nhỏ,ngâm với nước pha xíu muối rồi rửa sạch. Ướp sườn với xíu muối xong cho lên chảo chiên vàng sơ. Cho lên 1 củ tỏi đập dập"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cam vắt lấy nước, cho 1 muỗng canh tương ớt, 1 muỗng canh dầu hào, 2 muỗng canh nước mắm, 1 muỗng canh đường vô nước cam khuấy tan rồi đổ lên chảo sườn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rim cho sườn mềm, thấm rồi nêm nếm cho vừa ăn, thêm xíu tiêu cho thơm."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/ae63a5ac76546689/300x426cq80/s%C6%B0%E1%BB%9Dn-non-s%E1%BB%91t-cam-recipe-main-photo.jpg"
+    ],
+    "calories": 441,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 43,
+    "name": "Mực xào dưa leo hành tây",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "15:10.0",
+    "updatedAt": "15:10.0",
+    "difficulty": "MEDIUM",
+    "description": "Mực xào dưa leo hành tây với mực giòn ngọt, dưa leo mát lạnh và hành tây thơm nhẹ trong gia vị mặn mòi. Món xào nhanh gọn nhưng đủ vị, là lựa chọn tuyệt vời cho bữa cơm cuối tuần.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Mực làm sạch, bóp muối và cắt miếng vừa ăn, rửa sạch để ráo. Dưa leo hành tây cắt miếng vừa ăn. Phi thơm tỏi băm, cho mực vào xào"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Thêm dưa leo hành tây, thêm nước mắm và hạt nêm xào chín các nguyên liệu"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Múc ra dĩa, thêm tiêu xay và tỏi phi"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/2104c6363f593138/300x426cq80/m%E1%BB%B1c-xao-d%C6%B0a-leo-hanh-tay-recipe-main-photo.jpg"
+    ],
+    "calories": 149,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 44,
+    "name": "Đậu bắp xào tỏi",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "18:26.9",
+    "updatedAt": "18:26.9",
+    "difficulty": "MEDIUM",
+    "description": "Đậu bắp xào tỏi với đậu bắp xanh giòn không nhớt nhờ kỹ thuật trần trước khi xào, thơm phức mùi tỏi phi. Món chay đơn giản mà rất đưa cơm, lành mạnh cho cả gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu bắp rửa sạch, trần với nước sôi rồi cho ra chậu nước lạnh, sau đó vớt ra rổ để ráo. Lúc này mới cắt đầu đuôi đậu bắp rồi cắt đôi để đậu bắp không bị nhớt."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Tỏi bóc vỏ đập dập, phi thơm tỏi rồi vớt ra bát để riêng, cho đậu bắp vào dầu phi tỏi xào với 1 thìa cf muối và 1 thìa cf đường, đảo qua lại cho đậu bắp thấm gia vị."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho đậu bắp ra đĩa, rắc tỏi phi lên, thêm ớt nếu muốn"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/9dd63c3801a990b8/300x426cq80/d%E1%BA%ADu-b%E1%BA%AFp-xao-t%E1%BB%8Fi-recipe-main-photo.jpg"
+    ],
+    "calories": 147,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 45,
+    "name": "Cháo tôm đậu bắp",
+    "prepTimeMin": 5,
+    "cookTimeMin": 60,
+    "createdAt": "19:45.1",
+    "updatedAt": "19:45.1",
+    "difficulty": "MEDIUM",
+    "description": "Cháo tôm đậu bắp với cháo nhuyễn mịn quyện cùng tôm xào thơm và đậu bắp xay nhuyễn. Món ăn dặm bổ dưỡng cho trẻ nhỏ, vị thanh ngọt tự nhiên dễ ăn và dễ tiêu hóa.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nấu cháo với tỉ lệ 1 thìa gạo và 4 thìa nước trong 1 tiếng là cháo chín."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Tôm bóc vỏ làm sạch rồi băm nhỏ sau đó đem xào với hành khô"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đậu bắp luộc chín và xay nhuyễn ra"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Đợi cháo chín múc ra bát và trộn đều lên là xong"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/112d2eb15720910c/300x426f0.5_0.500757_1.0q80/chao-tom-d%E1%BA%ADu-b%E1%BA%AFp-recipe-main-photo.jpg"
+    ],
+    "calories": 156,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 46,
+    "name": "Sườn Heo Hầm Đậu Đen",
+    "prepTimeMin": 10,
+    "cookTimeMin": 40,
+    "createdAt": "59:10.3",
+    "updatedAt": "59:10.3",
+    "difficulty": "MEDIUM",
+    "description": "Sườn heo hầm đậu đen với sườn mềm rục thấm vị, đậu đen bùi bở trong nước dùng ngọt thanh. Món canh bổ dưỡng giàu protein, được nấu nhanh bằng nồi áp suất để tiết kiệm thời gian.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu đen ngâm nước qua đêm, rửa sạch."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Sườn heo rửa sạch, chặt miếng vừa ăn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho sườn, đậu đen, nước và muối vào nồi áp suất."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Hầm trong 30 phút cho sườn mềm, đậu chín nhừ. Nêm gia vị cho vừa ăn."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Múc ra tô, Cho vài cọng ngò rí lên trên và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/96bfeae23fa3f5e5/300x426cq80/sp1044-s%C6%B0%E1%BB%9Dn-heo-h%E1%BA%A7m-d%E1%BA%ADu-den-recipe-main-photo.jpg"
+    ],
+    "calories": 366,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 47,
+    "name": "Chân gà hầm đậu đen",
+    "prepTimeMin": 180,
+    "cookTimeMin": 35,
+    "createdAt": "02:23.4",
+    "updatedAt": "02:23.4",
+    "difficulty": "MEDIUM",
+    "description": "Chân gà hầm đậu đen với chân gà mềm dai sần sật và đậu đen bùi thơm, nước dùng ngọt thanh đậm đà. Món canh bổ dưỡng được người Việt ưa chuộng, đặc biệt tốt cho xương khớp.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu đen rửa sạch, bỏ hết hạt bị hư. Cho đậu đen vô nồi đổ ngập nước ngâm 3 tiếng rồi đổ ra rổ rửa lại với nước sạch, để ráo."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Chân gà cắt mỏng, chặt làm 3, rửa sạch với nhiều nước rồi ngâm với nước muối loãng 15 phút, sau đó rửa lại với nước sạch. Nấu sôi 1 lít nước rồi cho gừng cắt lát +2MC nước mắm vô, đổ chân gà vô luộc 3 phút rồi đổ ra rổ rửa lại với nước sạch, để ráo."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho đậu đen vô nồi, đổ vô 1,5 lít nước, nấu đậu đen 10 phút."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Sau khi đã nấu đậu đen được 10 phút thì đổ chân gà vô, cho vô 1MC hạt nêm + 1MC đường + 1MC nước mắm, hầm thêm 15 phút nửa cho đậu đen với chân gà mềm. Nêm nếm vị vừa ăn rồi tắt bếp."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Múc chân gà hầm đậu đen ra tô rồi ăn khi còn nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/53254db5daa35511/300x426cq80/chan-ga-h%E1%BA%A7m-d%E1%BA%ADu-den-recipe-main-photo.jpg"
+    ],
+    "calories": 438,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 48,
+    "name": "Cháo sườn đậu đỏ",
+    "prepTimeMin": 5,
+    "cookTimeMin": 120,
+    "createdAt": "08:16.8",
+    "updatedAt": "08:16.8",
+    "difficulty": "MEDIUM",
+    "description": "Cháo sườn đậu đỏ với cháo nhuyễn mịn từ gạo và sườn hầm lâu, đậu đỏ bùi bùi và hành phi vàng giòn thơm phức. Món ăn ấm bụng lý tưởng cho ngày se lạnh hoặc khi mệt mỏi.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Rửa sườn với muối cho sạch. Cắt khúc nhỏ. Cho vào nồi cùng gạo và nước. Cho 2 muỗng canh nước mắm vào. Hầm lửa vừa khoảng 1h30p."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Sau khi gạo nở, cho đậu vào ninh cùng thêm 1h."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Hành tím mình cắt nhỏ, cho vào chén cùng với dầu ăn rồi cho vào lò vi sóng 1p30s đến khi vàng. Bạn có thể phi bằng chảo. Phi xong bạn cho cả hành và dầu hành vào nồi cháo."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Nêm nếm lại, thêm tiêu rồi thưởng thức"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/cc97fbe1219f5193/300x426f0.5_0.540656_1.0q80/chao-s%C6%B0%E1%BB%9Dn-d%E1%BA%ADu-d%E1%BB%8F-d%C6%A1n-gi%E1%BA%A3n-recipe-main-photo.jpg"
+    ],
+    "calories": 480,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 49,
+    "name": "Sữa đậu đỏ hạt sen mè đen",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "43:20.0",
+    "updatedAt": "43:20.0",
+    "difficulty": "MEDIUM",
+    "description": "Sữa đậu đỏ hạt sen mè đen sánh mịn thơm béo, kết hợp tinh hoa của ba loại hạt giàu dinh dưỡng. Thức uống lành mạnh tuyệt vời cho bữa sáng hoặc bữa phụ, dễ làm với máy nấu sữa.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu đỏ, mè đen ngâm 8 tiếng, hạt sen khô ngâm 4-6 tiếng (còn bạn sử dụng hạt sen tươi thì bỏ qua bước ngâm này nha)"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Bỏ tất cả nguyên liệu vào máy bấm chế độ nấu sữa đậu nành (Còn nhà bạn không có máy nấu sữa thì bỏ các nguyên liệu vào máy xay sinh tố rồi lọc qua ray bắc lên bếp nấu lửa liu riu đến khi sôi rồi tắt bếp nha)"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Sau 30 phút thì mình đã có 1 ly sữa thơm ngon sánh mịn và thưởng thức thôi nào 😃"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/3a3ca96a5bcfe47d/300x426f0.5_0.5_1.0q80/s%E1%BB%AFa-d%E1%BA%ADu-d%E1%BB%8F-h%E1%BA%A1t-sen-me-den-recipe-main-photo.jpg"
+    ],
+    "calories": 242,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 50,
+    "name": "Đậu phộng kho sả",
+    "prepTimeMin": 480,
+    "cookTimeMin": 30,
+    "createdAt": "49:54.5",
+    "updatedAt": "49:54.5",
+    "difficulty": "MEDIUM",
+    "description": "Đậu phộng kho sả với đậu phộng bùi bùi thấm đẫm vị mặn ngọt và mùi sả thơm nồng đặc trưng. Món chay đơn giản nhưng cực kỳ đưa cơm, có thể bảo quản dùng dần trong nhiều ngày.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ngâm đậu phộng khô trong nước 8 tiếng hoặc qua đêm."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho đậu phộng vào nồi, thêm nước ngập mặt và 1/3 muỗng cà phê muối, hầm 30 phút."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Chắt bớt nước, giữ lại một lượng xăm xắp. Cho sả đập dập, xì dầu, đường nâu, muối, hạt nêm, ớt, dầu ăn vào nồi. Hầm nhỏ lửa thêm 30 phút cho đậu thấm vị và nước sệt lại."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/dda3c6b62c4e45e9/300x426f0.458223_0.5_1.0q80/d%E1%BA%ADu-ph%E1%BB%99ng-kho-s%E1%BA%A3-recipe-main-photo.jpg"
+    ],
+    "calories": 742,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 51,
+    "name": "Đậu Phộng Rang Bơ Tỏi",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "58:50.4",
+    "updatedAt": "58:50.4",
+    "difficulty": "MEDIUM",
+    "description": "Đậu phộng rang bơ tỏi giòn rụm, áo lớp bơ tỏi ớt béo thơm cay nhẹ. Món ăn vặt hấp dẫn lai rai cùng bạn bè, hoặc ăn kèm xôi, cơm đều rất ngon miệng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chuẩn bị các nguyên liệu sẵn sàng sạch sẽ để ráo. Tỏi ớt bằm nhỏ"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng chảo cho dầu ăn vào chiên đậu phộng chín vàng đều vớt ra để riêng"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho bơ tỏi ớt và các gia vị còn lại vào"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Rồi cho đậu phộng đã chiên vào, trộn đều sao cho áo đều xốt bơ tỏi ớt"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Để nguội cho vào hũ dùng dần, món này lai rai hoặc ăn cùng xôi, cơm đều ngon"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/545a03c329b02488/300x426f0.5_0.50125_1.0q80/d%E1%BA%ADu-ph%E1%BB%99ng-rang-b%C6%A1-t%E1%BB%8Fi-recipe-main-photo.jpg"
+    ],
+    "calories": 512,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 52,
+    "name": "Lòng gà trứng non xào giá",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "07:07.9",
+    "updatedAt": "07:07.9",
+    "difficulty": "MEDIUM",
+    "description": "Lòng gà trứng non xào giá với lòng gà giòn sần sật, trứng non béo bùi và giá đỗ giòn mát. Món xào dân dã đậm đà, là lựa chọn quen thuộc cho bữa cơm Việt nhiều thế hệ.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế nguyên liệu: \nLòng gà rửa sạch với nước muối, rửa lại bằng nước sạch. Ướp lòng gà với hạt nêm và nước mắm. \nTrứng non rửa sạch rồi chần 2 phút trong nước sôi\nGiá rửa sạch để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho dầu ăn vào chảo, băm nhỏ hành tím rồi phi thơm.\nCho lòng gà vào xào đảo đều trên lửa lớn cho săn và ngấm gia vị."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Lòng gà chín thì vớt ra để lại nước xào, cho giá vào đảo đến khi giá chín thì cho lại phần lòng và trứng non vào chảo đảo đều tay rồi tắt bếp. Nêm nếm lại cho vừa ăn."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Trình bày ra đĩa, rắc tiêu và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/dde2f630a7c9d250/300x426f0.5_0.501018_1.0q80/long-ga-tr%E1%BB%A9ng-non-xao-gia-recipe-main-photo.jpg"
+    ],
+    "calories": 159,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 53,
+    "name": "Mướp giá xào thịt ba rọi",
+    "prepTimeMin": 15,
+    "cookTimeMin": 10,
+    "createdAt": "15:04.4",
+    "updatedAt": "15:04.4",
+    "difficulty": "MEDIUM",
+    "description": "Mướp giá xào thịt ba rọi với mướp ngọt mềm, giá đỗ giòn và thịt ba rọi béo thơm trong gia vị mặn ngọt. Món xào nhanh gọn nhưng đầy đủ dinh dưỡng, rất bắt cơm cho bữa ăn gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Thịt ướp với nước tương, dầu mè 15 phút. Phi thơm đầu hàng, cho thịt vào đảo săn, tiếp đến cho mướp vào, cho chút nước và nước mắm rồi cho giá vào đảo nhanh"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Gắp ra dĩa, rắc hành ngò và tiêu xay"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/ec0430e386250904/300x426cq80/m%C6%B0%E1%BB%9Bp-gia-xao-th%E1%BB%8Bt-ba-r%E1%BB%8Di-recipe-main-photo.jpg"
+    ],
+    "calories": 265,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 54,
+    "name": "Dưa giá",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "20:36.7",
+    "updatedAt": "20:36.7",
+    "difficulty": "MEDIUM",
+    "description": "Dưa giá muối chua giòn sần sật với giá đỗ, hẹ và cà rốt thái sợi đẹp mắt. Món dưa muối truyền thống là người bạn đồng hành không thể thiếu của thịt kho và cá kho trong mâm cơm Việt.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế : \n_ Giá rửa sạch, để thật ráo nước. \n_ Hẹ rửa sạch, để thật ráo nước \n_ Cà rốt gọt sạch vỏ, để ráo, cắt sợi."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nấu sôi 1,5 lít nước, tắt bếp rồi cho muối + đường vô khuấy tan,để thật nguội."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho giá + hẹ + cà rốt vô thau sạch, trộn đều nhẹ tay. Cho hết giá, hẹ, cà rốt vô hũ thủy tinh"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Đổ nước ngâm vô ngập hũ giá, chèn lại cho giá ngập trong nước, đậy nắp hũ lại để ở ngoài nhiệt độ phòng 1 ngày là ăn được. Nếu ăn không hết thì bảo quản trong ngăn mát tủ lạnh."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Dưa giá ăn với cơm nóng kèm với thịt kho hoặc cá kho."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a97ff24b087930a1/300x426cq80/d%C6%B0a-gia-recipe-main-photo.jpg"
+    ],
+    "calories": 93,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 55,
+    "name": "Mứt gừng nguyên chất",
+    "prepTimeMin": 150,
+    "cookTimeMin": 30,
+    "createdAt": "24:29.7",
+    "updatedAt": "24:29.7",
+    "difficulty": "MEDIUM",
+    "description": "Mứt gừng nguyên chất cay nồng ấm bụng, kết tinh đường trắng đẹp mắt phủ đều từng lát gừng mỏng. Món mứt truyền thống không thể thiếu trong dịp Tết, vừa thơm ngon vừa tốt cho sức khỏe.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế gừng, rửa sạch, và bóc vỏ. Mình dùng dao thái cà nhẹ lên bề mặt gừng là tróc vỏ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Sau khi cạo vỏ, rửa sạch gừng. Để ráo, rồi cắt thành miếng mỏng như hình."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Ướp gừng với đường trong chảo dùng để sên mứt luôn cho tiện nhé. Thời gian ướp cỡ 2h30 phút cho đến khi đường gần tan hết thành nước gừng."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho chảo gừng lên bếp và bắt đầu sên mứt. Ban đầu thì mình sên bằng lửa to, cho đến khi cạn đi 1/3 nước gừng thì hạ lựa vừa. Nhớ đảo đều tay nhé. Nước gừng từ lỏng, chuyển sang keo dần."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Khi nước gừng keo sệt thì hạ lửa nhỏ liu riu, đảo đều cho đến khi đường kết tinh lại thành đường phấn bám đều lên từng miếng gừng. Chú ý ở công đoạn này lửa phải thật nhỏ, và đảo liên tục, không sẽ cháy nhé. Tắt bếp và tiếp tục đảo đều tay thêm vài phút nữa là được."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Vậy là ta đã thành công với món mứt gừng rồi."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/95e9153b43d8bce2/300x426f0.498821_0.5_1.0q80/m%E1%BB%A9t-g%E1%BB%ABng-nguyen-ch%E1%BA%A5t-recipe-main-photo.jpg"
+    ],
+    "calories": 601,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 56,
+    "name": "Cá nục hấp gừng, xả",
+    "prepTimeMin": 15,
+    "cookTimeMin": 40,
+    "createdAt": "27:18.1",
+    "updatedAt": "27:18.1",
+    "difficulty": "MEDIUM",
+    "description": "Cá nục hấp gừng sả với cá tươi thấm vị, thơm phức mùi gừng và sả lót dưới đáy chảo. Món ăn dân dã có thể ăn kèm cơm hoặc cuốn bánh tráng rau sống chấm mắm nêm cực kỳ hấp dẫn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá nục rửa sạch với muối và dấm, để ráo. Khứa trên mình cá, ướp cá với 1 thìa canh mắm, 1 thìa cf muối, 1/2 thìa canh đường, 1 thìa cf tiêu, 1 thìa cf bột ớt để 15 phút. Đập dập hành, sả, lót xuống đáy chảo, cho cá lên trên. Cho vào chảo 1 bát con nước sôi."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đậy vung cho lên bếp để nhỏ lửa, hấp cá trong 20-25 phút."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Hành lá, rau răm, thì là rửa sạch, cắt khúc, cho lên cá, đậy vung hấp thêm 1 phút rồi tắt bếp và thưởng thức. Cá này ăn với cơm hoặc cuốn bánh tráng, rau sống với mắm nêm đều ngon."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/cccfa93318a87645/300x426cq80/ca-n%E1%BB%A5c-h%E1%BA%A5p-g%E1%BB%ABng-x%E1%BA%A3-recipe-main-photo.jpg"
+    ],
+    "calories": 300,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 57,
+    "name": "Cà Tím Nướng Hành Lá",
+    "prepTimeMin": 5,
+    "cookTimeMin": 45,
+    "createdAt": "36:36.1",
+    "updatedAt": "36:36.1",
+    "difficulty": "MEDIUM",
+    "description": "Cà tím nướng hành lá với những thanh cà tím mềm thơm áo dầu hành lá nướng vàng đẹp mắt. Món chay đơn giản, đậm đà hương vị, ăn cùng cơm nóng và tương ớt thì cực kỳ hao cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cà tím rửa sạch, cắt thành từng thỏi dài bằng ngón tay. Ngâm qua nước muối pha chanh rồi vớt để ráo."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho cà tím vào khay rồi cho dầu ăn và hạt nêm vào trộn đều cho thấm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho hành lá vào trộn đều rồi cho vào lò nướng. Nướng 180 độ trong 25p."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Lấy ra và thưởng thức cùng cơm nóng. Khi ăn chấm kèm với tương ớt."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/4ca907b7ae078dcd/300x426f0.513395_0.5_1.0q80/sp0815-ca-tim-n%C6%B0%E1%BB%9Bng-hanh-la-recipe-main-photo.jpg"
+    ],
+    "calories": 154,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 58,
+    "name": "Đậu rán tẩm hành",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "42:48.9",
+    "updatedAt": "42:48.9",
+    "difficulty": "MEDIUM",
+    "description": "Đậu rán tẩm hành với đậu phụ rán vàng ngoài mềm trong, thấm đẫm nước mắm hành thơm phức. Món ăn dân dã quen thuộc trong bữa cơm miền Bắc, ngon nhất khi ăn nóng vừa rán xong.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đầu tiên chắc chắn là phải rán đậu rồi, rán vừa thôi nhé già quá sẽ bị khô và đậu sẽ không còn ngọt, ngậy nữa. \nTiếp theo mình thái thật nhỏ hành lá cho vào bát đã có sẵn nước mắm và nước lọc (lượng bằng nhau), thêm chút mì chính hoặc đường tuỳ khẩu vị và xíu hạt tiêu."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Ngay sau khi vừa gắp đậu ra khỏi chảo, nhúng luôn vào bát nước mắm vừa pha ở trên. Lật miếng đậu và lăn qua lăn lại 2 mặt khoảng 3-4 lần cho thật ngấm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Xếp ra đĩa và thưởng thức thôi, ăn nóng hổi luôn đậu sẽ rất thơm và ngậy nhé. Chúc mọi người thành công!"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/3215cf0cf1ddbea5/300x426f0.5_0.500105_1.0q80/d%E1%BA%ADu-ran-t%E1%BA%A9m-hanh-recipe-main-photo.jpg"
+    ],
+    "calories": 51,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 59,
+    "name": "Bánh khoai lang nướng",
+    "prepTimeMin": 5,
+    "cookTimeMin": 50,
+    "createdAt": "46:49.2",
+    "updatedAt": "46:49.2",
+    "difficulty": "MEDIUM",
+    "description": "Bánh khoai lang nướng với những lát khoai lang xếp lớp đẹp mắt, ướp trong hỗn hợp trứng sữa béo ngậy và bơ thơm. Món bánh ngọt thanh tự nhiên, không quá ngọt, phù hợp làm bữa sáng hay tráng miệng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế nguyên liệu \n- Khoai lang gọt vỏ, rồi thái lát vừa xong rửa với nước cho đi nhựa khoai thì lúc luộc sẽ không bị đen\n- Để khoai vào nồi rồi luộc chín 5 phút xong lấy ra để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Chuẩn bị hỗn hợp trứng-sữa \nĐể trứng + đường vào thố đựng rồi dùng phới đánh tan xong cho sữa tươi vào"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Chuẩn bị hỗn hợp trứng-sữa (tiếp theo)\nTiếp đến để bơ tan chảy vào rồi trộn đều, cuối cùng đến muối + bột mì, tất cả trộn cho các thành phần hòa quyện đến mịn"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Tạo hình bánh\n- Dùng khuôn tròn đường kính 18cm có lót giấy nến kiểu như hình rồi xếp khoai lang theo từng lớp \n- Sau đó cho hỗn hợp hợp trứng-sữa vào"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Nướng bánh\nNướng bánh 200*C trong 30 phút (làm nóng lò trước 10 phút)"
+      },
+      {
+        "title": "Bước 6",
+        "content": "Thành phẩm\nBánh ẩm không khô & có hương vị ngọt thanh từ khoai lang, thơm từ bơ sữa trứng nên rất ngon"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/2daa02c02a6912ce/300x426cq80/banh-khoai-lang-n%C6%B0%E1%BB%9Bng-recipe-main-photo.jpg"
+    ],
+    "calories": 355,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 60,
+    "name": "Sữa Hạt Sen Khoai Lang Tím",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "52:51.4",
+    "updatedAt": "52:51.4",
+    "difficulty": "MEDIUM",
+    "description": "Sữa hạt sen khoai lang tím sánh mịn với màu tím tự nhiên đẹp mắt, vị ngọt thanh và béo nhẹ. Thức uống bổ dưỡng giàu chất xơ, có thể uống ấm hay lạnh đều ngon, rất tốt cho giấc ngủ.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Khoai rửa sạch đất cát, gọt vỏ. Cắt khoanh hấp chín chung với hạt sen."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Thêm sen, khoai và sữa xay mịn. Rây qua rây thưa nếu bạn thích uống sữa còn chất xơ. Cho vào nồi nấu chớm sôi lại là được. Canh kĩ kẻo sữa trào."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rót ra ly dùng ấm hay để mát đều ngon. 🥰"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/9a4a03d5424b809b/300x426f0.5_0.532949_1.0q80/s%E1%BB%AFa-h%E1%BA%A1t-sen-khoai-lang-tim-recipe-main-photo.jpg"
+    ],
+    "calories": 466,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 61,
+    "name": "Khổ qua xào trứng",
+    "prepTimeMin": 5,
+    "cookTimeMin": 25,
+    "createdAt": "56:43.1",
+    "updatedAt": "56:43.1",
+    "difficulty": "MEDIUM",
+    "description": "Khổ qua xào trứng với khổ qua đắng nhẹ giòn xanh quyện cùng trứng vàng béo thơm. Món xào dân dã được người Việt ưa chuộng vì lành mạnh, giải nhiệt và rất bắt cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế : \n_ Khổ qua lấy sạch hạt, rửa sạch, cắt mỏng. Ngâm khổ qua vô thau nước muối loãng 5 phút rồi vớt ra,rửa lại với nước sạch, để ráo. \n_ Đập trứng gà ra chén, đánh đều \n_ Hành lá rửa sạch, cắt khúc."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho dầu ăn vô chảo, bắc lên bếp, dầu nóng cho hành tím băm vô phi thơm rồi đổ khổ qua vô xào, cho hạt nêm + đường + nước mắm + dầu hào vô xào cho vừa chín tới."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khổ qua vừa chín tới thì đổ trứng vô đảo đều. Xào cho đến khi trứng chín, nêm nếm vị vừa ăn rồi cho hành lá vô đảo đều, tắt bếp."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Múc khổ qua xào trứng ra đĩa, ăn với cơm nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/bfd7f0eb1dc8a2a1/680x781cq80/kh%E1%BB%95-qua-xao-tr%E1%BB%A9ng-recipe-main-photo.jpg"
+    ],
+    "calories": 216,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 62,
+    "name": "Canh Khổ Qua Sườn Heo",
+    "prepTimeMin": 5,
+    "cookTimeMin": 45,
+    "createdAt": "02:05.4",
+    "updatedAt": "02:05.4",
+    "difficulty": "MEDIUM",
+    "description": "Canh khổ qua sườn heo với sườn hầm mềm rục, khổ qua đắng nhẹ thanh mát trong nước canh ngọt thanh. Món canh truyền thống của người miền Nam, đặc biệt được chuộng trong dịp Tết.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Khổ qua bổ đôi dọc bỏ hột rồi cắt lát ngang hoặc bào theo kiểu nào tuỳ ý"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Sườn chặt khúc vừa ăn cho vào nồi nước sôi vài phút, hớt bọt rồi đậy nắp hầm 40 phút lửa nhỏ, nêm ít muối"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Sườn mềm cho khổ qua vào nấu thêm vài phút, nêm nếm vừa ăn"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho ra tô, thêm hành lá ngò rí và rắc ít tiêu xay."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/4b4e8d86ec00a65f/300x426f0.465217_0.5_1.0q80/canh-kh%E1%BB%95-qua-s%C6%B0%E1%BB%9Dn-heo-recipe-main-photo.jpg"
+    ],
+    "calories": 384,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 63,
+    "name": "Trứng chiên lá lốt",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "04:45.9",
+    "updatedAt": "04:45.9",
+    "difficulty": "MEDIUM",
+    "description": "Trứng chiên lá lốt với trứng vịt béo ngậy hòa quyện cùng lá lốt thơm nồng đặc trưng. Món ăn đơn giản nhanh gọn nhưng có hương vị độc đáo khó quên, rất bắt cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Lát lốt rửa sạch, thái thành sợ nhỏ"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Trứng vịt đập ra tô"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Trộn trứng và lát lốt vào tô, cho thêm gia vị, nước mắm, tiêu, bột ngọt, nêm vừa ăn"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho chảo lên bếp, bỏ ít mỡ hoặc dầu ăn, phi tỏi cho thơm, sau đó bỏ trứng vào chiên và thưởng thức"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a7c4f5cb82070623/300x426f0.421_0.5_1.0q80/tr%E1%BB%A9ng-chien-la-l%E1%BB%91t-recipe-main-photo.jpg"
+    ],
+    "calories": 321,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 64,
+    "name": "Bò Xào Hành Lá Lốt",
+    "prepTimeMin": 10,
+    "cookTimeMin": 10,
+    "createdAt": "09:32.4",
+    "updatedAt": "09:32.4",
+    "difficulty": "MEDIUM",
+    "description": "Bò xào hành lá lốt với thịt bò mềm ngọt thấm gia vị, thơm phức mùi lá lốt và hành lá tươi. Món xào nhanh trong 10 phút, đậm đà hương vị, là lựa chọn lý tưởng cho bữa cơm bận rộn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Làm nóng chảo cho dầu ăn và tỏi vào phi cho dậy mùi thơm, rồi cho thịt bò vào xào với gia vị"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Khi đã chín thì nêm nếm lại cho vừa khẩu vị, thả hành lá cắt khúc và lá lốt cắt nhỏ vào, đảo nhẹ tắt bếp."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rắc thêm ít tiêu xay, vậy là có thể ăn cùng cơm được rồi 😍😋"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/0db479e1972b535d/300x426f0.502029_0.5_1.0q80/bo-xao-hanh-la-l%E1%BB%91t-recipe-main-photo.jpg"
+    ],
+    "calories": 195,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 65,
+    "name": "Chân gà kho mặn ngọt",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "13:42.7",
+    "updatedAt": "13:42.7",
+    "difficulty": "MEDIUM",
+    "description": "Chân gà kho mặn ngọt với chân gà mềm dai thấm vị, áo lớp nước kho nâu bóng đẹp mắt và thơm tỏi phi. Món ăn vặt hay ăn cơm đều ngon, vị mặn ngọt cân bằng rất dễ gây nghiện.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chân gà bóp muối gừng rửa sạch cho bớt mùi, ướp với ít nước màu, 1mc nước tương, 1mcf đường, ít hạt nêm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Phi thơm đầu hành, cho chân gà vào đảo đều cho săn lại thì thêm một chén nước, 1mc nước tương, thêm ít đường, kho lửa nhỏ cho chân gà mềm, cuối cùng thêm hành lá cắt nhỏ"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Gắp ra dĩa, thêm ít tiêu xay và tỏi phi"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/8a78edd62c34734d/300x426f0.5_0.5_1.0q80/chan-ga-kho-m%E1%BA%B7n-ng%E1%BB%8Dt-recipe-main-photo.jpg"
+    ],
+    "calories": 529,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 66,
+    "name": "Chân gà hầm khoai sọ",
+    "prepTimeMin": 5,
+    "cookTimeMin": 60,
+    "createdAt": "17:58.3",
+    "updatedAt": "17:58.3",
+    "difficulty": "MEDIUM",
+    "description": "Chân gà hầm khoai sọ với chân gà mềm dai và khoai sọ bở bùi trong nước canh ngọt thanh, thơm mùi gừng. Món canh bổ dưỡng ấm bụng, đặc biệt tốt cho xương khớp và làn da.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Rửa chân gà, chặt làm 2. Gọt khoai sọ, cắt khúc vừa ăn, không quá to, không quá nhỏ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nấu nước sôi trên nồi. Thả hành tím băm vào, 1-2 lát gừng cho thơm nước. Thả chân gà vào hầm trước. Thêm chút muối."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Tầm 20ph sau, thả khoai sọ vào. Hầm mềm cả khoai và chân gà. Nếu có thời gian thì hầm lâu xíu 45ph. Nêm nếm gia vị, hành lá...Món canh hầm thơm ngọt, bổ dưỡng đã xong."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/216056eed0d879d5/300x426f0.5_0.5_1.0q80/chan-ga-h%E1%BA%A7m-khoai-s%E1%BB%8D-recipe-main-photo.jpg"
+    ],
+    "calories": 672,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 67,
+    "name": "Sinh Tố Lê Cà Rốt",
+    "prepTimeMin": 30,
+    "cookTimeMin": 5,
+    "createdAt": "21:06.8",
+    "updatedAt": "21:06.8",
+    "difficulty": "EASY",
+    "description": "Sinh tố lê cà rốt với vị ngọt thanh từ lê và cà rốt tươi mát, hòa quyện cùng sữa béo mịn. Thức uống bổ dưỡng giàu vitamin, không cần đá viên vẫn mát lạnh nhờ ngâm nguyên liệu lạnh trước.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Lê, cà rốt và sữa tươi để tủ lạnh trước 30 phút cho mát lạnh rồi chế biến, vậy ta sẽ không cần phải thêm đá viên để tạo độ lạnh cho món uống"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cắt trái lê và cà rốt đã lạnh vào cối xay"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho sữa tươi vào và xay mịn"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Rót ra cốc trang trí thêm ít hạt chia và thưởng thức mát lạnh"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a3a3efcbd572f964/300x426cq80/sinh-t%E1%BB%91-le-ca-r%E1%BB%91t-recipe-main-photo.jpg"
+    ],
+    "calories": 274,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 68,
+    "name": "Chè lê măng cụt",
+    "prepTimeMin": 5,
+    "cookTimeMin": 60,
+    "createdAt": "24:14.0",
+    "updatedAt": "24:14.0",
+    "difficulty": "MEDIUM",
+    "description": "Chè lê măng cụt thanh tao với lê giòn ngọt và măng cụt thơm béo trong nước đường phèn trong vắt. Món chè độc đáo lạ miệng, vừa giải nhiệt vừa bổ dưỡng, có thể ăn nóng hoặc lạnh.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Lê gọt sạch vỏ, bỏ hạt, cắt hạt lựu. Măng cụt bóc vỏ, ngâm với chút đường cát trắng."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Đun 450ml nước đến khi sôi thì cho đường phèn vào khuấy đều cho tan."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thả lê vào, đun lửa nhỏ khoảng 30 phút cho ngấm đường, hớt bọt liên tục để nước trong."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Khi gần tắt bếp, cho phần măng cụt vào đun cùng khoảng 5 phút, sau đó múc chè ra bát, thả vỏ quýt lên trang trí. Có thể ăn nóng hoặc lạnh tuỳ ý."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/8c201498d47f0c47/300x426f0.679407_0.5_1.0q80/che-le-mang-c%E1%BB%A5t-recipe-main-photo.jpg"
+    ],
+    "calories": 745,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 69,
+    "name": "Thịt ba chỉ xốt mận",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "29:08.1",
+    "updatedAt": "29:08.1",
+    "difficulty": "MEDIUM",
+    "description": "Thịt ba chỉ xốt mận với thịt chiên vàng giòn áo lớp sốt mận chua ngọt độc đáo, thơm mùi hành tỏi phi. Món ăn lạ miệng tận dụng mùa mận, hương vị chua ngọt cân bằng rất bắt cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Mận gọt bỏ bỏ hạt. Cho mắm, đường, 1 chút nước vào xay nhuyễn mận. (nếm thấy vị chua ngọt, điều chỉnh mắm đường theo khẩu vị đầu bếp)"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Thịt ba chỉ bỏ bì cắt con chì. 1 cup dầu ăn làm nóng già. Cho thịt vào đảo chín vàng (lửa to)"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Hành tỏi khô băm nhỏ. Thêm chút dầu ăn vào phi thơm. Cho sốt mận đun sền sệt. Đổ thịt đã chiên vào đảo đều. Tắt bếp rắc hành tươi. Cách khác. Đổ thịt đã chiên cho thêm tẹo nước. Đun lửa to 5 phút như vậy thịt sẽ ngấm vị sốt hơn là cách đầu tiên áo lớp sốt bên ngoài"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/85f4ecd61258c128/300x426cq80/th%E1%BB%8Bt-ba-ch%E1%BB%89-x%E1%BB%91t-m%E1%BA%ADn-h%E1%BA%ADu-recipe-main-photo.jpg"
+    ],
+    "calories": 409,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 70,
+    "name": "Mứt mận bắc",
+    "prepTimeMin": 15,
+    "cookTimeMin": 300,
+    "createdAt": "35:07.2",
+    "updatedAt": "35:07.2",
+    "difficulty": "MEDIUM",
+    "description": "Mứt mận bắc dẻo ngọt thấm vị gừng cay nhẹ, được sên kỹ và sấy khô để bảo quản lâu. Món mứt truyền thống miền Bắc thường xuất hiện trong dịp Tết, vừa thơm ngon vừa giàu hương vị.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Rửa sạch mận, ngâm muối tầm 30 phút. Sau đó vớt ra để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Dùng dao khứa nhiều đường sâu xung quanh quả mận và ngâm trong nước vôi qua đêm (hơn 4 tiếng là đc)"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Vớt mận ra rửa sạch, để ráo nước. Ngâm mận với đường."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Đợi đến khi đường tan hết, cho lên bếp sên đến khi đặc lại và lấy mận ra. Lấy gừng đã giã thành sợi nhỏ cho vào nước còn lại của mận. Sên cho cạn."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cho vào nồi chiên ko dầu sấy ở 80°C khoảng 30phút. Làm đến khi thấy mứt khô lại thì dừng"
+      },
+      {
+        "title": "Bước 6",
+        "content": "Cho vào hũ. Bảo quản trong tủ lạnh"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/b1dfe5d1e3e0dbbe/300x426cq80/m%E1%BB%A9t-m%E1%BA%ADn-b%E1%BA%AFc-recipe-main-photo.jpg"
+    ],
+    "calories": 357,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 71,
+    "name": "Canh Khoai Môn Nấu Nấm Rơm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "createdAt": "37:57.3",
+    "updatedAt": "37:57.3",
+    "difficulty": "MEDIUM",
+    "description": "Canh khoai môn nấu nấm rơm với khoai môn bở mềm và nấm rơm dai ngọt trong nước canh thanh trong. Món canh chay nhẹ nhàng, dễ nấu chỉ trong 15 phút, thơm mùi rau mùi cuối nồi.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nấm rơm tươi phơi nắng hoặc sấy lò cho khô, rửa sạch."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Khoai môn gọt vỏ, rửa sạch, cắt miếng vừa ăn."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đun sôi nước, cho nấm rơm vào nấu 10 phút, nêm muối."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Kế tiếp cho khoai khoai môn vào nồi, nêm hạt nêm, nấu đến khi khoai mềm. Để khoai không nát, chúng ta nên hầm lửa nhỏ, không khuấy đảo trong suốt quá trình nấu, khoai vừa mềm là tắt bếp."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Tắt bếp, cho rau mùi ta (hoặc ngò gai) vào, dùng nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/d5f2e61da3fd0617/300x426f0.534559_0.5_1.0q80/canh-khoai-mon-n%E1%BA%A5u-n%E1%BA%A5m-r%C6%A1m-recipe-main-photo.jpg"
+    ],
+    "calories": 144,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 72,
+    "name": "Vịt nấu khoai môn",
+    "prepTimeMin": 5,
+    "cookTimeMin": 60,
+    "createdAt": "42:38.1",
+    "updatedAt": "42:38.1",
+    "difficulty": "HARD",
+    "description": "Vịt nấu khoai môn với thịt vịt mềm thấm vị và khoai môn chiên vàng bùi bùi, ăn cùng bún và rau muống nhúng. Món lẩu đậm đà chiêu đãi gia đình, chấm với nước mắm gừng cay nồng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Sơ chế :\n_ Vịt rửa kỹ với muối + 25gram gừng + rượu trắng rồi rửa lại với nước sạch, để ráo. Chặt miếng vừa ăn. Cho thịt vịt vô nồi sạch, cho vô 1MC hạt nêm + 1MC đường + 2MC nước mắm + 1MC hành tím băm + 25gram gừng đập dập, đảo đều rồi để ướp 30 phút. \n_ Khoai môn gọt sạch vỏ, rửa sạch, để ráo rồi cắt khối. \n_ Hành lá rửa sạch, cắt khúc ngắn \n_ Rau muống rửa sạch, để ráo"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho vô nồi 2MC dầu ăn, bắc lên bếp, dầu nóng cho hành tím băm vô phi thơm rồi đổ thịt vịt vô xào trên lửa lớn cho săn lại."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đổ vô nồi thịt vịt 2 lít nước, cho vô 1MC hạt nêm + 2MC đường + 2 MC nước mắm nấu 20 phút cho thịt vịt mềm."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Trong lúc nấu thịt vịt thì bắc lên bếp khác 1 chảo dầu, dầu nóng đổ khoai môn vô chiên vàng, vớt ra để ráo dầu."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Sau khi nấu vịt được 20 phút thì đổ khoai môn vô nấu thêm 10 phút cho khoai mềm, nêm nếm vị vừa ăn rồi tắt bếp"
+      },
+      {
+        "title": "Bước 6",
+        "content": "Múc vịt nấu khoai môn vô nồi lẩu, cho hành lá vô bắc lên bếp cồn nấu lại cho sôi rồi nhúng rau muống vô. \n_ Lấy bún cho vô chén (tô) cho thịt vịt + khoai môn + rau muống vô tô, chan nước dùng rồi thưởng thức thôi. Chấm thịt vịt với nước mắm gừng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/5b829ef935275c10/300x426cq80/v%E1%BB%8Bt-n%E1%BA%A5u-khoai-mon-recipe-main-photo.jpg"
+    ],
+    "calories": 885,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 73,
+    "name": "Rau Mồng Tơi Xào",
+    "prepTimeMin": 5,
+    "cookTimeMin": 5,
+    "createdAt": "47:22.3",
+    "updatedAt": "47:22.3",
+    "difficulty": "EASY",
+    "description": "Rau mồng tơi xào với rau xanh giòn mát, được trụng qua nước sôi giữ màu đẹp mắt rồi xào nhanh trên lửa lớn. Món rau xào đơn giản chỉ 5 phút, giải nhiệt và bổ dưỡng cho ngày hè.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nhặt và rửa sạch rau mồng tơi."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Trụng rau mồng tơi trong nước sôi 1 phút, vớt ra xả nước lạnh, để ráo."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Làm nóng dầu ăn trên chảo, cho rau mồng tơi vào xào với lửa hơi lớn, rắc hạt nêm lên, đảo đều và tiếp tục xào khoảng 1 phút thì tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/419b1dd61bb4abc1/300x426f0.469424_0.5_1.0q80/rau-m%E1%BB%93ng-t%C6%A1i-xao-recipe-main-photo.jpg"
+    ],
+    "calories": 95,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 74,
+    "name": "Canh rau mồng tơi nấu hến",
+    "prepTimeMin": 5,
+    "cookTimeMin": 25,
+    "createdAt": "52:55.3",
+    "updatedAt": "52:55.3",
+    "difficulty": "MEDIUM",
+    "description": "Canh rau mồng tơi nấu hến với rau xanh mướt, thịt hến béo ngọt trong nước canh trong vắt thanh tao. Món canh giải nhiệt mùa hè, ăn kèm cơm nóng và cà pháo mắm tôm là chuẩn vị quê nhà.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nguyên liệu \n- Rau mồng tơi lặt bỏ lá úa già & sâu rồi ngâm rửa qua nước muối loãng\n- Hến lặt bỏ mài, vỏ còn sót lại của hến rồi để vào tô cùng: hành tím cắt lát + 1/2 muỗng cafe muối + 1 muỗng cafe hạt nêm + 1 muỗng cafe bột ngọt + 1/3 muỗng tiêu & dầu ăn trộn đều, ướp 10 phút"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Nấu canh\nCho 700ml nước lọc vào nồi, nước sôi để tô hến đã ướp vào & nấu sôi thêm 5 phút nữa, lúc này nêm nếm lại gia vị mới cho rau mồng tơi vào, nước canh sôi thì tắt bếp"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thành phẩm \nRau mồng tơi xanh mướt, thịt hến béo ngọt, nước canh trong với vị ngọt thanh... Ăn kèm cơm nóng cùng cà pháo mắm tôm rất ngon luôn"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a2ae3b66da10fdf1/300x426cq80/canh-rau-m%E1%BB%93ng-t%C6%A1i-n%E1%BA%A5u-h%E1%BA%BFn-recipe-main-photo.jpg"
+    ],
+    "calories": 190,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 75,
+    "name": "Canh mướp nấu chân gà",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "57:04.3",
+    "updatedAt": "57:04.3",
+    "difficulty": "MEDIUM",
+    "description": "Canh mướp nấu chân gà với chân gà hầm mềm và mướp ngọt mát, nước canh trong vắt thơm tiêu xay. Món canh bổ dưỡng, thanh nhiệt, lại ngon ngọt tự nhiên không cần nhiều gia vị.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chân gà bóp muối giấm rửa sạch, trụng qua và cho vào nồi 1,5l nước, hầm chân gà cho mềm với 1,5mcf muối và ít hạt nêm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Mướp gọt vỏ, cắt xéo"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khoảng 20 phút thì chân gà mềm, cho mướp vào nấu thêm 2 phút thì tắt bếp, thêm hành lá và tiêu xay"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/76cc28b26889ca8c/300x426f0.5_0.5_1.0q80/canh-m%C6%B0%E1%BB%9Bp-n%E1%BA%A5u-chan-ga-recipe-main-photo.jpg"
+    ],
+    "calories": 572,
+    "isDeleted": false,
+    "type": "VEGETABLE"
+  },
+  {
+    "id": 76,
+    "name": "Mướp khía xào bò",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "03:33.6",
+    "updatedAt": "03:33.6",
+    "difficulty": "MEDIUM",
+    "description": "Mướp khía xào bò với thịt bò mềm ngọt và mướp khía xanh giòn ngọt nước, thơm tỏi phi và hành lá. Món xào nhanh gọn, đầy đủ dinh dưỡng, rất hợp cho bữa cơm gia đình ngày bận rộn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ướp thịt bò với hạt nêm 10p"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Mướp khía bào bỏ, rửa sạch, cắt khúc."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Bắt chảo dầu nóng, phi tỏi, cho thịt bò vào xào, thịt săn lại thì cho mướp, nêm nếm gia vị vừa miệng, hỗn hợp chín thì cho hành lá, tiêu vào."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/5adf54b66ed8b124/300x426cq80/m%C6%B0%E1%BB%9Bp-khia-xao-bo-recipe-main-photo.jpg"
+    ],
+    "calories": 183,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 77,
+    "name": "Bò Xào Nấm Kim Châm",
+    "prepTimeMin": 15,
+    "cookTimeMin": 15,
+    "createdAt": "09:40.7",
+    "updatedAt": "09:40.7",
+    "difficulty": "MEDIUM",
+    "description": "Bò xào nấm kim châm với thịt bò mềm thấm vị xì dầu, nấm kim châm dai giòn và hành tây thơm ngọt. Món xào hấp dẫn ăn kèm chén xì dầu dầm ớt, rất bắt cơm và nhanh gọn.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chuẩn bị các nguyên liệu sẵn sàng sạch sẽ để ráo. Nấm kim châm ngâm nước muối pha loãng để 15 phút rửa lại cho sạch. Thịt bò ướp với gia vị: tỏi, dầu hào, tiêu, muối, xì dầu."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng chảo cho dầu ăn và tỏi giã dập vào phi cho dậy mùi thơm. Rồi cho thịt bò và nấm vào xào chín tới, rồi cho hành tây cắt múi cau vào. Xào chín nêm nếm lại cho vừa khẩu vị"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Rồi cho hành ngò cắt khúc vào"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Múc bò xào nấm kim châm ra dĩa, kèm chén xì dầu dầm ớt."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/0943270eabd7d719/300x426f0.5_0.5_1.0q80/bo-xao-n%E1%BA%A5m-kim-cham-recipe-main-photo.jpg"
+    ],
+    "calories": 363,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 78,
+    "name": "Nấm Kim Châm Cuộn Rong Biển Chiên Xù",
+    "prepTimeMin": 5,
+    "cookTimeMin": 30,
+    "createdAt": "14:24.6",
+    "updatedAt": "14:24.6",
+    "difficulty": "MEDIUM",
+    "description": "Nấm kim châm cuộn rong biển chiên xù với nấm dai ngọt cuốn trong rong biển mặn nhẹ, áo lớp bột chiên xù vàng giòn rụm. Món ăn vặt độc đáo chấm cùng tương ớt, ngon nhất khi còn nóng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Nấm kim châm cắt chân, ngâm nước muối loãng rồi vớt ráo.\nRong biển một miếng to mình cắt được 6 miếng nhỏ, rồi cuốn quanh nấm"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cuốn lần lượt sẽ được một đĩa như này"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Đập 2 trái trứng gà ra đĩa lòng sâu, nêm 1 xíu bột canh rồi quấy đều.\nĐổ bột chiên xù ra một chiếc đĩa khác."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Lấy nấm quệt vào trứng rồi vào bột chiên xù."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Chờ dầu trong chảo sôi, cho nấm vào chiên"
+      },
+      {
+        "title": "Bước 6",
+        "content": "Chiên lần lượt sẽ được thành phẩm như này đây. Món này ăn nóng khi nấm còn giòn thì rất ngon. có thể chấm kèm với tương ớt."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/9dd9cb82407e881d/300x426f0.5_0.528797_1.0q80/n%E1%BA%A5m-kim-cham-cu%E1%BB%99n-rong-bi%E1%BB%83n-chien-xu-recipe-main-photo.jpg"
+    ],
+    "calories": 588,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 79,
+    "name": "Nấm rơm hạt điều kho tiêu",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "createdAt": "17:41.5",
+    "updatedAt": "17:41.5",
+    "difficulty": "MEDIUM",
+    "description": "Nấm rơm hạt điều kho tiêu với nấm rơm dai ngọt và hạt điều bùi giòn trong nước kho mặn ngọt cay nhẹ. Món chay đậm đà thơm mùi tiêu hạt, rất đưa cơm và bổ dưỡng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đun sôi dầu, thả hạt điều vào chiên hơi vàng 1 chút. Không cần quá đậm màu."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Vớt hạt điều ra ngoài. Mình bỏ hành vào phi thơm, thả nấm rơm đã sơ chế (cắt chân, trần sơ, ngân nước lạnh rồi để ráo) đảo chút cho săn. Rồi thêm mắm, đường, tiêu hạt, (nếu ăn cay thì thêm ớt sẽ ngon hơn đó) và một chút nước vào kho lửa vừa."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Khi nồi nấm bắt đầu kẹo lại, bỏ hạt điều vào đảo cùng. Tới khi nấm và điều kẹo thì thả hành thái vào là xong."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/fa06512d8eaba39c/300x426f0.5_0.502381_1.0q80/n%E1%BA%A5m-r%C6%A1m-h%E1%BA%A1t-di%E1%BB%81u-kho-tieu-recipe-main-photo.jpg"
+    ],
+    "calories": 215,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 80,
+    "name": "Canh Hẹ, Đậu Hũ Trứng Nấu Nấm Rơm",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "26:30.1",
+    "updatedAt": "26:30.1",
+    "difficulty": "MEDIUM",
+    "description": "Canh hẹ đậu hũ trứng nấu nấm rơm với hẹ xanh thơm, đậu hũ trứng béo mịn và nấm rơm dai ngọt trong nước canh thanh trong. Món canh chay nhẹ nhàng, hoàn hảo cho bữa cơm gia đình ấm cúng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Đậu hũ xắt lát mỏng… Hẹ rửa sạch xắt khúc ngắn… Nấm rơm rửa sạch, cắt gốc, xắt nhỏ."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho dầu ăn vô nồi. Khi dầu nóng, ta cho nấm vô xài trên lửa lớn… Nấm vừa mềm, ta hạ lửa nhỏ và cho vô đó: hạt nêm + bột ngọt. Đảo đều cho nấm thấm gia vị."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho vô nồi 1 lít nước, nấu lửa vừa. Khi nước sôi, ta thả đậu hũ trứng vô. Cho thêm vô nồi canh 1tsp đường. Khi nước sôi lên, ta thả hẹ vô rồi đảo nhanh…"
+      },
+      {
+        "title": "Bước 4",
+        "content": "Lá hẹ vừa chuyển màu đậm, ta tắt bếp. Cho vô nồi 1tsp dầu mè + 1/4tsp tiêu rồi múc canh ra tô thưởng thức với cơm nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/2ad6b117678be8b6/300x426f0.500144_0.5_1.0q80/canh-h%E1%BA%B9-d%E1%BA%ADu-hu-tr%E1%BB%A9ng-n%E1%BA%A5u-n%E1%BA%A5m-r%C6%A1m-recipe-main-photo.jpg"
+    ],
+    "calories": 303,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 81,
+    "name": "Cá Bống Kho Nghệ",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "createdAt": "13:25.2",
+    "updatedAt": "13:25.2",
+    "difficulty": "MEDIUM",
+    "description": "Cá bống kho nghệ với cá bống vàng óng ánh nghệ, thịt săn chắc thấm đẫm vị mặn cay nồng. Món kho dân dã đặc trưng miền Trung, có vị đậm đà khó cưỡng và rất bắt cơm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá bống làm sạch, để ráo. Nghệ xay nhỏ, tỏi đập dập, ớt cắt lát."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Ướp cá với nghệ, nước mắm, đường, tiêu, tỏi, ớt trong 20 phút."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho cá vào nồi, thêm dầu ăn hoặc mỡ, kho lửa nhỏ đến khi sôi nhẹ."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Tắt bếp, để cá nghỉ 30 phút cho thấm vị."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Bật bếp kho tiếp lửa nhỏ đến khi nước kho sệt lại, cá vàng óng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/c3194b25c6afd81e/300x426cq80/ca-b%E1%BB%91ng-kho-ngh%E1%BB%87-recipe-main-photo.jpg"
+    ],
+    "calories": 242,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 82,
+    "name": "Cá Basa Nướng Muối Sả Nghệ",
+    "prepTimeMin": 10,
+    "cookTimeMin": 40,
+    "createdAt": "18:01.7",
+    "updatedAt": "18:01.7",
+    "difficulty": "MEDIUM",
+    "description": "Cá basa nướng muối sả nghệ với cá thấm vị mặn vàng đẹp mắt, thơm phức mùi sả nghệ tỏi đặc trưng. Món nướng làm bằng nồi chiên không dầu nên ít dầu mỡ, lành mạnh cho sức khỏe.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá làm sạch để ráo và thấm khô."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Khuấy đều dầu ăn, muối hồng, bột nghệ, sả băm, tỏi băm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Thoa đều lên 2 mặt của khứa cá. Xoa đều cho gia vị được thấm. Để nghỉ 10p."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Xếp cá vào khuôn giấy rồi cho vào nồi chiên nướng chín vàng. Nướng 200 độ trong 30p. Mỗi mặt nướng 15p"
+      },
+      {
+        "title": "Bước 5",
+        "content": "Khi cá chín để yên trong lò thêm 5p nữa rồi mới lấy ra khỏi lò. Gắp ra dĩa và thưởng thức."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/a567d827cf5e4146/300x426f0.51338_0.49982_1.0q80/sp0823-ca-basa-n%C6%B0%E1%BB%9Bng-mu%E1%BB%91i-s%E1%BA%A3-ngh%E1%BB%87-recipe-main-photo.jpg"
+    ],
+    "calories": 235,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 83,
+    "name": "Ốc Bưu Xào Sả Ớt",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "createdAt": "23:42.7",
+    "updatedAt": "23:42.7",
+    "difficulty": "MEDIUM",
+    "description": "Ốc bưu xào sả ớt với ốc tươi giòn ngọt thấm đẫm sả ớt cay nồng, thơm phức mùi cà ri đặc trưng. Món ăn nhậu khoái khẩu của những ai mê vị cay, ngon nhất khi ăn nóng cùng nước chấm.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Trộn ốc với muối, gừng, bóp đều rồi xả nước đến khi nước trong."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Ướp ốc với hạt nêm, đường, tiêu, bột tỏi, bột sả, nước mắm, 3 tbsp sả băm trong 15 phút."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Làm nóng chảo, cho dầu ăn và 3 tbsp sả băm vào xào lửa vừa cho thơm."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Thêm tỏi băm, hành tím băm, bột cà ri vào xào tiếp đến khi dậy mùi."
+      },
+      {
+        "title": "Bước 5",
+        "content": "Cho ốc đã ướp vào xào lửa vừa 2-3 phút, ốc ra nước."
+      },
+      {
+        "title": "Bước 6",
+        "content": "Nêm lại với đường, nước mắm cho vị hơi ngọt nhẹ và mặn mặn."
+      },
+      {
+        "title": "Bước 7",
+        "content": "Xào đến khi nước hơi cạn, cho tiếp 3 tbsp sả băm, 3 tbsp ớt băm, đảo đều 1 phút rồi tắt bếp."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/bc7d41ee11fb939a/300x426f0.5_0.50028_1.0q80/%E1%BB%91c-b%C6%B0u-xao-s%E1%BA%A3-%E1%BB%9Bt-recipe-main-photo.jpg"
+    ],
+    "calories": 468,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 84,
+    "name": "Cá nục chuối kho ớt hiểm",
+    "prepTimeMin": 10,
+    "cookTimeMin": 60,
+    "createdAt": "33:34.5",
+    "updatedAt": "33:34.5",
+    "difficulty": "MEDIUM",
+    "description": "Cá nục chuối kho ớt hiểm với cá kho mềm thấm vị mặn cay đặc trưng, thơm mùi hành tím phi. Món kho dân dã đậm đà, ăn cùng cơm nóng chan chút nước kho thì còn gì bằng.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Cá nục làm sạch ruột, rửa rồi ướp với nước mắm."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Cho nồi lên bếp, tao thìa dầu với hành tím, cho ớt bột vào, cho vào một chén nước, 1 vá mắm, ớt hiểm, đợi nước sôi thì cho cá vào, hạ nhỏ lửa, nêm nước cá vừa ăn chưa, sôi khoảng 15 phút thì tắt bếp."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Gắp cá ra dĩa, chan thêm nước, ăn với cơm nóng."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/c19b1e03a1830eca/300x426cq80/ca-n%E1%BB%A5c-chu%E1%BB%91i-kho-%E1%BB%9Bt-hi%E1%BB%83m-recipe-main-photo.jpg"
+    ],
+    "calories": 295,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  },
+  {
+    "id": 85,
+    "name": "Soup ớt chuông",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "createdAt": "38:30.9",
+    "updatedAt": "38:30.9",
+    "difficulty": "EASY",
+    "description": "Soup ớt chuông với màu cam đỏ rực rỡ, vị ngọt tự nhiên từ ớt chuông nướng và khoai tây hành tây hầm mềm. Món soup chay tinh tế thơm mùi olive, vừa đẹp mắt vừa giàu vitamin.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Ớt chuông bỏ sạch uống và hạt. Nướng ớt: Cho ớt chuông vào khay, để mặt có vỏ lên trên, chỉ nướng mặt có vỏ. Cách này giúp dễ bóc vỏ ớt. Các bạn nướng ở nhiệt độ vừa phải không quá cao - dễ cháy nhưng thấp quá ớt bị khô. Sau khi nướng xong các bạn lột sạch vỏ ớt chuông."
+      },
+      {
+        "title": "Bước 2",
+        "content": "Khoai tây sau khi sơ chế sạch, cắt khúc. Hành tây cũng cắt miếng. Xào chung 2 nguyên liệu này với bơ. Sau đó cho nước vào hầm đến khi mềm."
+      },
+      {
+        "title": "Bước 3",
+        "content": "Sau đó cho các nguyên liệu vào xay thật nhỏ cùng 600ml nước."
+      },
+      {
+        "title": "Bước 4",
+        "content": "Cho hỗn hợp vừa xay vào nồi nấu nhỏ lửa, khuấy đều để tránh bị cháy nồi. Nếu thấy xúp đặc có thể cho thêm một chút nước. Nêm muối vừa ăn, có thể thêm một chút xíu dầu ôliu nếu thích."
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/481b9ceb46cab8b0/300x426f0.48104_0.5_1.0q80/soup-%E1%BB%9Bt-chuong-recipe-main-photo.jpg"
+    ],
+    "calories": 148,
+    "isDeleted": false,
+    "type": "SOUP"
+  },
+  {
+    "id": 86,
+    "name": "Nấm Xào Ớt Chuông Đậu Hà Lan",
+    "prepTimeMin": 15,
+    "cookTimeMin": 15,
+    "createdAt": "41:21.0",
+    "updatedAt": "41:21.0",
+    "difficulty": "MEDIUM",
+    "description": "Nấm xào ớt chuông đậu Hà Lan với nấm rơm dai ngọt, ớt chuông giòn nhiều màu và đậu Hà Lan tươi xanh. Món chay nhiều màu sắc đẹp mắt, dinh dưỡng cao và rất dễ làm cho bữa cơm gia đình.",
+    "instructions": [
+      {
+        "title": "Bước 1",
+        "content": "Chuẩn bị các nguyên liệu sẵn sàng sạch sẽ để ráo, nấm rơm gọt rửa và ngâm nước muối pha loãng để 15 phút rồi rửa lại cho sạch sẽ"
+      },
+      {
+        "title": "Bước 2",
+        "content": "Làm nóng chảo cho dầu ăn vào đợi sôi lên thì cho nấm rơm vào xào chín, nêm 1 ít muối hồng và cho ớt chuông và đậu hà lan vào. Tuỳ vào sở thích ăn chín mềm hay giòn mà thời nấu bạn điều chỉnh nhé!"
+      },
+      {
+        "title": "Bước 3",
+        "content": "Cho ra dĩa rắc thêm ít tiêu xay và trang trí thêm lá ngò rí"
+      }
+    ],
+    "images": [
+      "https://img-global.cpcdn.com/recipes/d29d7e367739881a/300x426f0.5_0.500659_1.0q80/n%E1%BA%A5m-xao-%E1%BB%9Bt-chuong-d%E1%BA%ADu-ha-lan-recipe-main-photo.jpg"
+    ],
+    "calories": 239,
+    "isDeleted": false,
+    "type": "MAIN_DISH"
+  }
+]

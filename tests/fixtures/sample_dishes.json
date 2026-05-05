@@ -1,0 +1,16 @@
+[
+  { "id": 101, "name": "Cơm thịt heo",    "type": "MAIN_DISH", "calories": 550 },
+  { "id": 102, "name": "Trứng chiên",     "type": "MAIN_DISH", "calories": 220 },
+  { "id": 103, "name": "Cá basa kho",     "type": "MAIN_DISH", "calories": 380 },
+  { "id": 104, "name": "Cơm trứng",       "type": "MAIN_DISH", "calories": 500 },
+  { "id": 105, "name": "Thịt kho trứng",  "type": "MAIN_DISH", "calories": 480 },
+  { "id": 106, "name": "Cá hấp",          "type": "MAIN_DISH", "calories": 300 },
+  { "id": 201, "name": "Canh bí đỏ",      "type": "SOUP",      "calories": 120 },
+  { "id": 202, "name": "Canh rau muống",  "type": "SOUP",      "calories": 90 },
+  { "id": 203, "name": "Canh cá",         "type": "SOUP",      "calories": 150 },
+  { "id": 204, "name": "Canh trứng",      "type": "SOUP",      "calories": 110 },
+  { "id": 301, "name": "Rau muống luộc",  "type": "VEGETABLE", "calories": 50 },
+  { "id": 302, "name": "Bí đỏ hấp",       "type": "VEGETABLE", "calories": 60 },
+  { "id": 303, "name": "Rau muống xào",   "type": "VEGETABLE", "calories": 90 },
+  { "id": 304, "name": "Salad rau",       "type": "VEGETABLE", "calories": 70 }
+]

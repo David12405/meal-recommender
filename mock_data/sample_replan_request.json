@@ -1,0 +1,182 @@
+{
+  "userId": "demo_user_001",
+  "tdee": 1850,
+  "weight": 68,
+  "goal": {
+    "targetKg": -0.3
+  },
+  "mealStructure": {
+    "breakfast": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 1
+    },
+    "lunch": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    },
+    "dinner": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    }
+  },
+  "planDays": 5,
+  "startDate": "2026-04-27T00:00:00.000Z",
+  "recentMealLog": [],
+  "fridge": [
+    {
+      "ingredientId": 1,
+      "quantity": 400,
+      "unit": "GAM",
+      "dueDate": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 6,
+      "quantity": 10,
+      "unit": "NUMBER",
+      "dueDate": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 10,
+      "quantity": 500,
+      "unit": "GAM",
+      "dueDate": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "ingredientId": 17,
+      "quantity": 300,
+      "unit": "GAM",
+      "dueDate": "2026-04-29T00:00:00.000Z"
+    }
+  ],
+  "lockedPicks": [
+    {
+      "day": 1,
+      "meal": "breakfast",
+      "role": "MAINDISH",
+      "dishId": 401
+    },
+    {
+      "day": 1,
+      "meal": "breakfast",
+      "role": "VEGETABLE",
+      "dishId": 304
+    },
+    {
+      "day": 1,
+      "meal": "lunch",
+      "role": "MAINDISH",
+      "dishId": 101
+    },
+    {
+      "day": 1,
+      "meal": "lunch",
+      "role": "SOUP",
+      "dishId": 201
+    },
+    {
+      "day": 1,
+      "meal": "lunch",
+      "role": "VEGETABLE",
+      "dishId": 301
+    },
+    {
+      "day": 1,
+      "meal": "dinner",
+      "role": "MAINDISH",
+      "dishId": 104
+    },
+    {
+      "day": 1,
+      "meal": "dinner",
+      "role": "SOUP",
+      "dishId": 204
+    },
+    {
+      "day": 1,
+      "meal": "dinner",
+      "role": "VEGETABLE",
+      "dishId": 303
+    },
+    {
+      "day": 2,
+      "meal": "breakfast",
+      "role": "MAINDISH",
+      "dishId": 403
+    },
+    {
+      "day": 2,
+      "meal": "breakfast",
+      "role": "VEGETABLE",
+      "dishId": 302
+    },
+    {
+      "day": 2,
+      "meal": "lunch",
+      "role": "MAINDISH",
+      "dishId": 102
+    },
+    {
+      "day": 2,
+      "meal": "lunch",
+      "role": "SOUP",
+      "dishId": 202
+    },
+    {
+      "day": 2,
+      "meal": "lunch",
+      "role": "VEGETABLE",
+      "dishId": 305
+    },
+    {
+      "day": 2,
+      "meal": "dinner",
+      "role": "MAINDISH",
+      "dishId": 105
+    },
+    {
+      "day": 2,
+      "meal": "dinner",
+      "role": "SOUP",
+      "dishId": 205
+    },
+    {
+      "day": 2,
+      "meal": "dinner",
+      "role": "VEGETABLE",
+      "dishId": 306
+    },
+    {
+      "day": 3,
+      "meal": "breakfast",
+      "role": "MAINDISH",
+      "dishId": 406
+    },
+    {
+      "day": 3,
+      "meal": "breakfast",
+      "role": "VEGETABLE",
+      "dishId": 308
+    },
+    {
+      "day": 3,
+      "meal": "lunch",
+      "role": "MAINDISH",
+      "dishId": 112
+    },
+    {
+      "day": 3,
+      "meal": "lunch",
+      "role": "SOUP",
+      "dishId": 203
+    },
+    {
+      "day": 3,
+      "meal": "lunch",
+      "role": "VEGETABLE",
+      "dishId": 309
+    }
+  ]
+}

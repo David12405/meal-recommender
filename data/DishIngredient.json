@@ -1,0 +1,4298 @@
+[
+  {
+    "id": 1,
+    "dishId": 1,
+    "ingredientId": 1,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 2,
+    "dishId": 1,
+    "ingredientId": 161,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 3,
+    "dishId": 1,
+    "ingredientId": 6,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 4,
+    "dishId": 1,
+    "ingredientId": 95,
+    "amount": 8.0,
+    "gramsEqui": 40.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 5,
+    "dishId": 1,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 6,
+    "dishId": 1,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 7,
+    "dishId": 1,
+    "ingredientId": 140,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 8,
+    "dishId": 2,
+    "ingredientId": 1,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 9,
+    "dishId": 2,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 10,
+    "dishId": 2,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 11,
+    "dishId": 2,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 12,
+    "dishId": 2,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 13,
+    "dishId": 2,
+    "ingredientId": 68,
+    "amount": 3.0,
+    "gramsEqui": 36.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 14,
+    "dishId": 3,
+    "ingredientId": 1,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 15,
+    "dishId": 3,
+    "ingredientId": 9,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 16,
+    "dishId": 3,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 17,
+    "dishId": 3,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 18,
+    "dishId": 3,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 19,
+    "dishId": 3,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 20,
+    "dishId": 3,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 21,
+    "dishId": 4,
+    "ingredientId": 2,
+    "amount": 1.0,
+    "gramsEqui": 70.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 22,
+    "dishId": 4,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 23,
+    "dishId": 4,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 24,
+    "dishId": 4,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 25,
+    "dishId": 4,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 26,
+    "dishId": 4,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 27,
+    "dishId": 4,
+    "ingredientId": 45,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 28,
+    "dishId": 5,
+    "ingredientId": 2,
+    "amount": 1.0,
+    "gramsEqui": 70.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 29,
+    "dishId": 5,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 30,
+    "dishId": 5,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 31,
+    "dishId": 5,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 32,
+    "dishId": 5,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": 2.5,
+    "unit": "SPOON"
+  },
+  {
+    "id": 33,
+    "dishId": 6,
+    "ingredientId": 1,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 34,
+    "dishId": 6,
+    "ingredientId": 2,
+    "amount": 1.0,
+    "gramsEqui": 70.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 35,
+    "dishId": 6,
+    "ingredientId": 36,
+    "amount": 0.5,
+    "gramsEqui": 30.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 36,
+    "dishId": 6,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 37,
+    "dishId": 6,
+    "ingredientId": 6,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 38,
+    "dishId": 6,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 39,
+    "dishId": 6,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEqui": 4.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 40,
+    "dishId": 6,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 41,
+    "dishId": 6,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 42,
+    "dishId": 6,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 43,
+    "dishId": 7,
+    "ingredientId": 72,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 44,
+    "dishId": 7,
+    "ingredientId": 3,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 45,
+    "dishId": 7,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 46,
+    "dishId": 7,
+    "ingredientId": 45,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 47,
+    "dishId": 7,
+    "ingredientId": 12,
+    "amount": 1.0,
+    "gramsEqui": 55.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 48,
+    "dishId": 7,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 49,
+    "dishId": 7,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 50,
+    "dishId": 7,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 51,
+    "dishId": 7,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 52,
+    "dishId": 8,
+    "ingredientId": 4,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 53,
+    "dishId": 8,
+    "ingredientId": 6,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 54,
+    "dishId": 8,
+    "ingredientId": 127,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 55,
+    "dishId": 8,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 56,
+    "dishId": 8,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 57,
+    "dishId": 9,
+    "ingredientId": 4,
+    "amount": 2.0,
+    "gramsEqui": 300.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 58,
+    "dishId": 9,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 59,
+    "dishId": 9,
+    "ingredientId": 106,
+    "amount": 2.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 60,
+    "dishId": 9,
+    "ingredientId": 201,
+    "amount": 4.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 61,
+    "dishId": 10,
+    "ingredientId": 8,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 62,
+    "dishId": 10,
+    "ingredientId": 4,
+    "amount": 2.0,
+    "gramsEqui": 300.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 63,
+    "dishId": 10,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 64,
+    "dishId": 10,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 65,
+    "dishId": 10,
+    "ingredientId": 45,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 66,
+    "dishId": 11,
+    "ingredientId": 7,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 67,
+    "dishId": 11,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 68,
+    "dishId": 11,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 69,
+    "dishId": 11,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 70,
+    "dishId": 11,
+    "ingredientId": 76,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 71,
+    "dishId": 11,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 72,
+    "dishId": 11,
+    "ingredientId": 196,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 73,
+    "dishId": 11,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 74,
+    "dishId": 11,
+    "ingredientId": 195,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 75,
+    "dishId": 11,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 76,
+    "dishId": 12,
+    "ingredientId": 9,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 77,
+    "dishId": 12,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 78,
+    "dishId": 12,
+    "ingredientId": 128,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 79,
+    "dishId": 12,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 80,
+    "dishId": 13,
+    "ingredientId": 72,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 81,
+    "dishId": 13,
+    "ingredientId": 10,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 82,
+    "dishId": 13,
+    "ingredientId": 196,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 83,
+    "dishId": 13,
+    "ingredientId": 108,
+    "amount": 1.0,
+    "gramsEqui": 3.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 84,
+    "dishId": 14,
+    "ingredientId": 72,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 85,
+    "dishId": 14,
+    "ingredientId": 10,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 86,
+    "dishId": 14,
+    "ingredientId": 93,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 87,
+    "dishId": 14,
+    "ingredientId": 15,
+    "amount": 1.0,
+    "gramsEqui": 60.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 88,
+    "dishId": 14,
+    "ingredientId": 108,
+    "amount": 1.0,
+    "gramsEqui": 3.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 89,
+    "dishId": 14,
+    "ingredientId": 144,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 90,
+    "dishId": 14,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 91,
+    "dishId": 14,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 92,
+    "dishId": 14,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 93,
+    "dishId": 15,
+    "ingredientId": 72,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 94,
+    "dishId": 15,
+    "ingredientId": 12,
+    "amount": 2.0,
+    "gramsEqui": 110.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 95,
+    "dishId": 15,
+    "ingredientId": 181,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 96,
+    "dishId": 15,
+    "ingredientId": 180,
+    "amount": 2.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 97,
+    "dishId": 15,
+    "ingredientId": 99,
+    "amount": 2.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 98,
+    "dishId": 15,
+    "ingredientId": 75,
+    "amount": 2.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 99,
+    "dishId": 15,
+    "ingredientId": 74,
+    "amount": 2.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 100,
+    "dishId": 16,
+    "ingredientId": 13,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 101,
+    "dishId": 16,
+    "ingredientId": 130,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 102,
+    "dishId": 16,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 103,
+    "dishId": 16,
+    "ingredientId": 183,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 104,
+    "dishId": 16,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 105,
+    "dishId": 16,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 106,
+    "dishId": 17,
+    "ingredientId": 13,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 107,
+    "dishId": 17,
+    "ingredientId": 108,
+    "amount": 1.0,
+    "gramsEqui": 3.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 108,
+    "dishId": 17,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 109,
+    "dishId": 17,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 110,
+    "dishId": 17,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 111,
+    "dishId": 17,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEqui": 4.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 112,
+    "dishId": 17,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 113,
+    "dishId": 18,
+    "ingredientId": 92,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 114,
+    "dishId": 18,
+    "ingredientId": 15,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 115,
+    "dishId": 18,
+    "ingredientId": 91,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 116,
+    "dishId": 18,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 117,
+    "dishId": 18,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 118,
+    "dishId": 18,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 119,
+    "dishId": 19,
+    "ingredientId": 83,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 120,
+    "dishId": 19,
+    "ingredientId": 15,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 121,
+    "dishId": 19,
+    "ingredientId": 161,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 122,
+    "dishId": 19,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 123,
+    "dishId": 19,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 124,
+    "dishId": 19,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 125,
+    "dishId": 20,
+    "ingredientId": 142,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 126,
+    "dishId": 20,
+    "ingredientId": 18,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 127,
+    "dishId": 20,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 128,
+    "dishId": 20,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 129,
+    "dishId": 21,
+    "ingredientId": 18,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 130,
+    "dishId": 21,
+    "ingredientId": 128,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 131,
+    "dishId": 21,
+    "ingredientId": 74,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 132,
+    "dishId": 21,
+    "ingredientId": 136,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 133,
+    "dishId": 22,
+    "ingredientId": 18,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 134,
+    "dishId": 22,
+    "ingredientId": 4,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 135,
+    "dishId": 22,
+    "ingredientId": 85,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 136,
+    "dishId": 22,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 137,
+    "dishId": 22,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 138,
+    "dishId": 22,
+    "ingredientId": 211,
+    "amount": 1.25,
+    "gramsEqui": 1.25,
+    "unit": "GAM"
+  },
+  {
+    "id": 139,
+    "dishId": 23,
+    "ingredientId": 20,
+    "amount": 0.5,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 140,
+    "dishId": 23,
+    "ingredientId": 9,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 141,
+    "dishId": 23,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 142,
+    "dishId": 24,
+    "ingredientId": 4,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 143,
+    "dishId": 24,
+    "ingredientId": 21,
+    "amount": 20.0,
+    "gramsEqui": 20.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 144,
+    "dishId": 24,
+    "ingredientId": 73,
+    "amount": 0.3,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 145,
+    "dishId": 24,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 146,
+    "dishId": 24,
+    "ingredientId": 159,
+    "amount": 2.0,
+    "gramsEqui": 2.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 147,
+    "dishId": 24,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 148,
+    "dishId": 25,
+    "ingredientId": 21,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 149,
+    "dishId": 25,
+    "ingredientId": 150,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 150,
+    "dishId": 25,
+    "ingredientId": 127,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 151,
+    "dishId": 25,
+    "ingredientId": 6,
+    "amount": 0.5,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 152,
+    "dishId": 25,
+    "ingredientId": 73,
+    "amount": 1.25,
+    "gramsEqui": 1.25,
+    "unit": "GAM"
+  },
+  {
+    "id": 153,
+    "dishId": 25,
+    "ingredientId": 180,
+    "amount": 1.25,
+    "gramsEqui": 1.25,
+    "unit": "GAM"
+  },
+  {
+    "id": 154,
+    "dishId": 25,
+    "ingredientId": 128,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 155,
+    "dishId": 26,
+    "ingredientId": 137,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 156,
+    "dishId": 26,
+    "ingredientId": 25,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 157,
+    "dishId": 26,
+    "ingredientId": 159,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 158,
+    "dishId": 26,
+    "ingredientId": 204,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 159,
+    "dishId": 26,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 160,
+    "dishId": 26,
+    "ingredientId": 106,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 161,
+    "dishId": 27,
+    "ingredientId": 26,
+    "amount": 1.0,
+    "gramsEqui": 300.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 162,
+    "dishId": 27,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 163,
+    "dishId": 27,
+    "ingredientId": 201,
+    "amount": 3.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 164,
+    "dishId": 28,
+    "ingredientId": 22,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 165,
+    "dishId": 28,
+    "ingredientId": 91,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 166,
+    "dishId": 28,
+    "ingredientId": 29,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 167,
+    "dishId": 28,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 168,
+    "dishId": 28,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 169,
+    "dishId": 28,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 170,
+    "dishId": 28,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 171,
+    "dishId": 29,
+    "ingredientId": 29,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 172,
+    "dishId": 29,
+    "ingredientId": 5,
+    "amount": 1.0,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 173,
+    "dishId": 29,
+    "ingredientId": 19,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 174,
+    "dishId": 29,
+    "ingredientId": 3,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 175,
+    "dishId": 29,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 176,
+    "dishId": 29,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 177,
+    "dishId": 29,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 178,
+    "dishId": 29,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 179,
+    "dishId": 30,
+    "ingredientId": 30,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 180,
+    "dishId": 30,
+    "ingredientId": 5,
+    "amount": 1.0,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 181,
+    "dishId": 30,
+    "ingredientId": 95,
+    "amount": 2.0,
+    "gramsEqui": 10.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 182,
+    "dishId": 30,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 183,
+    "dishId": 30,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 184,
+    "dishId": 30,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 185,
+    "dishId": 30,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 186,
+    "dishId": 30,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 187,
+    "dishId": 31,
+    "ingredientId": 30,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 188,
+    "dishId": 31,
+    "ingredientId": 5,
+    "amount": 1.0,
+    "gramsEqui": 120.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 189,
+    "dishId": 31,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 190,
+    "dishId": 31,
+    "ingredientId": 204,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 191,
+    "dishId": 31,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 192,
+    "dishId": 31,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 193,
+    "dishId": 31,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 194,
+    "dishId": 32,
+    "ingredientId": 30,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 195,
+    "dishId": 32,
+    "ingredientId": 35,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 196,
+    "dishId": 32,
+    "ingredientId": 117,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 197,
+    "dishId": 32,
+    "ingredientId": 4,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 198,
+    "dishId": 32,
+    "ingredientId": 95,
+    "amount": 1.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 199,
+    "dishId": 32,
+    "ingredientId": 170,
+    "amount": 30.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 200,
+    "dishId": 32,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 201,
+    "dishId": 32,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 202,
+    "dishId": 32,
+    "ingredientId": 74,
+    "amount": 30.0,
+    "gramsEqui": 30.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 203,
+    "dishId": 32,
+    "ingredientId": 178,
+    "amount": 1.0,
+    "gramsEqui": 8.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 204,
+    "dishId": 32,
+    "ingredientId": 128,
+    "amount": 60.0,
+    "gramsEqui": 60.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 205,
+    "dishId": 33,
+    "ingredientId": 31,
+    "amount": 1.0,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 206,
+    "dishId": 33,
+    "ingredientId": 60,
+    "amount": 0.5,
+    "gramsEqui": 75.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 207,
+    "dishId": 33,
+    "ingredientId": 45,
+    "amount": 2.0,
+    "gramsEqui": 7.5,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 208,
+    "dishId": 33,
+    "ingredientId": 95,
+    "amount": 0.25,
+    "gramsEqui": 2.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 209,
+    "dishId": 33,
+    "ingredientId": 169,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 210,
+    "dishId": 33,
+    "ingredientId": 75,
+    "amount": 0.75,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 211,
+    "dishId": 33,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 212,
+    "dishId": 33,
+    "ingredientId": 42,
+    "amount": 20.0,
+    "gramsEqui": 20.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 213,
+    "dishId": 34,
+    "ingredientId": 57,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 214,
+    "dishId": 34,
+    "ingredientId": 31,
+    "amount": 1.0,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 215,
+    "dishId": 34,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 216,
+    "dishId": 34,
+    "ingredientId": 95,
+    "amount": 0.25,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 217,
+    "dishId": 34,
+    "ingredientId": 45,
+    "amount": 0.5,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 218,
+    "dishId": 35,
+    "ingredientId": 137,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 219,
+    "dishId": 35,
+    "ingredientId": 32,
+    "amount": 0.5,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 220,
+    "dishId": 35,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 221,
+    "dishId": 35,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 222,
+    "dishId": 36,
+    "ingredientId": 32,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 223,
+    "dishId": 36,
+    "ingredientId": 44,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 224,
+    "dishId": 36,
+    "ingredientId": 9,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 225,
+    "dishId": 36,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 226,
+    "dishId": 36,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 227,
+    "dishId": 37,
+    "ingredientId": 9,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 228,
+    "dishId": 37,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 229,
+    "dishId": 37,
+    "ingredientId": 44,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 230,
+    "dishId": 37,
+    "ingredientId": 33,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 231,
+    "dishId": 37,
+    "ingredientId": 204,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 232,
+    "dishId": 38,
+    "ingredientId": 33,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 233,
+    "dishId": 38,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 234,
+    "dishId": 38,
+    "ingredientId": 187,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 235,
+    "dishId": 38,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 236,
+    "dishId": 38,
+    "ingredientId": 91,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 237,
+    "dishId": 39,
+    "ingredientId": 34,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 238,
+    "dishId": 39,
+    "ingredientId": 192,
+    "amount": 6.67,
+    "gramsEqui": 6.67,
+    "unit": "GAM"
+  },
+  {
+    "id": 239,
+    "dishId": 39,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 240,
+    "dishId": 39,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 241,
+    "dishId": 39,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": 1.67,
+    "unit": "SPOON"
+  },
+  {
+    "id": 242,
+    "dishId": 39,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": 1.0,
+    "unit": "SPOON"
+  },
+  {
+    "id": 243,
+    "dishId": 40,
+    "ingredientId": 89,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 244,
+    "dishId": 40,
+    "ingredientId": 34,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 245,
+    "dishId": 40,
+    "ingredientId": 45,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 246,
+    "dishId": 40,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 247,
+    "dishId": 40,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 248,
+    "dishId": 41,
+    "ingredientId": 62,
+    "amount": 5.0,
+    "gramsEqui": 500.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 249,
+    "dishId": 41,
+    "ingredientId": 35,
+    "amount": 2.0,
+    "gramsEqui": 300.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 250,
+    "dishId": 41,
+    "ingredientId": 74,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 251,
+    "dishId": 41,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": 5.0,
+    "unit": "SPOON"
+  },
+  {
+    "id": 252,
+    "dishId": 42,
+    "ingredientId": 8,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 253,
+    "dishId": 42,
+    "ingredientId": 35,
+    "amount": 0.5,
+    "gramsEqui": 80.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 254,
+    "dishId": 42,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 255,
+    "dishId": 42,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 256,
+    "dishId": 42,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 257,
+    "dishId": 42,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 258,
+    "dishId": 43,
+    "ingredientId": 11,
+    "amount": 120.0,
+    "gramsEqui": 120.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 259,
+    "dishId": 43,
+    "ingredientId": 38,
+    "amount": 0.5,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 260,
+    "dishId": 43,
+    "ingredientId": 6,
+    "amount": 0.5,
+    "gramsEqui": 75.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 261,
+    "dishId": 43,
+    "ingredientId": 45,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 262,
+    "dishId": 43,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 263,
+    "dishId": 43,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 264,
+    "dishId": 43,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 265,
+    "dishId": 44,
+    "ingredientId": 39,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 266,
+    "dishId": 44,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 267,
+    "dishId": 44,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 268,
+    "dishId": 44,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 269,
+    "dishId": 44,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 270,
+    "dishId": 45,
+    "ingredientId": 72,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 271,
+    "dishId": 45,
+    "ingredientId": 39,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 272,
+    "dishId": 45,
+    "ingredientId": 9,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 273,
+    "dishId": 46,
+    "ingredientId": 8,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 274,
+    "dishId": 46,
+    "ingredientId": 40,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 275,
+    "dishId": 46,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 276,
+    "dishId": 47,
+    "ingredientId": 40,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 277,
+    "dishId": 47,
+    "ingredientId": 50,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 278,
+    "dishId": 47,
+    "ingredientId": 44,
+    "amount": 12.5,
+    "gramsEqui": 12.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 279,
+    "dishId": 47,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 280,
+    "dishId": 47,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 281,
+    "dishId": 47,
+    "ingredientId": 75,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 282,
+    "dishId": 47,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 283,
+    "dishId": 48,
+    "ingredientId": 41,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 284,
+    "dishId": 48,
+    "ingredientId": 72,
+    "amount": 40.0,
+    "gramsEqui": 40.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 285,
+    "dishId": 48,
+    "ingredientId": 46,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 286,
+    "dishId": 48,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 287,
+    "dishId": 48,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 288,
+    "dishId": 48,
+    "ingredientId": 8,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 289,
+    "dishId": 49,
+    "ingredientId": 41,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 290,
+    "dishId": 49,
+    "ingredientId": 96,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 291,
+    "dishId": 49,
+    "ingredientId": 151,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 292,
+    "dishId": 49,
+    "ingredientId": 74,
+    "amount": 30.0,
+    "gramsEqui": 30.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 293,
+    "dishId": 49,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": 0.5,
+    "unit": "SPOON"
+  },
+  {
+    "id": 294,
+    "dishId": 50,
+    "ingredientId": 42,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 295,
+    "dishId": 50,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 296,
+    "dishId": 50,
+    "ingredientId": 64,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 297,
+    "dishId": 50,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 298,
+    "dishId": 50,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 299,
+    "dishId": 50,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 300,
+    "dishId": 50,
+    "ingredientId": 183,
+    "amount": 2.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 301,
+    "dishId": 51,
+    "ingredientId": 42,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 302,
+    "dishId": 51,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 303,
+    "dishId": 51,
+    "ingredientId": 95,
+    "amount": 7.5,
+    "gramsEqui": 7.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 304,
+    "dishId": 51,
+    "ingredientId": 59,
+    "amount": 7.5,
+    "gramsEqui": 7.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 305,
+    "dishId": 51,
+    "ingredientId": 128,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 306,
+    "dishId": 51,
+    "ingredientId": 181,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 307,
+    "dishId": 51,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 308,
+    "dishId": 51,
+    "ingredientId": 74,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 309,
+    "dishId": 52,
+    "ingredientId": 86,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 310,
+    "dishId": 52,
+    "ingredientId": 43,
+    "amount": 70.0,
+    "gramsEqui": 70.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 311,
+    "dishId": 52,
+    "ingredientId": 46,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 312,
+    "dishId": 52,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 313,
+    "dishId": 52,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 314,
+    "dishId": 52,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 315,
+    "dishId": 53,
+    "ingredientId": 55,
+    "amount": 0.5,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 316,
+    "dishId": 53,
+    "ingredientId": 43,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 317,
+    "dishId": 53,
+    "ingredientId": 1,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 318,
+    "dishId": 53,
+    "ingredientId": 100,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 319,
+    "dishId": 53,
+    "ingredientId": 183,
+    "amount": 2.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 320,
+    "dishId": 53,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 321,
+    "dishId": 53,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 322,
+    "dishId": 54,
+    "ingredientId": 43,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 323,
+    "dishId": 54,
+    "ingredientId": 192,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 324,
+    "dishId": 54,
+    "ingredientId": 15,
+    "amount": 40.0,
+    "gramsEqui": 40.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 325,
+    "dishId": 54,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 326,
+    "dishId": 54,
+    "ingredientId": 74,
+    "amount": 1.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 327,
+    "dishId": 55,
+    "ingredientId": 44,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 328,
+    "dishId": 55,
+    "ingredientId": 74,
+    "amount": 130.0,
+    "gramsEqui": 130.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 329,
+    "dishId": 56,
+    "ingredientId": 28,
+    "amount": 250.0,
+    "gramsEqui": 250.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 330,
+    "dishId": 56,
+    "ingredientId": 44,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 331,
+    "dishId": 56,
+    "ingredientId": 64,
+    "amount": 1.0,
+    "gramsEqui": 15.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 332,
+    "dishId": 56,
+    "ingredientId": 45,
+    "amount": 2.0,
+    "gramsEqui": 2.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 333,
+    "dishId": 56,
+    "ingredientId": 110,
+    "amount": 2.0,
+    "gramsEqui": 2.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 334,
+    "dishId": 56,
+    "ingredientId": 159,
+    "amount": 2.0,
+    "gramsEqui": 2.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 335,
+    "dishId": 56,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 336,
+    "dishId": 56,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 337,
+    "dishId": 56,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 338,
+    "dishId": 56,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 339,
+    "dishId": 56,
+    "ingredientId": 184,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 340,
+    "dishId": 57,
+    "ingredientId": 31,
+    "amount": 1.0,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 341,
+    "dishId": 57,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 342,
+    "dishId": 57,
+    "ingredientId": 45,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 343,
+    "dishId": 57,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 344,
+    "dishId": 57,
+    "ingredientId": 196,
+    "amount": 2.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 345,
+    "dishId": 58,
+    "ingredientId": 45,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 346,
+    "dishId": 58,
+    "ingredientId": 13,
+    "amount": 2.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 347,
+    "dishId": 58,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 348,
+    "dishId": 58,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 349,
+    "dishId": 58,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 350,
+    "dishId": 59,
+    "ingredientId": 47,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 351,
+    "dishId": 59,
+    "ingredientId": 12,
+    "amount": 1.0,
+    "gramsEqui": 50.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 352,
+    "dishId": 59,
+    "ingredientId": 74,
+    "amount": 6.5,
+    "gramsEqui": 6.55,
+    "unit": "GAM"
+  },
+  {
+    "id": 353,
+    "dishId": 59,
+    "ingredientId": 77,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 354,
+    "dishId": 59,
+    "ingredientId": 73,
+    "amount": 0.23,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 355,
+    "dishId": 59,
+    "ingredientId": 76,
+    "amount": 17.5,
+    "gramsEqui": 17.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 356,
+    "dishId": 59,
+    "ingredientId": 128,
+    "amount": 4.0,
+    "gramsEqui": 4.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 357,
+    "dishId": 60,
+    "ingredientId": 47,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 358,
+    "dishId": 60,
+    "ingredientId": 96,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 359,
+    "dishId": 60,
+    "ingredientId": 77,
+    "amount": 300.0,
+    "gramsEqui": 300.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 360,
+    "dishId": 60,
+    "ingredientId": 125,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 361,
+    "dishId": 60,
+    "ingredientId": 74,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 362,
+    "dishId": 61,
+    "ingredientId": 48,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 363,
+    "dishId": 61,
+    "ingredientId": 12,
+    "amount": 1.0,
+    "gramsEqui": 50.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 364,
+    "dishId": 61,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 365,
+    "dishId": 61,
+    "ingredientId": 46,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 366,
+    "dishId": 61,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 367,
+    "dishId": 61,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 368,
+    "dishId": 61,
+    "ingredientId": 75,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 369,
+    "dishId": 61,
+    "ingredientId": 187,
+    "amount": 0.5,
+    "gramsEqui": 0.5,
+    "unit": "SPOON"
+  },
+  {
+    "id": 370,
+    "dishId": 61,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 371,
+    "dishId": 61,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 372,
+    "dishId": 62,
+    "ingredientId": 8,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 373,
+    "dishId": 62,
+    "ingredientId": 48,
+    "amount": 1.0,
+    "gramsEqui": 50.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 374,
+    "dishId": 62,
+    "ingredientId": 45,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 375,
+    "dishId": 62,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 376,
+    "dishId": 62,
+    "ingredientId": 204,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 377,
+    "dishId": 63,
+    "ingredientId": 2,
+    "amount": 2.0,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 378,
+    "dishId": 63,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 379,
+    "dishId": 63,
+    "ingredientId": 49,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 380,
+    "dishId": 63,
+    "ingredientId": 201,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 381,
+    "dishId": 63,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 382,
+    "dishId": 63,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 383,
+    "dishId": 63,
+    "ingredientId": 204,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 384,
+    "dishId": 64,
+    "ingredientId": 3,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 385,
+    "dishId": 64,
+    "ingredientId": 49,
+    "amount": 20.0,
+    "gramsEqui": 20.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 386,
+    "dishId": 64,
+    "ingredientId": 45,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 387,
+    "dishId": 64,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 388,
+    "dishId": 64,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 389,
+    "dishId": 64,
+    "ingredientId": 183,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 390,
+    "dishId": 64,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 391,
+    "dishId": 65,
+    "ingredientId": 50,
+    "amount": 5.0,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 392,
+    "dishId": 65,
+    "ingredientId": 45,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 393,
+    "dishId": 65,
+    "ingredientId": 95,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 394,
+    "dishId": 65,
+    "ingredientId": 183,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 395,
+    "dishId": 65,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 396,
+    "dishId": 65,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 397,
+    "dishId": 66,
+    "ingredientId": 50,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 398,
+    "dishId": 66,
+    "ingredientId": 149,
+    "amount": 1.0,
+    "gramsEqui": 300.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 399,
+    "dishId": 66,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 400,
+    "dishId": 66,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 401,
+    "dishId": 66,
+    "ingredientId": 204,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 402,
+    "dishId": 66,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 403,
+    "dishId": 66,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 404,
+    "dishId": 67,
+    "ingredientId": 51,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 405,
+    "dishId": 67,
+    "ingredientId": 15,
+    "amount": 0.5,
+    "gramsEqui": 50.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 406,
+    "dishId": 67,
+    "ingredientId": 77,
+    "amount": 240.0,
+    "gramsEqui": 240.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 407,
+    "dishId": 68,
+    "ingredientId": 51,
+    "amount": 1.0,
+    "gramsEqui": 200.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 408,
+    "dishId": 68,
+    "ingredientId": 206,
+    "amount": 2.0,
+    "gramsEqui": 75.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 409,
+    "dishId": 68,
+    "ingredientId": 74,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 410,
+    "dishId": 69,
+    "ingredientId": 1,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 411,
+    "dishId": 69,
+    "ingredientId": 52,
+    "amount": 3.0,
+    "gramsEqui": 100.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 412,
+    "dishId": 69,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 413,
+    "dishId": 69,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 414,
+    "dishId": 69,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 415,
+    "dishId": 69,
+    "ingredientId": 196,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 416,
+    "dishId": 69,
+    "ingredientId": 45,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 417,
+    "dishId": 69,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 418,
+    "dishId": 70,
+    "ingredientId": 52,
+    "amount": 250.0,
+    "gramsEqui": 250.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 419,
+    "dishId": 70,
+    "ingredientId": 74,
+    "amount": 75.0,
+    "gramsEqui": 75.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 420,
+    "dishId": 70,
+    "ingredientId": 44,
+    "amount": 2.0,
+    "gramsEqui": 2.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 421,
+    "dishId": 70,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 422,
+    "dishId": 71,
+    "ingredientId": 53,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 423,
+    "dishId": 71,
+    "ingredientId": 57,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 424,
+    "dishId": 71,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 425,
+    "dishId": 71,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 426,
+    "dishId": 72,
+    "ingredientId": 114,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 427,
+    "dishId": 72,
+    "ingredientId": 53,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 428,
+    "dishId": 72,
+    "ingredientId": 63,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 429,
+    "dishId": 72,
+    "ingredientId": 24,
+    "amount": 200.0,
+    "gramsEqui": 200.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 430,
+    "dishId": 72,
+    "ingredientId": 45,
+    "amount": 6.0,
+    "gramsEqui": 6.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 431,
+    "dishId": 72,
+    "ingredientId": 44,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 432,
+    "dishId": 72,
+    "ingredientId": 46,
+    "amount": 6.0,
+    "gramsEqui": 6.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 433,
+    "dishId": 72,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 434,
+    "dishId": 72,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 435,
+    "dishId": 72,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 436,
+    "dishId": 72,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 437,
+    "dishId": 72,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 438,
+    "dishId": 73,
+    "ingredientId": 54,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 439,
+    "dishId": 73,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 440,
+    "dishId": 73,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 441,
+    "dishId": 74,
+    "ingredientId": 54,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 442,
+    "dishId": 74,
+    "ingredientId": 89,
+    "amount": 70.0,
+    "gramsEqui": 70.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 443,
+    "dishId": 74,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 444,
+    "dishId": 74,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 445,
+    "dishId": 74,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 446,
+    "dishId": 74,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 447,
+    "dishId": 74,
+    "ingredientId": 204,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 448,
+    "dishId": 74,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 449,
+    "dishId": 75,
+    "ingredientId": 50,
+    "amount": 5.0,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 450,
+    "dishId": 75,
+    "ingredientId": 55,
+    "amount": 1.0,
+    "gramsEqui": 250.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 451,
+    "dishId": 75,
+    "ingredientId": 45,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 452,
+    "dishId": 75,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 453,
+    "dishId": 75,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 454,
+    "dishId": 75,
+    "ingredientId": 99,
+    "amount": 0.25,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 455,
+    "dishId": 76,
+    "ingredientId": 55,
+    "amount": 180.0,
+    "gramsEqui": 180.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 456,
+    "dishId": 76,
+    "ingredientId": 3,
+    "amount": 70.0,
+    "gramsEqui": 70.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 457,
+    "dishId": 76,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 458,
+    "dishId": 76,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 459,
+    "dishId": 76,
+    "ingredientId": 75,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 460,
+    "dishId": 76,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 461,
+    "dishId": 76,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 462,
+    "dishId": 76,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 463,
+    "dishId": 76,
+    "ingredientId": 201,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 464,
+    "dishId": 77,
+    "ingredientId": 3,
+    "amount": 125.0,
+    "gramsEqui": 125.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 465,
+    "dishId": 77,
+    "ingredientId": 6,
+    "amount": 0.5,
+    "gramsEqui": 75.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 466,
+    "dishId": 77,
+    "ingredientId": 56,
+    "amount": 0.5,
+    "gramsEqui": 120.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 467,
+    "dishId": 77,
+    "ingredientId": 183,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 468,
+    "dishId": 77,
+    "ingredientId": 187,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 469,
+    "dishId": 77,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 470,
+    "dishId": 77,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 471,
+    "dishId": 77,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 472,
+    "dishId": 77,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 473,
+    "dishId": 77,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 474,
+    "dishId": 77,
+    "ingredientId": 204,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 475,
+    "dishId": 78,
+    "ingredientId": 56,
+    "amount": 2.0,
+    "gramsEqui": 400.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 476,
+    "dishId": 78,
+    "ingredientId": 108,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 477,
+    "dishId": 78,
+    "ingredientId": 12,
+    "amount": 2.0,
+    "gramsEqui": 110.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 478,
+    "dishId": 78,
+    "ingredientId": 147,
+    "amount": 60.0,
+    "gramsEqui": 60.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 479,
+    "dishId": 78,
+    "ingredientId": 73,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 480,
+    "dishId": 79,
+    "ingredientId": 57,
+    "amount": 100.0,
+    "gramsEqui": 100.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 481,
+    "dishId": 79,
+    "ingredientId": 150,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 482,
+    "dishId": 79,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEqui": 5.9,
+    "unit": "GAM"
+  },
+  {
+    "id": 483,
+    "dishId": 79,
+    "ingredientId": 75,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 484,
+    "dishId": 79,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 485,
+    "dishId": 79,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 486,
+    "dishId": 80,
+    "ingredientId": 13,
+    "amount": 1.0,
+    "gramsEqui": 150.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 487,
+    "dishId": 80,
+    "ingredientId": 192,
+    "amount": 35.0,
+    "gramsEqui": 35.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 488,
+    "dishId": 80,
+    "ingredientId": 57,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 489,
+    "dishId": 80,
+    "ingredientId": 180,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 490,
+    "dishId": 80,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 491,
+    "dishId": 80,
+    "ingredientId": 100,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 492,
+    "dishId": 80,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 493,
+    "dishId": 80,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 494,
+    "dishId": 81,
+    "ingredientId": 174,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 495,
+    "dishId": 81,
+    "ingredientId": 58,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 496,
+    "dishId": 81,
+    "ingredientId": 95,
+    "amount": 8.0,
+    "gramsEqui": 8.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 497,
+    "dishId": 81,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEqui": 5.0,
+    "unit": "NUMBER"
+  },
+  {
+    "id": 498,
+    "dishId": 81,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 499,
+    "dishId": 81,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 500,
+    "dishId": 81,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 501,
+    "dishId": 81,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 502,
+    "dishId": 82,
+    "ingredientId": 25,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 503,
+    "dishId": 82,
+    "ingredientId": 58,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 504,
+    "dishId": 82,
+    "ingredientId": 64,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 505,
+    "dishId": 82,
+    "ingredientId": 95,
+    "amount": 7.5,
+    "gramsEqui": 7.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 506,
+    "dishId": 82,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 507,
+    "dishId": 82,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 508,
+    "dishId": 83,
+    "ingredientId": 88,
+    "amount": 400.0,
+    "gramsEqui": 400.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 509,
+    "dishId": 83,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": 0.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 510,
+    "dishId": 83,
+    "ingredientId": 44,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 511,
+    "dishId": 83,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 512,
+    "dishId": 83,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 513,
+    "dishId": 83,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 514,
+    "dishId": 83,
+    "ingredientId": 95,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "SPOON"
+  },
+  {
+    "id": 515,
+    "dishId": 83,
+    "ingredientId": 64,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 516,
+    "dishId": 83,
+    "ingredientId": 75,
+    "amount": 2.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 517,
+    "dishId": 83,
+    "ingredientId": 46,
+    "amount": 7.5,
+    "gramsEqui": 7.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 518,
+    "dishId": 83,
+    "ingredientId": 59,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 519,
+    "dishId": 83,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 520,
+    "dishId": 83,
+    "ingredientId": 179,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 521,
+    "dishId": 84,
+    "ingredientId": 28,
+    "amount": 150.0,
+    "gramsEqui": 150.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 522,
+    "dishId": 84,
+    "ingredientId": 59,
+    "amount": 5.0,
+    "gramsEqui": 5.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 523,
+    "dishId": 84,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 524,
+    "dishId": 84,
+    "ingredientId": 75,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 525,
+    "dishId": 84,
+    "ingredientId": 74,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 526,
+    "dishId": 84,
+    "ingredientId": 184,
+    "amount": 2.5,
+    "gramsEqui": 2.5,
+    "unit": "GAM"
+  },
+  {
+    "id": 527,
+    "dishId": 85,
+    "ingredientId": 4,
+    "amount": 50.0,
+    "gramsEqui": 50.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 528,
+    "dishId": 85,
+    "ingredientId": 60,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 529,
+    "dishId": 85,
+    "ingredientId": 6,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 530,
+    "dishId": 85,
+    "ingredientId": 119,
+    "amount": 15.0,
+    "gramsEqui": 15.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 531,
+    "dishId": 85,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 532,
+    "dishId": 85,
+    "ingredientId": 128,
+    "amount": 10.0,
+    "gramsEqui": 10.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 533,
+    "dishId": 86,
+    "ingredientId": 60,
+    "amount": 25.0,
+    "gramsEqui": 25.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 534,
+    "dishId": 86,
+    "ingredientId": 85,
+    "amount": 20.0,
+    "gramsEqui": 20.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 535,
+    "dishId": 86,
+    "ingredientId": 57,
+    "amount": 70.0,
+    "gramsEqui": 70.0,
+    "unit": "GAM"
+  },
+  {
+    "id": 536,
+    "dishId": 86,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  },
+  {
+    "id": 537,
+    "dishId": 86,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEqui": null,
+    "unit": "SPOON"
+  }
+]

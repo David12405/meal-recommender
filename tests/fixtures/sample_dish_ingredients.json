@@ -1,0 +1,34 @@
+[
+  { "id": 1,  "dishId": 101, "ingredientId": 3, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 2,  "dishId": 101, "ingredientId": 1, "amount": 120, "gramsEquivalent": 120, "unit": "GAM" },
+  { "id": 3,  "dishId": 101, "ingredientId": 7, "amount": 5,   "gramsEquivalent": 5,   "unit": "GAM" },
+
+  { "id": 4,  "dishId": 102, "ingredientId": 2, "amount": 2,   "gramsEquivalent": 110, "unit": "NUMBER" },
+  { "id": 5,  "dishId": 102, "ingredientId": 7, "amount": 5,   "gramsEquivalent": 5,   "unit": "GAM" },
+
+  { "id": 6,  "dishId": 103, "ingredientId": 5, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 7,  "dishId": 103, "ingredientId": 7, "amount": 5,   "gramsEquivalent": 5,   "unit": "GAM" },
+
+  { "id": 8,  "dishId": 104, "ingredientId": 3, "amount": 120, "gramsEquivalent": 120, "unit": "GAM" },
+  { "id": 9,  "dishId": 104, "ingredientId": 2, "amount": 1,   "gramsEquivalent": 55,  "unit": "NUMBER" },
+
+  { "id": 10, "dishId": 105, "ingredientId": 1, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 11, "dishId": 105, "ingredientId": 2, "amount": 1,   "gramsEquivalent": 55,  "unit": "NUMBER" },
+  { "id": 12, "dishId": 105, "ingredientId": 7, "amount": 5,   "gramsEquivalent": 5,   "unit": "GAM" },
+
+  { "id": 13, "dishId": 106, "ingredientId": 5, "amount": 180, "gramsEquivalent": 180, "unit": "GAM" },
+
+  { "id": 14, "dishId": 201, "ingredientId": 6, "amount": 200, "gramsEquivalent": 200, "unit": "GAM" },
+  { "id": 15, "dishId": 202, "ingredientId": 4, "amount": 200, "gramsEquivalent": 200, "unit": "GAM" },
+  { "id": 16, "dishId": 203, "ingredientId": 5, "amount": 80,  "gramsEquivalent": 80,  "unit": "GAM" },
+  { "id": 17, "dishId": 203, "ingredientId": 4, "amount": 100, "gramsEquivalent": 100, "unit": "GAM" },
+  { "id": 18, "dishId": 204, "ingredientId": 2, "amount": 1,   "gramsEquivalent": 55,  "unit": "NUMBER" },
+  { "id": 19, "dishId": 204, "ingredientId": 4, "amount": 100, "gramsEquivalent": 100, "unit": "GAM" },
+
+  { "id": 20, "dishId": 301, "ingredientId": 4, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 21, "dishId": 302, "ingredientId": 6, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 22, "dishId": 303, "ingredientId": 4, "amount": 150, "gramsEquivalent": 150, "unit": "GAM" },
+  { "id": 23, "dishId": 303, "ingredientId": 7, "amount": 5,   "gramsEquivalent": 5,   "unit": "GAM" },
+  { "id": 24, "dishId": 304, "ingredientId": 4, "amount": 100, "gramsEquivalent": 100, "unit": "GAM" },
+  { "id": 25, "dishId": 304, "ingredientId": 6, "amount": 100, "gramsEquivalent": 100, "unit": "GAM" }
+]

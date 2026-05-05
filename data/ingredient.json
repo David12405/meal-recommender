@@ -1,0 +1,3378 @@
+[
+  {
+    "id": 1,
+    "name": "Thịt heo ba rọi",
+    "categoryId": 2,
+    "protein": 16.5,
+    "carb": 0.0,
+    "fat": 21.5,
+    "createdAt": "29:42.0",
+    "updatedAt": "29:42.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/173325/Originals/cach-uop-thit-heo-quay-1.jpg"
+    ],
+    "description": "Thịt heo (thịt lợn) là loại thịt đỏ phổ biến nhất trong các bữa ăn hàng ngày. Nó cung cấp dồi dào protein và chất béo, rất dễ ăn, dễ mua và cực kỳ linh hoạt để chế biến thành đủ các món cơ bản như luộc, kho, xào hay nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "name": "Trứng vịt",
+    "categoryId": 4,
+    "protein": 13.02,
+    "carb": 2.94,
+    "fat": 12.02,
+    "createdAt": "30:09.0",
+    "updatedAt": "30:09.0",
+    "unit": "NUMBER",
+    "images": [
+      "https://cafefcdn.com/zoom/700_438/2019/2/16/trung-vit-khung-2-1491360304-1550284908356554481215-crop-15502849173601061841310.jpg"
+    ],
+    "description": "Trứng vịt là loại trứng gia cầm phổ biến, có kích thước to và vỏ dày hơn trứng gà. Nhờ phần lòng đỏ lớn, trứng vịt mang lại vị béo ngậy và đậm đà đặc trưng. Loại trứng này rất giàu dinh dưỡng, thường được dùng để chiên, luộc, hoặc làm các món quen thuộc như trứng muối, trứng bắc thảo và trứng vịt lộn.",
+    "isDeleted": false
+  },
+  {
+    "id": 3,
+    "name": "Thịt bò",
+    "categoryId": 2,
+    "protein": 21.0,
+    "carb": 0.0,
+    "fat": 3.8,
+    "createdAt": "30:38.0",
+    "updatedAt": "30:38.0",
+    "unit": "GAM",
+    "images": [
+      "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/1/10/1136463/Thit-Bo-That-01.jpg"
+    ],
+    "description": "Thịt bò là loại thịt đỏ đặc biệt giàu dinh dưỡng, nổi bật với hàm lượng sắt và protein cao giúp phát triển cơ bắp và bổ máu. Thịt có hương vị đậm đà, kết cấu đa dạng từ mềm đến dai, rất lý tưởng cho các món xào, nhúng lẩu, nấu phở hay bít tết.",
+    "isDeleted": false
+  },
+  {
+    "id": 4,
+    "name": "Khoai tây",
+    "categoryId": 1,
+    "protein": 2.0,
+    "carb": 21.93,
+    "fat": 0.07,
+    "createdAt": "31:23.0",
+    "updatedAt": "31:23.0",
+    "unit": "GAM",
+    "images": [
+      "https://nongsanhoadan.com.vn/wp-content/uploads/2024/05/product16232-1.jpg"
+    ],
+    "description": "Khoai tây là loại củ giàu tinh bột, có vị bùi và dễ chế biến thành nhiều món như chiên, nướng, nghiền hoặc nấu canh. Đây là nguồn cung cấp năng lượng phổ biến trong bữa ăn hằng ngày. Khoai tây chứa nhiều carbohydrate, ít chất béo và một lượng nhỏ protein.",
+    "isDeleted": false
+  },
+  {
+    "id": 5,
+    "name": "Cà chua",
+    "categoryId": 1,
+    "protein": 0.6,
+    "carb": 4.77,
+    "fat": 0.23,
+    "createdAt": "31:48.0",
+    "updatedAt": "31:48.0",
+    "unit": "GAM",
+    "images": [
+      "https://bactom.com/wp-content/uploads/2020/09/ca-chua.jpg"
+    ],
+    "description": "Cà chua là loại quả thường được sử dụng như rau trong nấu ăn, có vị chua ngọt nhẹ và nhiều nước. Nó thường xuất hiện trong salad, món xào, canh hoặc sốt. Cà chua chứa ít đạm, ít béo và một lượng nhỏ carbohydrate, thích hợp cho món ăn thanh nhẹ.",
+    "isDeleted": false
+  },
+  {
+    "id": 6,
+    "name": "Hành tây",
+    "categoryId": 1,
+    "protein": 1.8,
+    "carb": 9.29,
+    "fat": 0.11,
+    "createdAt": "07:36.0",
+    "updatedAt": "07:36.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.huongnghiepaau.com/wp-content/uploads/2020/10/hanh-tay.jpg"
+    ],
+    "description": "Hành tây là nguyên liệu tạo mùi thơm và vị ngọt tự nhiên cho món ăn khi được xào hoặc nấu chín. Nó thường dùng trong các món xào, nước sốt, súp và món nướng. Hành tây có hàm lượng carbohydrate ở mức vừa phải, rất ít protein và chất béo.",
+    "isDeleted": false
+  },
+  {
+    "id": 7,
+    "name": "Thịt gà",
+    "categoryId": 2,
+    "protein": 20.3,
+    "carb": 0.0,
+    "fat": 13.1,
+    "createdAt": "08:10.0",
+    "updatedAt": "08:10.0",
+    "unit": "GAM",
+    "images": [
+      "https://file.hstatic.net/200000385717/article/bia_79ae2c15b7214c8a81c212d4d736f750.jpg"
+    ],
+    "description": "Thịt gà là nguyên liệu phổ biến, có thịt mềm, dễ ăn và phù hợp với nhiều cách chế biến như luộc, chiên, nướng, hấp hoặc nấu cháo. Thịt gà cung cấp nhiều protein, ít carbohydrate và lượng chất béo thay đổi tùy phần thịt. Đây là lựa chọn quen thuộc trong bữa ăn gia đình.",
+    "isDeleted": false
+  },
+  {
+    "id": 8,
+    "name": "Sườn heo",
+    "categoryId": 2,
+    "protein": 17.9,
+    "carb": 0.0,
+    "fat": 12.8,
+    "createdAt": "08:45.0",
+    "updatedAt": "08:45.0",
+    "unit": "GAM",
+    "images": [
+      "https://tongkhothucpham.com.vn/uploads/file/baiviet/3-suon-non-ba-lan-1-600x450-2.jpg"
+    ],
+    "description": "Sườn heo là phần thịt có cả nạc và mỡ xen kẽ quanh xương, thường dùng để nướng, rim, kho hoặc nấu canh. Sườn heo có vị ngọt tự nhiên và mềm khi nấu đúng cách. Thành phần dinh dưỡng gồm nhiều protein, chất béo và hầu như không có carbohydrate.",
+    "isDeleted": false
+  },
+  {
+    "id": 9,
+    "name": "Tôm",
+    "categoryId": 3,
+    "protein": 17.6,
+    "carb": 0.9,
+    "fat": 0.9,
+    "createdAt": "09:08.0",
+    "updatedAt": "09:08.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/2/2240000000008-1.jpg.webp"
+    ],
+    "description": "Tôm là loại hải sản có thịt ngọt, săn chắc và được sử dụng trong nhiều món hấp, luộc, nướng, xào hoặc chiên. Tôm giàu protein, rất ít carbohydrate và có lượng chất béo thấp. Đây là nguyên liệu phổ biến trong cả món ăn gia đình lẫn nhà hàng.",
+    "isDeleted": false
+  },
+  {
+    "id": 10,
+    "name": "Cá hồi",
+    "categoryId": 3,
+    "protein": 22.0,
+    "carb": 0.0,
+    "fat": 5.3,
+    "createdAt": "09:44.0",
+    "updatedAt": "09:44.0",
+    "unit": "GAM",
+    "images": [
+      "https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467f477c80167f4aa053f0c68/032019/dinhduongcahoipkbh_2019031894023.jpg"
+    ],
+    "description": "Cá hồi là loại cá giàu dinh dưỡng, có thịt mềm, màu cam hồng đặc trưng và hương vị béo nhẹ. Nó thường được chế biến thành món áp chảo, nướng, sashimi hoặc salad. Cá hồi cung cấp nhiều protein và chất béo tốt, gần như không chứa carbohydrate.",
+    "isDeleted": false
+  },
+  {
+    "id": 11,
+    "name": "Mực",
+    "categoryId": 3,
+    "protein": 16.3,
+    "carb": 0.0,
+    "fat": 0.9,
+    "createdAt": "09:59.0",
+    "updatedAt": "09:59.0",
+    "unit": "GAM",
+    "images": [
+      "https://fujimart.vn/wp-content/uploads/2023/11/Muc-ong-nguyen-con.png"
+    ],
+    "description": "Mực là hải sản có độ dai giòn đặc trưng, thường được dùng trong các món hấp, nướng, xào hoặc chiên giòn. Mực có hàm lượng protein khá cao, ít chất béo và lượng carbohydrate thấp. Đây là nguyên liệu được ưa chuộng trong nhiều món hải sản.",
+    "isDeleted": false
+  },
+  {
+    "id": 12,
+    "name": "Trứng gà",
+    "categoryId": 4,
+    "protein": 12.79,
+    "carb": 1.89,
+    "fat": 8.17,
+    "createdAt": "10:33.0",
+    "updatedAt": "10:33.0",
+    "unit": "NUMBER",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/0/4/0400206860000.jpg.webp"
+    ],
+    "description": "Trứng gà là thực phẩm quen thuộc, dễ chế biến thành nhiều món như luộc, chiên, hấp, làm bánh hoặc nấu súp. Đây là nguồn cung cấp protein chất lượng cao, chất béo và nhiều vi chất quan trọng. Trứng gà có lượng carbohydrate thấp, phù hợp với nhiều khẩu phần ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 13,
+    "name": "Đậu hũ",
+    "categoryId": null,
+    "protein": 10.9,
+    "carb": 1.1,
+    "fat": 5.4,
+    "createdAt": "12:14.0",
+    "updatedAt": "12:14.0",
+    "unit": "GAM",
+    "images": [
+      "https://sakuraschools.edu.vn/wp-content/uploads/2024/03/Dau-hu-non-mang-den-nhung-loi-ich-tuyet-voi-cho-tre-an-dam.jpg"
+    ],
+    "description": "Đậu hũ là thực phẩm được làm từ đậu nành, có kết cấu mềm và dễ thấm gia vị. Đây là nguyên liệu phổ biến trong món chay, món kho, chiên, nấu canh hoặc sốt. Đậu hũ cung cấp protein thực vật, một ít chất béo và lượng carbohydrate thấp.",
+    "isDeleted": false
+  },
+  {
+    "id": 14,
+    "name": "Đậu xanh",
+    "categoryId": 7,
+    "protein": 23.4,
+    "carb": 57.8,
+    "fat": 2.4,
+    "createdAt": "12:49.0",
+    "updatedAt": "12:49.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2025/1/14/photo-1736829040783-1736829041120101757243.jpeg"
+    ],
+    "description": "Đậu xanh là loại hạt quen thuộc trong ẩm thực Việt Nam, thường dùng nấu chè, cháo, xôi hoặc làm nhân bánh. Nó là nguồn carbohydrate, protein thực vật và chất xơ khá tốt. Đậu xanh phù hợp cho cả món ngọt lẫn món mặn.",
+    "isDeleted": false
+  },
+  {
+    "id": 15,
+    "name": "Cà rốt",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 9.03,
+    "fat": 0.17,
+    "createdAt": "13:27.0",
+    "updatedAt": "13:27.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/ca-rot-huu-co_051657cb99144443bac8015f6dd34dae_1024x1024.jpg"
+    ],
+    "description": "Cà rốt là loại củ có màu cam đặc trưng, vị ngọt nhẹ và giòn. Đây là nguyên liệu phổ biến trong các món xào, hầm, súp, salad hoặc ăn sống. Cà rốt cung cấp carbohydrate, chất xơ cùng một lượng nhỏ protein và chất béo, phù hợp cho nhiều chế độ ăn uống lành mạnh.",
+    "isDeleted": false
+  },
+  {
+    "id": 16,
+    "name": "Táo",
+    "categoryId": 8,
+    "protein": 0.5,
+    "carb": 11.71,
+    "fat": 0.09,
+    "createdAt": "13:38.0",
+    "updatedAt": "13:38.0",
+    "unit": "GAM",
+    "images": [
+      "https://benhvienk.vn/data/media/1601/images/16100958642348_tao-do-my-red-delicious-size-36-44.jpg"
+    ],
+    "description": "Táo là loại trái cây có vị ngọt thanh hoặc chua nhẹ, thường ăn trực tiếp, ép nước hoặc dùng trong salad và món tráng miệng. Táo chứa chủ yếu là carbohydrate cùng một lượng rất nhỏ protein và chất béo. Đây là nguyên liệu phù hợp cho thực đơn nhẹ.",
+    "isDeleted": false
+  },
+  {
+    "id": 17,
+    "name": "Chuối",
+    "categoryId": 8,
+    "protein": 0.9,
+    "carb": 15.0,
+    "fat": 0.3,
+    "createdAt": "14:14.0",
+    "updatedAt": "14:14.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2021/10/14/chuoi1-16341869574602070184903.jpg"
+    ],
+    "description": "Chuối là loại trái cây phổ biến, có vị ngọt tự nhiên, mềm và dễ ăn. Nó thường được dùng trực tiếp, làm sinh tố, món tráng miệng hoặc kết hợp trong một số món bánh. Chuối cung cấp carbohydrate, một ít protein và rất ít chất béo.",
+    "isDeleted": false
+  },
+  {
+    "id": 18,
+    "name": "Bắp",
+    "categoryId": 1,
+    "protein": 4.1,
+    "carb": 40.8,
+    "fat": 2.3,
+    "createdAt": "15:10.0",
+    "updatedAt": "15:10.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/ngongot_efdb710405b44b06a1ea02e5db5cf3f9.jpg"
+    ],
+    "description": "Bắp là loại ngũ cốc có vị ngọt nhẹ, hạt vàng đặc trưng, thường dùng để luộc, nướng, nấu chè hoặc làm bắp rang. Nó cung cấp tinh bột, chất xơ và năng lượng cho cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 19,
+    "name": "Bắp cải",
+    "categoryId": 1,
+    "protein": 1.8,
+    "carb": 6.91,
+    "fat": 0.09,
+    "createdAt": "15:48.0",
+    "updatedAt": "15:48.0",
+    "unit": "GAM",
+    "images": [
+      "https://phfood.vn/wp-content/uploads/2022/05/rau-cai-bap-1kg-phfood-1.jpg"
+    ],
+    "description": "Bắp cải là loại rau có lá xếp lớp, vị ngọt nhẹ, thường dùng để luộc, xào hoặc làm salad. Nó giàu chất xơ và vitamin C, tốt cho hệ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 20,
+    "name": "Bầu",
+    "categoryId": 1,
+    "protein": 0.6,
+    "carb": 3.88,
+    "fat": 0.02,
+    "createdAt": "16:36.0",
+    "updatedAt": "16:36.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkD1EwsAn9KqdKRGKqmo-LbH7NnHGU6i7XA&s"
+    ],
+    "description": "Bầu là loại rau quả có vị thanh mát, thường dùng để nấu canh hoặc luộc. Bầu giúp giải nhiệt và hỗ trợ tiêu hóa tốt.",
+    "isDeleted": false
+  },
+  {
+    "id": 21,
+    "name": "Bí đỏ",
+    "categoryId": 1,
+    "protein": 0.3,
+    "carb": 6.83,
+    "fat": 0.07,
+    "createdAt": "17:40.0",
+    "updatedAt": "17:40.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.tuoitre.vn/thumb_w/480/471584752817336320/2024/3/7/bi-do1-17097757685131285490179.jpg"
+    ],
+    "description": "Bí đỏ có vị ngọt nhẹ, màu vàng cam đặc trưng, thường dùng nấu canh, súp hoặc làm bánh. Nó giàu vitamin A và tốt cho mắt.",
+    "isDeleted": false
+  },
+  {
+    "id": 22,
+    "name": "Súp lơ",
+    "categoryId": 1,
+    "protein": 2.95,
+    "carb": 6.08,
+    "fat": 0.3,
+    "createdAt": "18:16.0",
+    "updatedAt": "18:16.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/Iikzf7utMQJ73BIhnWDqPGX4Ky9904yr0gzbFTIzENAJAB3LD-3MDghlL348x3qtvMSq55nxK9X3w9Pued6fx7_nt2w9EFU=rw"
+    ],
+    "description": "Súp lơ (bông cải) có màu trắng hoặc xanh, vị giòn nhẹ, thường luộc, xào hoặc hấp. Đây là nguồn vitamin và chất chống oxy hóa dồi dào.",
+    "isDeleted": false
+  },
+  {
+    "id": 23,
+    "name": "Bưởi",
+    "categoryId": 8,
+    "protein": 0.2,
+    "carb": 8.0,
+    "fat": 0.0,
+    "createdAt": "18:43.0",
+    "updatedAt": "18:43.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000157781/product/buoi_da_xanh_tan_trieu__4__e1fa8caf597c436e8f805ff7f61cdae3.png"
+    ],
+    "description": "Bưởi là loại trái cây có vị chua ngọt, mọng nước, thường ăn trực tiếp hoặc làm gỏi. Bưởi giàu vitamin C và tốt cho hệ miễn dịch.",
+    "isDeleted": false
+  },
+  {
+    "id": 24,
+    "name": "Bún",
+    "categoryId": null,
+    "protein": 1.7,
+    "carb": 25.3,
+    "fat": 0.9,
+    "createdAt": "18:53.0",
+    "updatedAt": "18:53.0",
+    "unit": "GAM",
+    "images": [
+      "https://image.bephoa.vn/data/thumb_750/2023/09/20230904173110612.webp"
+    ],
+    "description": "Bún là thực phẩm làm từ gạo, dạng sợi mềm, thường dùng trong các món nước hoặc trộn. Đây là nguồn tinh bột phổ biến trong ẩm thực Việt.",
+    "isDeleted": false
+  },
+  {
+    "id": 25,
+    "name": "Cá basa",
+    "categoryId": 3,
+    "protein": 15.2,
+    "carb": 0.0,
+    "fat": 0.02,
+    "createdAt": "19:18.0",
+    "updatedAt": "19:18.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/0/2040830000007-4.jpg.webp"
+    ],
+    "description": "Cá basa là loại cá nước ngọt có thịt trắng, mềm và ít xương, thường dùng để kho, chiên hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 26,
+    "name": "Cá dìa",
+    "categoryId": 3,
+    "protein": 18.0,
+    "carb": 0.0,
+    "fat": 8.8,
+    "createdAt": "19:18.0",
+    "updatedAt": "19:18.0",
+    "unit": "GAM",
+    "images": [
+      "https://haisan.online/wp-content/uploads/2022/01/ca-dia-bien-22-1.jpg"
+    ],
+    "description": "Cá dĩa là loại cá nước ngọt có thịt mềm, thường được chế biến thành các món chiên hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 27,
+    "name": "Cá ngừ",
+    "categoryId": 3,
+    "protein": 21.0,
+    "carb": 0.0,
+    "fat": 0.3,
+    "createdAt": "20:17.0",
+    "updatedAt": "20:17.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/8782/233857/bhx/ca-ngu-202312251120276723.jpg"
+    ],
+    "description": "Cá ngừ là loại cá biển giàu protein, thường dùng làm sashimi, salad hoặc đóng hộp. Nó cũng chứa nhiều omega-3 tốt cho tim mạch.",
+    "isDeleted": false
+  },
+  {
+    "id": 28,
+    "name": "Cá nục",
+    "categoryId": 3,
+    "protein": 20.2,
+    "carb": 0.0,
+    "fat": 3.3,
+    "createdAt": "20:35.0",
+    "updatedAt": "20:35.0",
+    "unit": "GAM",
+    "images": [
+      "https://saithanhfoods.vn/wp-content/uploads/2019/05/chon-ca-nuc.jpg"
+    ],
+    "description": "Cá nục có thịt chắc, vị béo nhẹ, thường được kho, chiên hoặc nướng. Đây là nguồn protein phổ biến trong bữa ăn gia đình.",
+    "isDeleted": false
+  },
+  {
+    "id": 29,
+    "name": "Đậu cove",
+    "categoryId": 1,
+    "protein": 1.9,
+    "carb": 0.0,
+    "fat": 7.0,
+    "createdAt": "20:35.0",
+    "updatedAt": "20:35.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.hasfarmgreens.com/wp-content/uploads/2021/07/Dau-cove-4.jpg"
+    ],
+    "description": "Đậu cove là loại rau có dạng quả dài, giòn, thường dùng để xào hoặc luộc. Nó chứa nhiều chất xơ và vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 30,
+    "name": "Cá thu",
+    "categoryId": 2,
+    "protein": 18.2,
+    "carb": 0.0,
+    "fat": 10.3,
+    "createdAt": "21:22.0",
+    "updatedAt": "21:22.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/large/100/455/816/products/cathulat4.png?v=1689125512860"
+    ],
+    "description": "Cá thu là cá biển có thịt béo, giàu omega-3, thường được chiên, kho hoặc nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 31,
+    "name": "Cà tím",
+    "categoryId": 1,
+    "protein": 1.0,
+    "carb": 6.0,
+    "fat": 0.0,
+    "createdAt": "21:42.0",
+    "updatedAt": "21:42.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/2/2292170000005-1-bb.jpg.webp"
+    ],
+    "description": "Cà tím có vỏ tím đặc trưng, thịt mềm, thường dùng để nướng, xào hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 32,
+    "name": "Cải cay",
+    "categoryId": 1,
+    "protein": 1.7,
+    "carb": 3.76,
+    "fat": 0.14,
+    "createdAt": "22:54.0",
+    "updatedAt": "22:54.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/390/808/products/417703-aadd29cc34ac4e77ad0a253a570c41fd-large.jpg?v=1592815671443"
+    ],
+    "description": "Cải cay là loại rau có vị hơi nồng, thường dùng trong các món xào hoặc muối chua.",
+    "isDeleted": false
+  },
+  {
+    "id": 33,
+    "name": "Cải ngọt",
+    "categoryId": 1,
+    "protein": 1.4,
+    "carb": 2.62,
+    "fat": 0.1,
+    "createdAt": "23:08.0",
+    "updatedAt": "23:08.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.hasfarmgreens.com/wp-content/uploads/2023/03/DSC_0255-Edit.jpg"
+    ],
+    "description": "Cải ngọt là rau xanh phổ biến, vị ngọt nhẹ, thường dùng để luộc hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 34,
+    "name": "Cải thảo",
+    "categoryId": 1,
+    "protein": 0.9,
+    "carb": 2.57,
+    "fat": 0.0,
+    "createdAt": "23:18.0",
+    "updatedAt": "23:18.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/cai-thao-huu-co_d5a332d40bf843e283c45aae5039351c_1024x1024.jpg"
+    ],
+    "description": "Cải thảo có lá mềm, vị ngọt, thường dùng nấu canh, lẩu hoặc làm kim chi.",
+    "isDeleted": false
+  },
+  {
+    "id": 35,
+    "name": "Cam",
+    "categoryId": 8,
+    "protein": 0.9,
+    "carb": 9.74,
+    "fat": 0.06,
+    "createdAt": "23:29.0",
+    "updatedAt": "23:29.0",
+    "unit": "GAM",
+    "images": [
+      "https://traicaytonyteo.com/uploads/source/cam-sanh-4-min.jpg"
+    ],
+    "description": "Cam là trái cây có vị chua ngọt, giàu vitamin C, thường ăn trực tiếp hoặc ép nước.",
+    "isDeleted": false
+  },
+  {
+    "id": 36,
+    "name": "Chanh",
+    "categoryId": 8,
+    "protein": 0.9,
+    "carb": 5.96,
+    "fat": 0.14,
+    "createdAt": "23:46.0",
+    "updatedAt": "23:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000282430/product/organic-seedless-lime_456e3363df7240c0a755876157124fde_master.jpg"
+    ],
+    "description": "Chanh có vị chua mạnh, thường dùng làm gia vị hoặc nước uống giải khát.",
+    "isDeleted": false
+  },
+  {
+    "id": 37,
+    "name": "Dưa hấu",
+    "categoryId": 8,
+    "protein": 1.2,
+    "carb": 2.8,
+    "fat": 0.2,
+    "createdAt": "23:55.0",
+    "updatedAt": "23:55.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdnphoto.dantri.com.vn/oL0vCNq3jl-uyK-XV-1wNyvhs9k=/thumb_w/1020/2020/12/19/duahau-1608348653200.jpg"
+    ],
+    "description": "Dưa hấu là trái cây mọng nước, vị ngọt mát, thường dùng để giải nhiệt trong thời tiết nóng.",
+    "isDeleted": false
+  },
+  {
+    "id": 38,
+    "name": "Dưa leo",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 3.61,
+    "fat": 0.09,
+    "createdAt": "24:12.0",
+    "updatedAt": "24:12.0",
+    "unit": "GAM",
+    "images": [
+      "https://hoayeuthuong.com/hinh-hoa-tuoi/moingay/11896_dua-leo-lon-kg.jpg"
+    ],
+    "description": "Dưa leo là loại rau quả có vị mát, giòn, thường ăn sống, làm salad hoặc ăn kèm món chính. Nó giúp giải nhiệt và bổ sung nước cho cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 39,
+    "name": "Đậu bắp",
+    "categoryId": 1,
+    "protein": 1.87,
+    "carb": 4.51,
+    "fat": 0.21,
+    "createdAt": "24:12.0",
+    "updatedAt": "24:12.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000354044/product/vdvf9jtufhrs80n2m0owrjyy1iyjc1ltq0ndatowrhnc03mje3mja1odk1ntcuanblzyj9_cbc8d3a9df114e2e8b81ac2cb2387403_master.jpg"
+    ],
+    "description": "Đậu bắp là loại quả có nhớt nhẹ, thường dùng luộc, xào hoặc nấu canh. Nó tốt cho tiêu hóa và hỗ trợ kiểm soát đường huyết.",
+    "isDeleted": false
+  },
+  {
+    "id": 40,
+    "name": "Đậu đen",
+    "categoryId": 5,
+    "protein": 24.2,
+    "carb": 57.3,
+    "fat": 1.7,
+    "createdAt": "26:29.0",
+    "updatedAt": "26:29.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2022/4/16/photo-1650076491726-16500764937021185083525.jpg"
+    ],
+    "description": "Đậu đen là loại đậu giàu dinh dưỡng, thường dùng nấu chè, nấu nước uống hoặc làm món ăn. Nó chứa nhiều chất xơ và protein.",
+    "isDeleted": false
+  },
+  {
+    "id": 41,
+    "name": "Đậu đỏ",
+    "categoryId": 5,
+    "protein": 17.3,
+    "carb": 57.0,
+    "fat": 0.2,
+    "createdAt": "26:29.0",
+    "updatedAt": "26:29.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.tuoitre.vn/thumb_w/480/2017/hinh-1-1504689783852.jpg"
+    ],
+    "description": "Đậu đỏ là loại đậu có vị bùi, thường dùng nấu chè, làm bánh hoặc nấu xôi. Nó cung cấp năng lượng và tốt cho tim mạch.",
+    "isDeleted": false
+  },
+  {
+    "id": 42,
+    "name": "Đậu phộng",
+    "categoryId": 5,
+    "protein": 25.8,
+    "carb": 16.1,
+    "fat": 49.2,
+    "createdAt": "26:29.0",
+    "updatedAt": "26:29.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.vinmec.com/static/uploads/20210524_042253_027495_an_lac_nhieu_2_max_1800x1800_jpg_1f678407c4.jpg"
+    ],
+    "description": "Đậu phộng là loại hạt giàu chất béo tốt, thường dùng rang, làm muối hoặc chế biến món ăn. Nó cung cấp nhiều năng lượng và protein.",
+    "isDeleted": false
+  },
+  {
+    "id": 43,
+    "name": "Giá",
+    "categoryId": 1,
+    "protein": 5.5,
+    "carb": 7.17,
+    "fat": 0.13,
+    "createdAt": "29:37.0",
+    "updatedAt": "29:37.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/Images/bichvan/2016/07/28/gia-do-mon-an-ly-tuong-lam-dep-dang.JPG"
+    ],
+    "description": "Giá là mầm của các loại đậu, có vị giòn, mát, thường dùng ăn sống hoặc xào. Nó giàu vitamin và hỗ trợ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 44,
+    "name": "Gừng",
+    "categoryId": 1,
+    "protein": 0.4,
+    "carb": 8.59,
+    "fat": 0.51,
+    "createdAt": "29:57.0",
+    "updatedAt": "29:57.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2021/10/9/gung1-16337361260722057114017.jpg"
+    ],
+    "description": "Gừng là loại gia vị có vị cay nồng, thường dùng để nấu ăn hoặc pha trà. Nó giúp làm ấm cơ thể và hỗ trợ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 45,
+    "name": "Hành lá",
+    "categoryId": 1,
+    "protein": 1.3,
+    "carb": 5.2,
+    "fat": 0.0,
+    "createdAt": "30:14.0",
+    "updatedAt": "30:14.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2025/12/25/cay-hanh-la-2-17666558536571030232682.jpg"
+    ],
+    "description": "Hành lá là loại rau gia vị có mùi thơm nhẹ, thường dùng để trang trí và tăng hương vị món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 46,
+    "name": "Hành tím",
+    "categoryId": 1,
+    "protein": 2.5,
+    "carb": 16.0,
+    "fat": 0.1,
+    "createdAt": "30:14.0",
+    "updatedAt": "30:14.0",
+    "unit": "GAM",
+    "images": [
+      "https://farm24h.vn/wp-content/uploads/2020/03/CUHANHTIM-3.jpg"
+    ],
+    "description": "Hành tím là loại củ có vị cay nhẹ, thường dùng để phi thơm hoặc làm gia vị trong nấu ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 47,
+    "name": "Khoai lang",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 29.8,
+    "fat": 0.2,
+    "createdAt": "31:38.0",
+    "updatedAt": "31:38.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/8785/220470/bhx/khoai-lang-nhat-202312280948119950.jpg"
+    ],
+    "description": "Khoai lang là loại củ có vị ngọt, thường luộc, nướng hoặc hấp. Nó giàu chất xơ và tốt cho hệ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 48,
+    "name": "Khổ qua",
+    "categoryId": 1,
+    "protein": 0.9,
+    "carb": 4.1,
+    "fat": 0.0,
+    "createdAt": "32:12.0",
+    "updatedAt": "32:12.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/kho-qua-huu-co_6465f3e31e9e4c9c97fbb803604bf6c7_1024x1024.jpg"
+    ],
+    "description": "Khổ qua là loại quả có vị đắng, thường dùng nấu canh hoặc xào. Nó có tác dụng thanh nhiệt và hỗ trợ giảm đường huyết.",
+    "isDeleted": false
+  },
+  {
+    "id": 49,
+    "name": "Lá lốt",
+    "categoryId": 1,
+    "protein": 4.3,
+    "carb": 7.9,
+    "fat": 0.0,
+    "createdAt": "32:40.0",
+    "updatedAt": "32:40.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/2014/la-lot-1411793674278.jpg"
+    ],
+    "description": "Lá lốt là loại lá có mùi thơm đặc trưng, thường dùng để cuốn thịt nướng hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 50,
+    "name": "Chân gà",
+    "categoryId": 2,
+    "protein": 20.0,
+    "carb": 0.2,
+    "fat": 14.3,
+    "createdAt": "32:40.0",
+    "updatedAt": "32:40.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/406/569/products/chan-ga-tui-500g-202012302231243004.jpg?v=1710560774007"
+    ],
+    "description": "Chân gà là phần thịt của gà có nhiều gân, thường dùng để luộc, nướng hoặc ngâm sả tắc.",
+    "isDeleted": false
+  },
+  {
+    "id": 51,
+    "name": "Lê",
+    "categoryId": 8,
+    "protein": 0.7,
+    "carb": 10.8,
+    "fat": 0.2,
+    "createdAt": "33:01.0",
+    "updatedAt": "33:01.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/8788/223091/bhx/le-duong-hop-1kg-4-6-trai-202205111941249856.jpg"
+    ],
+    "description": "Lê là loại trái cây có vị ngọt mát, mọng nước, thường ăn trực tiếp hoặc làm nước ép.",
+    "isDeleted": false
+  },
+  {
+    "id": 52,
+    "name": "Mận",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 4.6,
+    "fat": 0.2,
+    "createdAt": "33:42.0",
+    "updatedAt": "33:42.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrROiVHFK9nSyUS-mYaWH-7zWGuTfkOXZSw&s"
+    ],
+    "description": "Mận là loại trái cây có vị chua ngọt, thường ăn tươi hoặc dùng làm nước giải khát.",
+    "isDeleted": false
+  },
+  {
+    "id": 53,
+    "name": "Môn",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 26.4,
+    "fat": 0.2,
+    "createdAt": "33:55.0",
+    "updatedAt": "33:55.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/khoai_mon_bao_nhieu_calo_thumb_ff65e99ac1.jpg"
+    ],
+    "description": "Món là loại củ (khoai môn) có vị bùi, thường dùng nấu canh, chè hoặc chiên.",
+    "isDeleted": false
+  },
+  {
+    "id": 54,
+    "name": "Mồng tơi",
+    "categoryId": 1,
+    "protein": 2.0,
+    "carb": 3.9,
+    "fat": 0.0,
+    "createdAt": "34:16.0",
+    "updatedAt": "34:16.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lyNvYqqwEWlGugtG774b-KJMYn7XtLbW6Q&s"
+    ],
+    "description": "Mồng tơi là loại rau có nhớt nhẹ, thường dùng nấu canh. Nó giúp giải nhiệt và tốt cho tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 55,
+    "name": "Mướp",
+    "categoryId": 1,
+    "protein": 0.9,
+    "carb": 3.36,
+    "fat": 0.14,
+    "createdAt": "34:25.0",
+    "updatedAt": "34:25.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.eva.vn/upload/4-2021/images/2021-12-17/tac-dung-cua-qua-muop-muop-rat-ngon-nhung-2-nguoi-nay-khong-duoc-an-va-k-1639757967-959-width640height394.jpg"
+    ],
+    "description": "Mướp là loại quả có vị ngọt nhẹ, thường dùng nấu canh hoặc xào. Nó có tác dụng thanh mát cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 56,
+    "name": "Nấm kim châm",
+    "categoryId": 1,
+    "protein": 2.66,
+    "carb": 7.81,
+    "fat": 0.29,
+    "createdAt": "34:34.0",
+    "updatedAt": "34:34.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Files/2020/12/12/1313297/nam-kim-cham-la-gi-loi-ich-cua-nam-kim-cham-nam-kim-cham-nau-gi-ngon-202012121617538700.jpg"
+    ],
+    "description": "Nấm kim châm là loại nấm thân dài, giòn, thường dùng trong lẩu, canh hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 57,
+    "name": "Nấm rơm",
+    "categoryId": 1,
+    "protein": 3.6,
+    "carb": 4.5,
+    "fat": 3.2,
+    "createdAt": "34:40.0",
+    "updatedAt": "34:40.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdnphoto.dantri.com.vn/ebqWNLWs7WfrakHF02I1s-LvfUk=/thumb_w/990/2021/06/05/bo-tui-bi-kip-chon-mot-so-loai-nam-thong-dungdocx-1622892967678.png"
+    ],
+    "description": "Nấm rơm là loại nấm có vị ngọt nhẹ, thường dùng nấu canh hoặc xào. Nó giàu dinh dưỡng và dễ ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 58,
+    "name": "Nghệ",
+    "categoryId": 1,
+    "protein": 1.1,
+    "carb": 11.0,
+    "fat": 0.3,
+    "createdAt": "35:05.0",
+    "updatedAt": "35:05.0",
+    "unit": "GAM",
+    "images": [
+      "https://images2.thanhnien.vn/528068263637045248/2024/8/24/nghe-cu-1724510168956248789894.jpg"
+    ],
+    "description": "Nghệ là loại củ có màu vàng, thường dùng làm gia vị hoặc trong y học. Nó có tính kháng viêm và tốt cho sức khỏe.",
+    "isDeleted": false
+  },
+  {
+    "id": 59,
+    "name": "Ớt",
+    "categoryId": 1,
+    "protein": 1.4,
+    "carb": 2.6,
+    "fat": 0.2,
+    "createdAt": "35:30.0",
+    "updatedAt": "35:30.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2022/6/18/cach-an-che-bien-bao-quan-ot-2-1655566236587196946971.jpg"
+    ],
+    "description": "Ớt là loại quả có vị cay, thường dùng làm gia vị để tăng hương vị món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 60,
+    "name": "Ớt chuông",
+    "categoryId": 1,
+    "protein": 1.0,
+    "carb": 6.0,
+    "fat": 0.3,
+    "createdAt": "35:30.0",
+    "updatedAt": "35:30.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PN3_NUpAuJ-q0dSOwNA0NaD_liVSXcuw7g&s"
+    ],
+    "description": "Ớt chuông là loại ớt có vị ngọt, nhiều màu sắc, thường dùng trong salad hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 61,
+    "name": "Rau lang",
+    "categoryId": 1,
+    "protein": 2.6,
+    "carb": 3.99,
+    "fat": 0.21,
+    "createdAt": "36:43.0",
+    "updatedAt": "36:43.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lau_lang_ky_voi_rau_gi_03734deff1.jpg"
+    ],
+    "description": "Rau lang là lá khoai lang, thường dùng luộc hoặc xào. Nó giàu chất xơ và tốt cho tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 62,
+    "name": "Quýt",
+    "categoryId": 8,
+    "protein": 0.8,
+    "carb": 12.0,
+    "fat": 0.3,
+    "createdAt": "36:43.0",
+    "updatedAt": "36:43.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000157781/product/quyt_vang_da_lat_a04b07b4a7b04964bed40423fcd37e67.png"
+    ],
+    "description": "Quýt là loại trái cây có vị chua ngọt, dễ bóc vỏ, thường ăn trực tiếp. Nó giàu vitamin C và tốt cho sức đề kháng.",
+    "isDeleted": false
+  },
+  {
+    "id": 63,
+    "name": "Rau muống",
+    "categoryId": 1,
+    "protein": 3.2,
+    "carb": 3.26,
+    "fat": 0.24,
+    "createdAt": "37:23.0",
+    "updatedAt": "37:23.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/rau_muong_huu_co_c9a3ac40b83542158cc777090bee8441.png"
+    ],
+    "description": "Rau muống là loại rau phổ biến, thường dùng luộc hoặc xào. Nó có vị giòn và dễ ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 64,
+    "name": "Sả",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 16.5,
+    "fat": 1.0,
+    "createdAt": "37:39.0",
+    "updatedAt": "37:39.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/390/808/products/sa-cay.png?v=1592639694320"
+    ],
+    "description": "Sả là loại gia vị có mùi thơm mạnh, thường dùng trong các món kho, nướng hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 65,
+    "name": "Tắc",
+    "categoryId": 1,
+    "protein": 0.9,
+    "carb": 9.6,
+    "fat": 0.0,
+    "createdAt": "38:40.0",
+    "updatedAt": "38:40.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/0/4/0400272430008-1.jpg.webp"
+    ],
+    "description": "Tắc là loại quả nhỏ có vị chua, thường dùng làm nước uống hoặc gia vị.",
+    "isDeleted": false
+  },
+  {
+    "id": 66,
+    "name": "Thanh long",
+    "categoryId": 8,
+    "protein": 1.3,
+    "carb": 10.5,
+    "fat": 0.0,
+    "createdAt": "39:09.0",
+    "updatedAt": "39:09.0",
+    "unit": "GAM",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hylocereus_undatus_red_pitahaya.jpg"
+    ],
+    "description": "Thanh long là loại trái cây có vị ngọt nhẹ, mọng nước, thường ăn trực tiếp hoặc làm sinh tố. Nó giúp giải nhiệt và tốt cho tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 67,
+    "name": "Thơm",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 7.3,
+    "fat": 0.0,
+    "createdAt": "40:07.0",
+    "updatedAt": "40:07.0",
+    "unit": "GAM",
+    "images": [
+      "https://shop.annam-gourmet.com/pub/media/catalog/product/i/t/item_F136160_6235.jpg"
+    ],
+    "description": "Thơm (dứa) là loại trái cây có vị chua ngọt, thơm đặc trưng, thường ăn tươi hoặc ép nước. Nó hỗ trợ tiêu hóa và bổ sung vitamin C.",
+    "isDeleted": false
+  },
+  {
+    "id": 68,
+    "name": "Trứng cút",
+    "categoryId": 4,
+    "protein": 1.0,
+    "carb": 0.0,
+    "fat": 1.0,
+    "createdAt": "40:07.0",
+    "updatedAt": "40:07.0",
+    "unit": "NUMBER",
+    "images": [
+      "https://anvita.sgp1.cdn.digitaloceanspaces.com/ubofood/images/trung-cut-ba-huan-16450227033_1000_750_6d9121d5-8c4a-4367-bab5-94f8be6e10bc.JPEG"
+    ],
+    "description": "Trứng cút là thực phẩm giàu protein, thường được luộc, chiên hoặc dùng trong các món ăn vặt.",
+    "isDeleted": false
+  },
+  {
+    "id": 69,
+    "name": "Xà lách",
+    "categoryId": 1,
+    "protein": 1.36,
+    "carb": 2.87,
+    "fat": 0.0,
+    "createdAt": "40:07.0",
+    "updatedAt": "40:07.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.vinmec.com/static/uploads/medium_20210106_041321_793265_hat_giong_rau_xa_la_max_1800x1800_jpg_c51fb39d72.jpg"
+    ],
+    "description": "Xà lách là loại rau sống có vị giòn, mát, thường dùng trong salad hoặc ăn kèm các món chính.",
+    "isDeleted": false
+  },
+  {
+    "id": 70,
+    "name": "Xoài",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 15.9,
+    "fat": 0.3,
+    "createdAt": "42:31.0",
+    "updatedAt": "42:31.0",
+    "unit": "GAM",
+    "images": [
+      "https://chuahoangphap.com.vn/Images/News/bizmac__full_27002.jpg"
+    ],
+    "description": "Xoài là trái cây có vị chua hoặc ngọt tùy độ chín, thường ăn trực tiếp, làm sinh tố hoặc gỏi.",
+    "isDeleted": false
+  },
+  {
+    "id": 71,
+    "name": "Cải thìa",
+    "categoryId": 1,
+    "protein": 1.4,
+    "carb": 4.26,
+    "fat": 0.14,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EoqDWmIqHpfgzJtM0wLmwu7kFWh-bQRqAQ&s"
+    ],
+    "description": "Cải thìa là loại rau xanh có lá mềm, vị ngọt nhẹ, thường dùng để xào hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 72,
+    "name": "Gạo Tẻ",
+    "categoryId": 5,
+    "protein": 7.1,
+    "carb": 79.0,
+    "fat": 0.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://tiki.vn/blog/wp-content/uploads/2025/06/gao-te-thumbnail-696x464.png"
+    ],
+    "description": "Gạo tẻ là lương thực chính trong bữa ăn hằng ngày, thường được nấu thành cơm, cháo hoặc bún, bánh. Đây là nguồn cung cấp carbohydrate chủ yếu cho cơ thể. Gạo có hàm lượng chất béo rất thấp và chỉ chứa một lượng nhỏ protein.",
+    "isDeleted": false
+  },
+  {
+    "id": 73,
+    "name": "Muối",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://abalanca.com/wp-content/uploads/2025/05/Anh-tren-web-2-1024x576.png"
+    ],
+    "description": "Muối là gia vị cơ bản dùng để nêm nếm và bảo quản thực phẩm. Nó không cung cấp protein, carbohydrate hay chất béo nhưng có vai trò quan trọng trong việc tạo vị mặn cho món ăn. Muối thường được sử dụng với lượng nhỏ trong hầu hết công thức nấu ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 74,
+    "name": "Đường",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 100.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/163326/Originals/%C4%91u%CC%9Bo%CC%9B%CC%80ng%201.jpeg"
+    ],
+    "description": "Đường là gia vị tạo vị ngọt, thường dùng trong món ăn, thức uống và các loại bánh. Đây là nguồn carbohydrate tinh chế, không chứa protein và chất béo. Đường thường được dùng để cân bằng hương vị hoặc làm tăng độ hấp dẫn cho món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 75,
+    "name": "Nước Mắm",
+    "categoryId": 6,
+    "protein": 10.0,
+    "carb": 5.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.vov.vn/sites/default/files/styles/large/public/2024-11/cach_su_dung_nuoc_mam_1.jpg"
+    ],
+    "description": "Nước mắm là gia vị truyền thống có vị mặn đậm đà, thường dùng để nêm nếm, pha nước chấm hoặc ướp thực phẩm. Thành phần dinh dưỡng của nước mắm không đáng kể về carbohydrate và chất béo, nhưng có thể chứa một lượng nhỏ protein hòa tan.",
+    "isDeleted": false
+  },
+  {
+    "id": 76,
+    "name": "Bột Mì",
+    "categoryId": 7,
+    "protein": 10.3,
+    "carb": 76.3,
+    "fat": 1.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/2021/06/CookProduct/Untitled-2-1200x676.jpg"
+    ],
+    "description": "Bột mì là nguyên liệu cơ bản trong làm bánh, mì sợi, bột chiên và nhiều món ăn khác. Nó chứa hàm lượng carbohydrate cao, một lượng protein vừa phải và ít chất béo. Bột mì là thành phần nền quan trọng trong nhiều công thức chế biến.",
+    "isDeleted": false
+  },
+  {
+    "id": 77,
+    "name": "Sữa Tươi",
+    "categoryId": 4,
+    "protein": 3.4,
+    "carb": 4.8,
+    "fat": 3.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://file.hstatic.net/1000276446/file/20200516_090815_108358_sua.max-800x800_3c3ab99581d1422bb25ae9a153a15706_grande.jpg"
+    ],
+    "description": "Sữa tươi là nguyên liệu phổ biến trong đồ uống, món tráng miệng và nấu ăn. Nó có vị béo nhẹ, cung cấp protein, carbohydrate từ đường sữa và một lượng chất béo nhất định. Sữa tươi thường được dùng làm nền cho sinh tố, bánh hoặc nước sốt.",
+    "isDeleted": false
+  },
+  {
+    "id": 78,
+    "name": "Ổi",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 12.94,
+    "fat": 0.76,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000141988/product/oi_1c8809c9f152475e880bd900f70dba5f_master.png"
+    ],
+    "description": "Ổi là loại trái cây có vị ngọt nhẹ hoặc chua, giòn, thường ăn trực tiếp. Nó giàu vitamin C và tốt cho hệ miễn dịch.",
+    "isDeleted": false
+  },
+  {
+    "id": 79,
+    "name": "Vải",
+    "categoryId": 8,
+    "protein": 0.7,
+    "carb": 10.75,
+    "fat": 0.35,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLHxDAG7qH-cA9FfvlPmc3sf_nsVlBXuaIA&s"
+    ],
+    "description": "Vải là loại trái cây có vị ngọt đậm, mọng nước, thường ăn tươi. Nó cung cấp năng lượng và vitamin cho cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 80,
+    "name": "Sầu riêng",
+    "categoryId": 8,
+    "protein": 2.5,
+    "carb": 28.3,
+    "fat": 1.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000325223/product/sau_rieng_new-01_63392fbb5c3d449e913faebc332ae80f.png"
+    ],
+    "description": "Sầu riêng là loại trái cây có mùi đặc trưng, vị béo ngọt, thường ăn trực tiếp. Nó giàu năng lượng và chất béo tự nhiên.",
+    "isDeleted": false
+  },
+  {
+    "id": 81,
+    "name": "Tép khô",
+    "categoryId": 3,
+    "protein": 59.8,
+    "carb": 0.7,
+    "fat": 3.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://dacsanlamqua.com/wp-content/uploads/2016/09/tep-kho-sach-da-nang-lam-qua.jpg"
+    ],
+    "description": "Tép là loại thủy sản nhỏ, thường dùng để rang, kho hoặc nấu canh. Nó cung cấp protein và canxi.",
+    "isDeleted": false
+  },
+  {
+    "id": 82,
+    "name": "Lươn",
+    "categoryId": 3,
+    "protein": 18.4,
+    "carb": 10.7,
+    "fat": 1.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://afamilycdn.com/Images/Uploaded/Share/2010/10/01/luon-nam-004.jpg"
+    ],
+    "description": "Lươn là loại cá nước ngọt có thịt mềm, thường dùng để nấu cháo, xào hoặc chiên. Nó giàu protein và vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 83,
+    "name": "Su hào",
+    "categoryId": 1,
+    "protein": 2.8,
+    "carb": 7.93,
+    "fat": 0.07,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/390/808/products/product2263.jpg?v=1592366623437"
+    ],
+    "description": "Su hào là loại củ có vị ngọt nhẹ, giòn, thường dùng để xào hoặc nấu canh. Nó giàu chất xơ và vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 84,
+    "name": "Dâu tây",
+    "categoryId": 8,
+    "protein": 1.8,
+    "carb": 12.1,
+    "fat": 0.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0l5IAEAq6NLLQg4Fsp7yV-qSlTYL1x6WHQ&s"
+    ],
+    "description": "Dâu tây là loại trái cây có vị chua ngọt, mọng nước, thường ăn trực tiếp hoặc làm sinh tố. Nó giàu vitamin C và chất chống oxy hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 85,
+    "name": "Đậu hà lan",
+    "categoryId": 5,
+    "protein": 22.2,
+    "carb": 60.1,
+    "fat": 1.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://dalattungtrinh.vn/wp-content/uploads/2024/08/dau-hat-ha-lan-1.jpg"
+    ],
+    "description": "Đậu hà lan là loại đậu có vị ngọt, giòn, thường dùng để xào hoặc nấu canh. Nó cung cấp chất xơ và protein thực vật.",
+    "isDeleted": false
+  },
+  {
+    "id": 86,
+    "name": "Lòng gà",
+    "categoryId": 2,
+    "protein": 17.88,
+    "carb": 1.79,
+    "fat": 4.47,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/365/460/products/215.png?v=1746644740937"
+    ],
+    "description": "Lòng gà là phần nội tạng của gà, thường dùng để xào hoặc nấu cháo. Nó cung cấp protein và khoáng chất.",
+    "isDeleted": false
+  },
+  {
+    "id": 87,
+    "name": "Cá chim trắng",
+    "categoryId": 3,
+    "protein": 15.1,
+    "carb": 3.42,
+    "fat": 19.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://file.hstatic.net/1000182631/article/cach-chon-mua-ca-chim-trang_3c45872dd6aa49f6b22d81a68f329b1c_1024x1024.jpeg"
+    ],
+    "description": "Cá chim là loại cá biển có thịt trắng, mềm, thường dùng để chiên, hấp hoặc nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 88,
+    "name": "Ốc bươu",
+    "categoryId": 3,
+    "protein": 11.1,
+    "carb": 8.3,
+    "fat": 0.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/cach_che_bien_oc_buou_vang_f0436a4f27.jpg"
+    ],
+    "description": "Ốc bươu là loại ốc nước ngọt, thường dùng để luộc hoặc nấu canh. Nó giàu protein và khoáng chất.",
+    "isDeleted": false
+  },
+  {
+    "id": 89,
+    "name": "Hến",
+    "categoryId": 3,
+    "protein": 4.5,
+    "carb": 5.1,
+    "fat": 0.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.eva.vn/upload/2-2022/images/2022-05-21/an-hen-co-tac-dung-gi-thit-hen-1-1653111216-927-width780height585.jpeg"
+    ],
+    "description": "Hến là loại nhuyễn thể nhỏ, thường dùng nấu canh hoặc xào. Nó cung cấp nhiều chất dinh dưỡng và canxi.",
+    "isDeleted": false
+  },
+  {
+    "id": 90,
+    "name": "Ếch",
+    "categoryId": 3,
+    "protein": 20.0,
+    "carb": 0.0,
+    "fat": 1.1,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/l9kyz4fl0EBI54rzp7qTctY8qFa39B57G8z37mbCMfeDd9RyncbqcQ5MasydVIDm1io7Jws92eJ6s3XagFXNoc8xosIEAQg=rw"
+    ],
+    "description": "Ếch là loại thịt trắng, mềm, thường dùng để chiên, xào hoặc nấu cháo. Nó giàu protein và ít chất béo.",
+    "isDeleted": false
+  },
+  {
+    "id": 91,
+    "name": "Nấm hương/nấm đông cô",
+    "categoryId": 1,
+    "protein": 5.5,
+    "carb": 6.1,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdnphoto.dantri.com.vn/J9YBDvhCJnbGiu20uE3OuHsSr6A=/thumb_w/990/2021/07/06/2788582200732x549-1625581242134.jpg"
+    ],
+    "description": "Nấm hương là loại nấm có mùi thơm đặc trưng, thường dùng nấu canh, xào hoặc làm gia vị. Nó giàu dinh dưỡng và tốt cho sức khỏe.",
+    "isDeleted": false
+  },
+  {
+    "id": 92,
+    "name": "Bí đao",
+    "categoryId": 1,
+    "protein": 0.6,
+    "carb": 3.4,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/bi_dao_huu_co_3ebe99c919104e6bae55cdc2473c318f.png"
+    ],
+    "description": "Bí đao là loại quả có vị thanh mát, thường dùng nấu canh hoặc luộc. Nó giúp giải nhiệt và hỗ trợ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 93,
+    "name": "Su su",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 4.6,
+    "fat": 0.1,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/0/2040420000004.jpg.webp"
+    ],
+    "description": "Su su là loại rau quả có vị ngọt nhẹ, giòn, thường dùng để xào hoặc luộc.",
+    "isDeleted": false
+  },
+  {
+    "id": 94,
+    "name": "Củ cải trắng",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 5.11,
+    "fat": 0.09,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkXNpolbodcrjguGvrE1UZCezlvhkG8v4Nw&s"
+    ],
+    "description": "Củ cải trắng là loại củ có vị hơi cay nhẹ, thường dùng nấu canh hoặc làm dưa. Nó tốt cho tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 95,
+    "name": "Tỏi",
+    "categoryId": 1,
+    "protein": 6.0,
+    "carb": 24.65,
+    "fat": 0.35,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000217865/product/upload_386e71d052764676843e1f939e7bd3cb_master.jpg"
+    ],
+    "description": "Tỏi là loại gia vị có mùi nồng, thường dùng trong nấu ăn. Nó có tính kháng khuẩn và tốt cho sức khỏe.",
+    "isDeleted": false
+  },
+  {
+    "id": 96,
+    "name": "Hạt sen",
+    "categoryId": 5,
+    "protein": 20.0,
+    "carb": 60.2,
+    "fat": 2.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.traviet.com/wp-content/uploads/2023/11/hat-sen.jpg"
+    ],
+    "description": "Hạt sen là loại hạt có vị bùi, thường dùng nấu chè hoặc canh. Nó giúp an thần và bổ dưỡng.",
+    "isDeleted": false
+  },
+  {
+    "id": 97,
+    "name": "Cá rô phi",
+    "categoryId": 3,
+    "protein": 19.7,
+    "carb": 0.0,
+    "fat": 2.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/H9B8-PPZDTaKYUQKD-0OQWHhfng_9VeXjB5n-PQJkf87TphvyAdR3o2EmfhiNrtEf9ssBlMhOsVNQyIuEKYhisC0y9c8DV_U6Q"
+    ],
+    "description": "Cá rô phi là cà rốt được chế biến qua chiên, có vị giòn, thường dùng để ăn kèm hoặc trang trí món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 98,
+    "name": "Cá quả",
+    "categoryId": 3,
+    "protein": 18.2,
+    "carb": 0.0,
+    "fat": 2.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://hungphucseafood.com.vn/wp-content/uploads/2020/05/ca-loc-hung-phuc.jpg"
+    ],
+    "description": "Cà quả là loại rau quả có vị nhẹ, thường dùng trong các món xào hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 99,
+    "name": "Tiêu",
+    "categoryId": 6,
+    "protein": 7.0,
+    "carb": 67.6,
+    "fat": 7.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.zsoft.solutions/poseidon-web/app/media/Kham-pha-am-thuc/10.2023/161023-kham-pha-hat-tieu-buffet-poseidon-01-jpg.jpg"
+    ],
+    "description": "Tiêu là loại gia vị có vị cay, thường dùng để tăng hương vị món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 100,
+    "name": "Dầu mè",
+    "categoryId": null,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://daotaobeptruong.vn/wp-content/uploads/2019/07/dau_me.png"
+    ],
+    "description": "Dầu mè là loại dầu thực vật có mùi thơm đặc trưng, thường dùng trong nấu ăn hoặc trộn salad.",
+    "isDeleted": false
+  },
+  {
+    "id": 101,
+    "name": "Dầu dừa",
+    "categoryId": null,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.hasaki.vn/hsk/cosmetics/tac-dung-cua-dau-dua-1.jpg"
+    ],
+    "description": "Dầu dừa là loại dầu chiết xuất từ dừa, thường dùng trong nấu ăn hoặc làm đẹp.",
+    "isDeleted": false
+  },
+  {
+    "id": 102,
+    "name": "Bạch tuột",
+    "categoryId": 3,
+    "protein": 29.82,
+    "carb": 4.4,
+    "fat": 2.08,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5s_fbepLQnad_1dZWob9eO6VJo6ckvrC4w&s"
+    ],
+    "description": "Bạch tuộc là loại hải sản có thịt giòn, thường dùng để nướng, xào hoặc luộc.",
+    "isDeleted": false
+  },
+  {
+    "id": 103,
+    "name": "Nghêu",
+    "categoryId": 3,
+    "protein": 25.5,
+    "carb": 5.1,
+    "fat": 2.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4ozy9UUtt85keQ62SeV9CJolMndJYbdVpQ&s"
+    ],
+    "description": "Nghêu là loại hải sản có vị ngọt, thường dùng để hấp, nấu canh hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 104,
+    "name": "Cá diêu hồng",
+    "categoryId": 3,
+    "protein": 17.1,
+    "carb": 3.1,
+    "fat": 3.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/0/2036970000007-1.jpg.webp"
+    ],
+    "description": "Cá diêu hồng là loại cá nước ngọt có thịt trắng, mềm, thường dùng để chiên, hấp hoặc nấu canh. Nó cung cấp protein và khoáng chất.",
+    "isDeleted": false
+  },
+  {
+    "id": 105,
+    "name": "Đu đủ xanh",
+    "categoryId": 1,
+    "protein": 0.8,
+    "carb": 6.6,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkGsKhCmcmpCm-J9qofMRIMJo1Qda_bMmnQA&s"
+    ],
+    "description": "Đu đủ xanh là loại quả chưa chín, thường dùng để nấu canh hoặc làm gỏi. Nó hỗ trợ tiêu hóa và cung cấp chất xơ.",
+    "isDeleted": false
+  },
+  {
+    "id": 106,
+    "name": "Bột năng",
+    "categoryId": 7,
+    "protein": 0.7,
+    "carb": 85.1,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh4.googleusercontent.com/proxy/0asIu5oJGmpvo977nY64TfzESHe94Dn6Igx8LKFrHPoBv0F7s6_dBLqwdMxxLwUUZ5puIL2N3fkxZ2tHg2NHaV67noY8UcW_B6Cifyp5UNezhOrLUgVCYKvPU5nMT3Zk0Q"
+    ],
+    "description": "Bột năng là loại bột làm từ củ sắn, thường dùng để tạo độ sánh hoặc làm bánh. Nó chủ yếu cung cấp tinh bột.",
+    "isDeleted": false
+  },
+  {
+    "id": 107,
+    "name": "Bột gạo nếp",
+    "categoryId": 7,
+    "protein": 8.2,
+    "carb": 79.4,
+    "fat": 1.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/2388/175957/bhx/bot-nep-tai-ky-400g-2-700x467.jpg"
+    ],
+    "description": "Bột gạo nếp là loại bột từ gạo nếp, có độ dẻo cao, thường dùng làm bánh và món tráng miệng.",
+    "isDeleted": false
+  },
+  {
+    "id": 108,
+    "name": "Rong biển",
+    "categoryId": null,
+    "protein": 20.0,
+    "carb": 20.0,
+    "fat": 60.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://nafarm.vn/upload/images/rong-bien-say-kho-nau-canh-nha-trang-hotline-093-8828-553.jpg"
+    ],
+    "description": "Rong biển là loại thực phẩm từ biển, thường dùng trong canh hoặc sushi. Nó giàu khoáng chất và i-ốt.",
+    "isDeleted": false
+  },
+  {
+    "id": 109,
+    "name": "Cua",
+    "categoryId": 3,
+    "protein": 11.9,
+    "carb": 0.0,
+    "fat": 0.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/8rrW0jnuEEN7dR54i2v74rmy4lWZcJ5vkzg84PDSEQ20nu75vZgtfWHAg1r2XNdIl8MujjFnd57Cltp4KpcfV3aPxqdZGBBWkQ"
+    ],
+    "description": "Cua là loại hải sản có thịt ngọt, thường dùng để hấp, nấu canh hoặc rang. Nó giàu protein và canxi.",
+    "isDeleted": false
+  },
+  {
+    "id": 110,
+    "name": "Rau răm",
+    "categoryId": 1,
+    "protein": 4.7,
+    "carb": 6.6,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnvrUH4yFIORbmdUq6jCuxyfAlo6PjQ_YnQ&s"
+    ],
+    "description": "Rau răm là loại rau gia vị có mùi thơm đặc trưng, thường dùng ăn kèm hoặc tăng hương vị món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 111,
+    "name": "Mãng cầu xiêm",
+    "categoryId": 8,
+    "protein": 1.8,
+    "carb": 12.6,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/478/999/products/15.png?v=1715153416120"
+    ],
+    "description": "Mãng cầu xiêm là loại trái cây có vị chua ngọt, thịt mềm, thường dùng để ăn tươi, làm sinh tố hoặc nước giải khát. Nó giàu vitamin C và giúp giải nhiệt cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 112,
+    "name": "Dưa lưới",
+    "categoryId": 8,
+    "protein": 0.84,
+    "carb": 8.16,
+    "fat": 0.19,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfq1jKaNzWOEzeYnru9VygUupX50d1R5lrw&s"
+    ],
+    "description": "Dưa lưới là loại trái cây có vị ngọt, mọng nước, thường ăn tươi. Nó giúp giải nhiệt và bổ sung vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 113,
+    "name": "Măng tây",
+    "categoryId": 1,
+    "protein": 2.2,
+    "carb": 3.36,
+    "fat": 0.14,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/390/808/products/unnamed-1-eb254e7d-04b8-4646-8566-5453d0f2c4fb.jpg?v=1592814571397"
+    ],
+    "description": "Măng tây là loại rau có vị ngọt nhẹ, giòn, thường dùng để xào hoặc hấp. Nó giàu chất xơ và vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 114,
+    "name": "Thịt vịt",
+    "categoryId": 2,
+    "protein": 17.8,
+    "carb": 0.0,
+    "fat": 21.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmCa0ctunVmkYpxwi058IzfLmVHkYQhGc0g&s"
+    ],
+    "description": "Thịt vịt là loại thịt gia cầm có vị béo, thường dùng để luộc, quay hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 115,
+    "name": "Cá trê",
+    "categoryId": 3,
+    "protein": 16.5,
+    "carb": 0.0,
+    "fat": 11.9,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt9JI-R3B2YXlfw3K4IqHUWbNSnnpTx6Xjg&s"
+    ],
+    "description": "Cá trê là loại cá nước ngọt có thịt chắc, thường dùng để kho, chiên hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 116,
+    "name": "Rau ngót",
+    "categoryId": 1,
+    "protein": 5.3,
+    "carb": 5.9,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/390/808/products/rau-ngot.jpg?v=1592639575577"
+    ],
+    "description": "Rau ngót là loại rau xanh, thường dùng nấu canh. Nó có vị ngọt và giàu vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 117,
+    "name": "Nấm mỡ",
+    "categoryId": 1,
+    "protein": 4.0,
+    "carb": 4.5,
+    "fat": 0.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/390/808/products/nam-mo.png?v=1592905968937"
+    ],
+    "description": "Nấm mỡ là loại nấm có vị ngọt nhẹ, thường dùng trong các món xào hoặc súp.",
+    "isDeleted": false
+  },
+  {
+    "id": 118,
+    "name": "Rau má",
+    "categoryId": 1,
+    "protein": 3.1,
+    "carb": 4.6,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://i0.wp.com/thucphamtantai.com/wp-content/uploads/2019/10/rau-ma.png"
+    ],
+    "description": "Rau má là loại rau có tính mát, thường dùng làm nước uống hoặc ăn sống. Nó giúp giải nhiệt cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 119,
+    "name": "Cần tây",
+    "categoryId": 1,
+    "protein": 3.7,
+    "carb": 9.44,
+    "fat": 0.16,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/390/808/products/165707b495b7c2d.jpg?v=1591870722910"
+    ],
+    "description": "Cần tây là loại rau có mùi đặc trưng, thường dùng trong món xào hoặc ép nước.",
+    "isDeleted": false
+  },
+  {
+    "id": 120,
+    "name": "Sữa chua",
+    "categoryId": 4,
+    "protein": 3.3,
+    "carb": 3.6,
+    "fat": 3.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://dantri.com.vn/tu-van/the-nao-la-sua-chua-ngon-1367241751.htm"
+    ],
+    "description": "Sữa chua là sản phẩm từ sữa lên men, có vị chua nhẹ, tốt cho hệ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 121,
+    "name": "Nho",
+    "categoryId": 8,
+    "protein": 0.4,
+    "carb": 16.99,
+    "fat": 0.11,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000423303/product/nho_xanh_khong_hat__non-gmo__-_500g_b19ad79e912744ebab047545baac117a.png"
+    ],
+    "description": "Nho là loại trái cây mọng nước, vị ngọt hoặc chua, thường ăn trực tiếp hoặc làm nước ép.",
+    "isDeleted": false
+  },
+  {
+    "id": 122,
+    "name": "Mít",
+    "categoryId": 8,
+    "protein": 1.5,
+    "carb": 15.2,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000157781/product/mit_to_nu_9ff214ee9c7e43df810bc6f38e60123e_1024x1024.png"
+    ],
+    "description": "Mít là loại trái cây có vị ngọt đậm, mùi thơm đặc trưng, thường ăn tươi hoặc làm món tráng miệng.",
+    "isDeleted": false
+  },
+  {
+    "id": 123,
+    "name": "Khế",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 5.47,
+    "fat": 0.23,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.baoquangninh.vn/dataimages/201404/original/images723478_image004_1_.gif"
+    ],
+    "description": "Khế là loại trái cây có vị chua hoặc ngọt, thường ăn tươi hoặc dùng nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 124,
+    "name": "Trái bơ",
+    "categoryId": 8,
+    "protein": 1.9,
+    "carb": 2.8,
+    "fat": 9.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Rj2HEXqf0CTfTmfx8FE6e4TNvn-OS6ScFA&s"
+    ],
+    "description": "Trái bơ là loại quả có vị béo, thường ăn trực tiếp hoặc làm sinh tố. Nó giàu chất béo tốt.",
+    "isDeleted": false
+  },
+  {
+    "id": 125,
+    "name": "Sữa đặc",
+    "categoryId": 4,
+    "protein": 8.1,
+    "carb": 56.0,
+    "fat": 8.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://thucphamplaza.com/wp-content/uploads/products_img/bao-quan-san-pham-2.jpg"
+    ],
+    "description": "Sữa đặc là sản phẩm từ sữa có đường, thường dùng pha cà phê hoặc làm bánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 126,
+    "name": "Mật ong",
+    "categoryId": 6,
+    "protein": 0.4,
+    "carb": 81.3,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSQRUG7Jcv82FLWB4RQpTi0jQvH04PPfYiQ&s"
+    ],
+    "description": "Mật ong là chất tạo ngọt tự nhiên, thường dùng trong đồ uống hoặc chế biến món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 127,
+    "name": "Kem tươi",
+    "categoryId": 4,
+    "protein": 335.0,
+    "carb": 35.5,
+    "fat": 2.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://friends-frappe.com/cdn/shop/files/146502494_l_800x.jpg?v=1638896045"
+    ],
+    "description": "Kem tươi là sản phẩm từ sữa có hàm lượng béo cao, thường dùng làm bánh hoặc món tráng miệng.",
+    "isDeleted": false
+  },
+  {
+    "id": 128,
+    "name": "Bơ thực vật",
+    "categoryId": 4,
+    "protein": 0.5,
+    "carb": 0.1,
+    "fat": 80.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0563/5745/4002/files/bo-thuc-vat_480x480.png?v=1647071026"
+    ],
+    "description": "Bơ thực vật là sản phẩm thay thế bơ từ dầu thực vật, thường dùng trong nấu ăn và làm bánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 129,
+    "name": "Mắm tôm",
+    "categoryId": 6,
+    "protein": 14.8,
+    "carb": 0.0,
+    "fat": 1.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://maydonggoi.com.vn/wp-content/uploads/2024/04/quy-trinh-san-xuat-mam-tom-2-1200x900.jpg"
+    ],
+    "description": "Mắm tôm là loại gia vị lên men có mùi đặc trưng, thường dùng trong các món bún hoặc chấm.",
+    "isDeleted": false
+  },
+  {
+    "id": 130,
+    "name": "Sa tế",
+    "categoryId": 6,
+    "protein": 1.1,
+    "carb": 4.1,
+    "fat": 5.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://monngonmoingay.com/wp-content/uploads/2025/01/sa-te-cay.jpg"
+    ],
+    "description": "Sa tế là loại gia vị cay được làm từ ớt và dầu, thường dùng để tăng hương vị món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 131,
+    "name": "Đậu nành",
+    "categoryId": 5,
+    "protein": 34.0,
+    "carb": 29.1,
+    "fat": 18.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://thuanchay.vn/congdong/wp-content/uploads/2023/09/Thiet-ke-chua-co-ten-6-800x480.webp"
+    ],
+    "description": "Đậu nành là loại hạt giàu protein thực vật, thường dùng làm sữa đậu nành, đậu phụ hoặc chế biến món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 132,
+    "name": "Tía tô",
+    "categoryId": 1,
+    "protein": 2.9,
+    "carb": 7.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFJRRC3PKbcM1GsCaKN7bEbCWpof0JneODQ&s"
+    ],
+    "description": "Tía tô là loại rau gia vị có mùi thơm đặc trưng, thường dùng ăn kèm hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 133,
+    "name": "Diếp cá",
+    "categoryId": 1,
+    "protein": 2.9,
+    "carb": 4.5,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/Images/tuananh2/2021/06/25/1.jpg"
+    ],
+    "description": "Diếp cá là loại rau có mùi đặc trưng, thường ăn sống hoặc làm nước uống. Nó có tính mát và hỗ trợ giải nhiệt.",
+    "isDeleted": false
+  },
+  {
+    "id": 134,
+    "name": "Cá thu đao",
+    "categoryId": 3,
+    "protein": 20.0,
+    "carb": 0.0,
+    "fat": 8.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/2/2275540000003.jpg.webp"
+    ],
+    "description": "Cá thu đao là loại cá biển có thịt béo, thường dùng để nướng, chiên hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 135,
+    "name": "Cá mòi",
+    "categoryId": 3,
+    "protein": 17.5,
+    "carb": 0.0,
+    "fat": 6.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://freshfoodglobal.com/wp-content/uploads/2022/02/ca-moi-3-3.jpg"
+    ],
+    "description": "Cá mòi là loại cá biển nhỏ, thường được đóng hộp hoặc chế biến thành món kho, giàu omega-3.",
+    "isDeleted": false
+  },
+  {
+    "id": 136,
+    "name": "Phô mai",
+    "categoryId": 4,
+    "protein": 25.5,
+    "carb": 0.0,
+    "fat": 30.9,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-asm/blog/tac-dung-cua-pho-mai.webp"
+    ],
+    "description": "Phô mai là sản phẩm từ sữa, có vị béo, thường dùng trong bánh hoặc món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 137,
+    "name": "Cá lác",
+    "categoryId": 3,
+    "protein": 16.7,
+    "carb": 0.0,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/2023_10_29_638342189975670435_ca-thac-lac.jpg"
+    ],
+    "description": "Cá lác là loại cá nước ngọt có thịt chắc, thường dùng để làm chả cá",
+    "isDeleted": false
+  },
+  {
+    "id": 138,
+    "name": "Cá diếc",
+    "categoryId": 3,
+    "protein": 17.7,
+    "carb": 0.0,
+    "fat": 1.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OLmU9tuzIFxDaAOAHo4P5rC5NlakI6FhIA&s"
+    ],
+    "description": "Cá diếc là loại cá nước ngọt nhỏ, thường dùng để kho hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 139,
+    "name": "Cá phèn",
+    "categoryId": 3,
+    "protein": 15.9,
+    "carb": 0.0,
+    "fat": 4.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://haisantrungnam.vn/wp-content/uploads/2020/03/ca-phen-1.jpg"
+    ],
+    "description": "Cá phèn là loại cá biển có thịt mềm, thường dùng để chiên hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 140,
+    "name": "Mạch nha",
+    "categoryId": null,
+    "protein": 0.2,
+    "carb": 82.5,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/Maltose_syrup.jpg"
+    ],
+    "description": "Mạch nha là chất tạo ngọt từ ngũ cốc, thường dùng trong làm bánh hoặc kẹo.",
+    "isDeleted": false
+  },
+  {
+    "id": 141,
+    "name": "Bánh đa nem",
+    "categoryId": null,
+    "protein": 4.0,
+    "carb": 79.4,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kbEmYx1yS9L5lgUc00jShS97IpmTvrlYsQ&s"
+    ],
+    "description": "Bánh đa nem là loại bánh tráng mỏng, thường dùng để cuốn chả giò.",
+    "isDeleted": false
+  },
+  {
+    "id": 142,
+    "name": "Bánh phở",
+    "categoryId": null,
+    "protein": 3.2,
+    "carb": 31.2,
+    "fat": 0.9,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://images-handler.kamereo.vn/eyJidWNrZXQiOiJpbWFnZS1oYW5kbGVyLXByb2QiLCJrZXkiOiJzdXBwbGllci82NTQvUFJPRFVDVF9JTUFHRS8xYmM4N2QxYS05MGNlLTRjN2QtOGUxMS1kNTE0Zjg3OGI1NWYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJmaWxsIn19fQ=="
+    ],
+    "description": "Bánh phở là loại sợi làm từ gạo, thường dùng trong món phở.",
+    "isDeleted": false
+  },
+  {
+    "id": 143,
+    "name": "Mỳ quảng",
+    "categoryId": null,
+    "protein": 5.32,
+    "carb": 82.23,
+    "fat": 0.27,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrOe5iZAA0n8462mtcRYpX5-yRmBUMltgDOQ&s"
+    ],
+    "description": "Mỳ quảng là loại mì đặc sản miền Trung, thường dùng trong món nước cùng tên.",
+    "isDeleted": false
+  },
+  {
+    "id": 144,
+    "name": "Giấm",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 0.93,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/3465/91788/bhx/giam-gao-len-men-ajinomoto-chai-400ml-202006271626193612.jpg"
+    ],
+    "description": "Giấm là gia vị có vị chua, thường dùng trong chế biến hoặc làm nước chấm.",
+    "isDeleted": false
+  },
+  {
+    "id": 145,
+    "name": "Mẻ",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/2020/07/CookProductThumb/12-620x620-3.jpg"
+    ],
+    "description": "Mẻ là sản phẩm lên men từ cơm, có vị chua nhẹ, thường dùng làm gia vị trong các món canh chua, bún hoặc món kho. Nó giúp tăng hương vị và hỗ trợ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 146,
+    "name": "Mù tạt",
+    "categoryId": 6,
+    "protein": 4.25,
+    "carb": 5.3,
+    "fat": 3.38,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://monngonmoingay.com/wp-content/uploads/2023/06/mu-tat.png"
+    ],
+    "description": "Mù tạt là gia vị có vị cay nồng, thường dùng kèm với các món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 147,
+    "name": "Bột chiên xù",
+    "categoryId": null,
+    "protein": 11.4,
+    "carb": 75.9,
+    "fat": 3.75,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/bot_chien_xu_c0899a50c5.jpg"
+    ],
+    "description": "Bột chiên xù là loại bột dùng để chiên giòn thực phẩm.",
+    "isDeleted": false
+  },
+  {
+    "id": 148,
+    "name": "Củ sắn",
+    "categoryId": 1,
+    "protein": 1.1,
+    "carb": 37.9,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdnv2.tgdd.vn/bhx-static/bhx/Products/Images/8785/233854/bhx/cu-san-1kg_202504141008590733.jpg"
+    ],
+    "description": "Củ sắn là loại củ có vị ngọt nhẹ, thường luộc hoặc dùng làm nguyên liệu chế biến.",
+    "isDeleted": false
+  },
+  {
+    "id": 149,
+    "name": "Khoai sọ",
+    "categoryId": 1,
+    "protein": 1.8,
+    "carb": 27.7,
+    "fat": 0.1,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://medlatec.vn/media/24003/file/Cu-khoai-so-nho-hon-khoai-mon.jpg"
+    ],
+    "description": "Khoai sọ là loại củ có vị bùi, thường dùng nấu canh hoặc chè.",
+    "isDeleted": false
+  },
+  {
+    "id": 150,
+    "name": "Hạt điều",
+    "categoryId": 5,
+    "protein": 18.4,
+    "carb": 29.3,
+    "fat": 46.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXW5qj2IPq_cE2cl-dokkas61PdzBVo2WFw&s"
+    ],
+    "description": "Hạt điều là loại hạt có vị béo, thường ăn trực tiếp hoặc dùng trong chế biến món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 151,
+    "name": "Vừng",
+    "categoryId": 5,
+    "protein": 20.1,
+    "carb": 21.1,
+    "fat": 46.4,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://production-cdn.pharmacity.io/digital/original/plain/blog/vung.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUYXZVMJM5QUYWSVO%2F20250602%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250602T045750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=657d1cba9983f0ee9dfc355bc0f514506cc527db795edf6185091caf2e613f8c"
+    ],
+    "description": "Vừng là loại hạt nhỏ giàu chất béo, thường dùng trong bánh và món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 152,
+    "name": "Đậu phụ chúc",
+    "categoryId": null,
+    "protein": 50.2,
+    "carb": 6.8,
+    "fat": 20.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://dauphusach.vn/wp-content/uploads/2015/01/vang-dau.jpg"
+    ],
+    "description": "Đậu phụ chúc là sản phẩm từ đậu nành, giàu protein thực vật, thường dùng trong món ăn chay.",
+    "isDeleted": false
+  },
+  {
+    "id": 153,
+    "name": "Cải cúc",
+    "categoryId": 1,
+    "protein": 1.6,
+    "carb": 3.9,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6veMdvX0fEIal1i6cNMlJpr3OCUzJElUU3A&s"
+    ],
+    "description": "Cải cúc là loại rau xanh, thường dùng nấu canh hoặc ăn lẩu.",
+    "isDeleted": false
+  },
+  {
+    "id": 154,
+    "name": "Cải soong",
+    "categoryId": 1,
+    "protein": 2.1,
+    "carb": 3.33,
+    "fat": 0.07,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3a3kKmc2fL48xytJ2w7tGmOdwEFdyD66m8g&s"
+    ],
+    "description": "Cải soong là loại rau có vị hơi cay nhẹ, thường ăn sống hoặc làm salad.",
+    "isDeleted": false
+  },
+  {
+    "id": 155,
+    "name": "Đậu đũa",
+    "categoryId": 1,
+    "protein": 6.0,
+    "carb": 9.99,
+    "fat": 0.31,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/8785/325102/bhx/dau-dua-300g-202404221557031212.jpg"
+    ],
+    "description": "Đậu đũa là loại rau có quả dài, giòn, vị ngọt nhẹ, thường dùng để xào, luộc hoặc làm gỏi. Nó giàu chất xơ và vitamin, tốt cho hệ tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 156,
+    "name": "Đậu rồng",
+    "categoryId": 1,
+    "protein": 1.9,
+    "carb": 7.9,
+    "fat": 0.1,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://images-handler.kamereo.vn/eyJidWNrZXQiOiJpbWFnZS1oYW5kbGVyLXByb2QiLCJrZXkiOiJzdXBwbGllci82NTQvUFJPRFVDVF9JTUFHRS8zNjEzZWZhZC1hODBjLTQ0NGMtYjUxNi0yM2Y3ZDg5ZDc5ZTYucG5nIn0="
+    ],
+    "description": "Đậu rồng là loại đậu có dạng cánh, thường dùng để xào hoặc luộc.",
+    "isDeleted": false
+  },
+  {
+    "id": 157,
+    "name": "Măng tươi",
+    "categoryId": 1,
+    "protein": 1.7,
+    "carb": 5.59,
+    "fat": 0.21,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.vneconomy.vn/images/upload/2021/04/21/img20170516181737901.jpg"
+    ],
+    "description": "Măng là phần non của cây tre, có vị giòn, thường dùng nấu canh hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 158,
+    "name": "Rau dền đỏ",
+    "categoryId": 1,
+    "protein": 3.37,
+    "carb": 7.96,
+    "fat": 0.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000460455/product/rau_den_do__goi_300gr___1__dd21c3cffe1248deb06607e2d2fd9ff5_master.jpg"
+    ],
+    "description": "Rau dền đỏ là loại rau xanh có màu đỏ tím, thường dùng nấu canh, giàu chất xơ và vitamin.",
+    "isDeleted": false
+  },
+  {
+    "id": 159,
+    "name": "Thìa là",
+    "categoryId": 1,
+    "protein": 2.6,
+    "carb": 6.94,
+    "fat": 0.96,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Products/Images/8820/303372/bhx/rau-thi-la-goi-100g-202303020857079524.jpg"
+    ],
+    "description": "Thì là là loại rau gia vị có mùi thơm đặc trưng, thường dùng trong các món cá.",
+    "isDeleted": false
+  },
+  {
+    "id": 160,
+    "name": "Cải ngồng",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 2.18,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://prod-cdn.pharmacity.io/blog/rau-cai-ngong-768x660.webp?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUYXZVMJMURHIYJSN%2F20241107%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20241107T032454Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=d92c623e0ef23f1160068bf3284a3af38989377276c1c38ff910a7efb09775a8"
+    ],
+    "description": "Cải ngồng là loại rau xanh có vị ngọt nhẹ, thường dùng xào hoặc luộc.",
+    "isDeleted": false
+  },
+  {
+    "id": 161,
+    "name": "Mộc nhĩ",
+    "categoryId": 1,
+    "protein": 10.6,
+    "carb": 72.0,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7G6j3xTX0Eq6q0eFz0yNrkWjl2RYFz8GyIQ&s"
+    ],
+    "description": "Mộc nhĩ là loại nấm khô, khi ngâm nở ra, thường dùng trong món xào hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 162,
+    "name": "Lựu",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 18.85,
+    "fat": 0.15,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4olfYEl_jzyY2OgCFft9bs2SvW1ABzuW8g&s"
+    ],
+    "description": "Lựu là loại trái cây có hạt mọng nước, vị chua ngọt, giàu chất chống oxy hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 163,
+    "name": "Hồng xiêm",
+    "categoryId": 8,
+    "protein": 0.5,
+    "carb": 12.5,
+    "fat": 0.7,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6OCiSL9c8MigWxWbPXoJ02QhYdM03YAqyA&s"
+    ],
+    "description": "Hồng xiêm là loại trái cây có vị ngọt đậm, thịt mềm, thường ăn trực tiếp.",
+    "isDeleted": false
+  },
+  {
+    "id": 164,
+    "name": "Đào",
+    "categoryId": 8,
+    "protein": 0.9,
+    "carb": 7.8,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZe12XN7IU2NiXp7ST5xxgR4Elc5wA2EdZg&s"
+    ],
+    "description": "Đào là loại trái cây có vị ngọt nhẹ, mọng nước, thường ăn tươi hoặc làm tráng miệng.",
+    "isDeleted": false
+  },
+  {
+    "id": 165,
+    "name": "Đu đủ chín",
+    "categoryId": 8,
+    "protein": 1.0,
+    "carb": 8.19,
+    "fat": 0.11,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoxeRS1p8_1zR8sZ9Z2WL8qX7LPWrgOAYCA&s"
+    ],
+    "description": "Đu đủ chín là loại trái cây có vị ngọt, mềm, thường ăn trực tiếp, tốt cho tiêu hóa.",
+    "isDeleted": false
+  },
+  {
+    "id": 166,
+    "name": "Vú sữa",
+    "categoryId": 8,
+    "protein": 1.0,
+    "carb": 11.7,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQPz_rpoDqL8iHTUV_gaguTiec-IYG62tnaw&s"
+    ],
+    "description": "Vú sữa là loại trái cây có vị ngọt thanh, thịt mềm, thường ăn trực tiếp.",
+    "isDeleted": false
+  },
+  {
+    "id": 167,
+    "name": "Kiwi",
+    "categoryId": 8,
+    "protein": 1.14,
+    "carb": 14.66,
+    "fat": 0.52,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRX9GohVWvDeBHLZiSK8hzoAurngGHG0FPeA&s"
+    ],
+    "description": "Kiwi là loại trái cây có vị chua ngọt, giàu vitamin C, thường ăn tươi.",
+    "isDeleted": false
+  },
+  {
+    "id": 168,
+    "name": "Dầu lạc",
+    "categoryId": null,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.loveitopcdn.com/24349/peanut-oil2.jpg"
+    ],
+    "description": "Dầu lạc là loại dầu thực vật chiết xuất từ đậu phộng, thường dùng để chiên xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 169,
+    "name": "Mỡ heo",
+    "categoryId": null,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 99.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/ran_mo_nuoc_01_c677f5412d.jpg"
+    ],
+    "description": "Mỡ heo là chất béo từ động vật, thường dùng trong nấu ăn truyền thống.",
+    "isDeleted": false
+  },
+  {
+    "id": 170,
+    "name": "Dầu olive",
+    "categoryId": null,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://hoclammypham.com.vn/wp-content/uploads/tinh-dau-olive-nguyen-chat.jpg"
+    ],
+    "description": "Dầu oliu là loại dầu thực vật cao cấp, thường dùng trong salad hoặc nấu ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 171,
+    "name": "Thịt bê",
+    "categoryId": 2,
+    "protein": 20.0,
+    "carb": 0.0,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/_p5Jc64xlSB4lBFd6PzER0v6bEBpyF1adipMsHtw2dfU4-TtFxlcFrkuT8gjPISvogqoIjRCLBl98PCDg2MZJTt2Au7dLNAm"
+    ],
+    "description": "Thịt bê là thịt của bò non, mềm, thường dùng để nướng hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 172,
+    "name": "Thịt bồ câu",
+    "categoryId": 2,
+    "protein": 17.5,
+    "carb": 0.0,
+    "fat": 30.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://lh3.googleusercontent.com/RCNI3myM-JjHLyqBk2gZNvU1U34NUUwC84E3NJNRjwZvA6foahDyxt0gYnMsCFs8NmN_CVsZZEBoYFqEXI-JCvIPD83YaDC0"
+    ],
+    "description": "Thịt bồ câu là loại thịt gia cầm, mềm và bổ dưỡng, thường dùng để hầm hoặc nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 173,
+    "name": "Chân giò heo",
+    "categoryId": 2,
+    "protein": 15.7,
+    "carb": 0.0,
+    "fat": 18.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://www.thucphamchosach.com/images/2020/chan_gio_nguyen_chiec.jpg"
+    ],
+    "description": "Chân giò heo là phần thịt có nhiều gân, thường dùng để hầm hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 174,
+    "name": "Cá bống",
+    "categoryId": 3,
+    "protein": 15.8,
+    "carb": 0.0,
+    "fat": 0.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/ca_bong_6_d75a4838ac.png"
+    ],
+    "description": "Cá bống là loại cá nhỏ, thường dùng để kho hoặc chiên.",
+    "isDeleted": false
+  },
+  {
+    "id": 175,
+    "name": "Cá chép",
+    "categoryId": 3,
+    "protein": 16.0,
+    "carb": 0.0,
+    "fat": 3.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/ca_chep_bao_nhieu_calo_thumb_2fffc4a91f.png"
+    ],
+    "description": "Cá chép là loại cá nước ngọt phổ biến, thường dùng để nấu canh hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 176,
+    "name": "Cá trắm cỏ",
+    "categoryId": 3,
+    "protein": 17.0,
+    "carb": 0.0,
+    "fat": 2.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61izgGdpakwv46YNWaX-MRDo9OxjIzMQFpg&s"
+    ],
+    "description": "Cá trắm cỏ là loại cá nước ngọt có thịt chắc, thường dùng để nấu canh hoặc hấp.",
+    "isDeleted": false
+  },
+  {
+    "id": 177,
+    "name": "Tôm tít",
+    "categoryId": 3,
+    "protein": 17.6,
+    "carb": 0.9,
+    "fat": 0.9,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://onggiau.com.vn/wp-content/uploads/2024/07/4-6.png"
+    ],
+    "description": "Tôm tít là loại hải sản có thịt ngọt, thường dùng để hấp hoặc nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 178,
+    "name": "Bột bắp",
+    "categoryId": 7,
+    "protein": 8.3,
+    "carb": 74.5,
+    "fat": 4.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://dolambanh.net/wp-content/uploads/2019/02/Tinh-bot-ngo.jpg"
+    ],
+    "description": "Bột bắp là loại bột từ ngô, thường dùng để tạo độ sánh trong món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 179,
+    "name": "Bột cary",
+    "categoryId": 6,
+    "protein": 8.2,
+    "carb": 54.9,
+    "fat": 7.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvTefqQg94ReiyL9CjyXWvyZdb_lCX0HR9A&s"
+    ],
+    "description": "Bột cà ri là hỗn hợp gia vị có mùi thơm đặc trưng, dùng trong các món cà ri.",
+    "isDeleted": false
+  },
+  {
+    "id": 180,
+    "name": "Hạt nêm",
+    "categoryId": 6,
+    "protein": 12.73,
+    "carb": 30.18,
+    "fat": 1.82,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000401369/product/hat-nem-thit-than-xuong-ong-tuy-knorr-goi-400g-03_91833360cf6547048f7b59715349055e.jpg"
+    ],
+    "description": "Hạt nêm là gia vị tổng hợp, dùng để tăng vị cho món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 181,
+    "name": "Bột canh",
+    "categoryId": 6,
+    "protein": 1.05,
+    "carb": 14.5,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://vnaroma.com/wp-content/uploads/2020/10/tu-lam-bot-canh-vi-ga-voi-bot-huong-ga.jpg"
+    ],
+    "description": "Bột canh là hỗn hợp muối và gia vị, thường dùng để nêm nếm.",
+    "isDeleted": false
+  },
+  {
+    "id": 182,
+    "name": "Bột sắn",
+    "categoryId": 7,
+    "protein": 0.7,
+    "carb": 85.1,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.tabfarm.vn/2025/03/Bot-san-day-xu-doai-tabfarm-5-510x510.jpg"
+    ],
+    "description": "Bột sắn là loại bột từ củ sắn, thường dùng để làm bánh hoặc tạo độ sánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 183,
+    "name": "Xì dầu/ nước tương",
+    "categoryId": 6,
+    "protein": 6.3,
+    "carb": 7.46,
+    "fat": 0.04,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://suckhoedoisong.qltns.mediacdn.vn/zoom/600_315/324455921873985536/2022/1/11/photo-1610629521636-1610629522346517261894-0-0-400-640-crop-16106302214071572915993-1641918865208140468944.jpeg"
+    ],
+    "description": "Xì dầu là loại nước tương lên men từ đậu nành, có vị mặn, thường dùng làm gia vị hoặc nước chấm.",
+    "isDeleted": false
+  },
+  {
+    "id": 184,
+    "name": "Ớt khô",
+    "categoryId": null,
+    "protein": 15.6,
+    "carb": 55.4,
+    "fat": 4.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://yumeifoods.com/upload/images/bot-ot-1-21.jpg"
+    ],
+    "description": "Ớt khô là ớt đã được phơi khô, có vị cay, thường dùng làm gia vị trong nấu ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 185,
+    "name": "Cá chuồn",
+    "categoryId": 3,
+    "protein": 19.0,
+    "carb": 0.0,
+    "fat": 5.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://beanmart.vn/wp-content/uploads/2023/10/trai-cay-nhap-khau-198-1-1.jpg"
+    ],
+    "description": "Cá chuồn là loại cá biển có thịt chắc, thường dùng để chiên, nướng hoặc làm khô.",
+    "isDeleted": false
+  },
+  {
+    "id": 186,
+    "name": "Cà pháo",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 5.2,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzi-8645wyx-ZH3AKaTGHKvMfc93Oj5JnDow&s"
+    ],
+    "description": "Cà pháo là loại cà nhỏ, thường dùng để muối hoặc ăn kèm món chính.",
+    "isDeleted": false
+  },
+  {
+    "id": 187,
+    "name": "Dầu hào",
+    "categoryId": 6,
+    "protein": 2.9,
+    "carb": 14.7,
+    "fat": 0.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/2020/07/CookProductThumb/1-620x620-7.jpg"
+    ],
+    "description": "Dầu hào là loại gia vị có vị mặn ngọt, thường dùng để xào và tạo màu cho món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 188,
+    "name": "Sữa bột",
+    "categoryId": 4,
+    "protein": 27.0,
+    "carb": 38.0,
+    "fat": 26.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://nhatlamgroup.vn/wp-content/uploads/2025/06/nguyen-lieu-san-xuat-sua-bot.jpg?x82073"
+    ],
+    "description": "Sữa bột là sản phẩm từ sữa đã được sấy khô, thường dùng pha uống hoặc chế biến.",
+    "isDeleted": false
+  },
+  {
+    "id": 189,
+    "name": "Hạt óc chó",
+    "categoryId": 5,
+    "protein": 15.23,
+    "carb": 13.71,
+    "fat": 65.21,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/200000281397/product/upload_92d91e5b797c4c5a9238cd3c59d24679_1024x1024.jpg"
+    ],
+    "description": "Hạt óc chó là loại hạt giàu chất béo tốt, thường dùng ăn trực tiếp hoặc làm bánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 190,
+    "name": "Bí ngòi",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 3.0,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000354044/product/bi-ngoi-xanh_9c090d31ea814fa99d4a673053bb5ac5_master.jpg"
+    ],
+    "description": "Bí ngòi là loại rau quả có vị ngọt nhẹ, thường dùng để xào hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 191,
+    "name": "Rau kinh giới",
+    "categoryId": 1,
+    "protein": 2.7,
+    "carb": 6.4,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXMXzZ69kmzbPlctBlV5JH36JgngUBz5WjA&s"
+    ],
+    "description": "Rau kinh giới là loại rau gia vị có mùi thơm, thường dùng ăn kèm hoặc trang trí món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 192,
+    "name": "Hẹ",
+    "categoryId": 1,
+    "protein": 2.2,
+    "carb": 2.49,
+    "fat": 0.21,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://images-handler.kamereo.vn/supplier/654/PRODUCT_IMAGE/ffc59303-30d3-4d89-ae68-95f9dcec1a86.jpg"
+    ],
+    "description": "Hẹ là loại rau có mùi đặc trưng, thường dùng để xào hoặc làm nhân bánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 193,
+    "name": "Ốc hương",
+    "categoryId": 3,
+    "protein": 18.0,
+    "carb": 0.0,
+    "fat": 1.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2iPNXb34s_SrEYbPZ_6mcUIAiGhJXqcrbA&s"
+    ],
+    "description": "Ốc hương là loại hải sản có vị ngọt, thường dùng để hấp hoặc xào.",
+    "isDeleted": false
+  },
+  {
+    "id": 194,
+    "name": "Ốc móng tay",
+    "categoryId": 3,
+    "protein": 15.0,
+    "carb": 0.0,
+    "fat": 1.8,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTb2Xz9qUEb3PwZq4m6gVVAGSDCO4-lNYFw&s"
+    ],
+    "description": "Ốc móng tay là loại hải sản có thịt mềm, thường dùng để xào hoặc hấp.",
+    "isDeleted": false
+  },
+  {
+    "id": 195,
+    "name": "Tương cà",
+    "categoryId": 6,
+    "protein": 1.0,
+    "carb": 10.0,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/289/966/products/tuong-ca-ottogi-480x480.jpg?v=1625018368950"
+    ],
+    "description": "Tương cà là loại sốt làm từ cà chua, có vị chua ngọt, thường dùng làm nước chấm.",
+    "isDeleted": false
+  },
+  {
+    "id": 196,
+    "name": "Tương ớt",
+    "categoryId": 6,
+    "protein": 0.5,
+    "carb": 8.5,
+    "fat": 0.5,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://hongphatfood.com/wp-content/uploads/2024/02/clm-pho-chilli-sauce-2.1kg6.jpg"
+    ],
+    "description": "Tương ớt là loại sốt cay làm từ ớt, thường dùng làm gia vị hoặc nước chấm.",
+    "isDeleted": false
+  },
+  {
+    "id": 197,
+    "name": "Bún tàu",
+    "categoryId": null,
+    "protein": 0.5,
+    "carb": 20.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://img.lazcdn.com/g/p/4dac77ace2fbc5f6dedd30c6f0e1f7d2.jpg_720x720q80.jpg"
+    ],
+    "description": "Bún tàu là loại miến làm từ tinh bột, thường dùng trong món xào hoặc canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 198,
+    "name": "Rau càng cua",
+    "categoryId": 1,
+    "protein": 2.0,
+    "carb": 3.5,
+    "fat": 0.2,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/365/460/products/283.png?v=1748976950180"
+    ],
+    "description": "Rau càng cua là loại rau có vị chua nhẹ, thường dùng làm salad hoặc ăn sống.",
+    "isDeleted": false
+  },
+  {
+    "id": 199,
+    "name": "Nấm đùi gà",
+    "categoryId": 1,
+    "protein": 2.9,
+    "carb": 5.2,
+    "fat": 0.3,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000354044/product/vdvf9jtufhrs9mmmq0zdu4zi00nwm4ltq2nzctyjy3oc04mwu4mta1zge4mtuucg5nin0__f92e2db6bf09451091a90baa34ef2537_master.png"
+    ],
+    "description": "Nấm đùi gà là loại nấm có thân to, giòn, thường dùng để xào hoặc nướng.",
+    "isDeleted": false
+  },
+  {
+    "id": 200,
+    "name": "Nấm bào ngư",
+    "categoryId": 1,
+    "protein": 3.31,
+    "carb": 6.09,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://product.hstatic.net/1000354044/product/nam-bao-ngu-xam-tuoi-06_1a22e03222a34b7492fbad21a8cd3f7e_master.jpg"
+    ],
+    "description": "Nấm bào ngư là loại nấm có vị ngọt nhẹ, thường dùng trong các món xào hoặc canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 201,
+    "name": "Dầu ăn",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://png.pngtree.com/png-vector/20250920/ourmid/pngtree-golden-cooking-oil-in-a-clear-glass-bowl-png-image_17524299.webp"
+    ],
+    "description": "Dầu ăn là chất béo thực vật, thường dùng để chiên, xào hoặc nấu ăn, cung cấp năng lượng cho cơ thể.",
+    "isDeleted": false
+  },
+  {
+    "id": 202,
+    "name": "Chuối xanh",
+    "categoryId": 1,
+    "protein": 1.2,
+    "carb": 17.48,
+    "fat": 0.32,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/469/765/products/6w8xump35nvzyfbegxgo-simg-de2fe0-500x500-maxb.jpg"
+    ],
+    "description": "Chuối xanh là quả chuối chưa chín, có vị chát, thường dùng nấu canh hoặc chế biến món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 203,
+    "name": "Hoa chuối",
+    "categoryId": 1,
+    "protein": 1.5,
+    "carb": 5.5,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.tuoitre.vn/thumb_w/480/471584752817336320/2024/3/2/bap-chuoi-1709391615578544026298.jpg"
+    ],
+    "description": "Hoa chuối là phần bông của cây chuối, có vị chát nhẹ, thường dùng làm gỏi hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 204,
+    "name": "Bột ngọt/ mì chính",
+    "categoryId": 6,
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2WsHn4RcFkOzXRyrpYs4lWN0HRrbRC5USQ&s"
+    ],
+    "description": "Bột ngọt là gia vị tạo vị ngọt thịt, thường dùng để nêm nếm món ăn.",
+    "isDeleted": false
+  },
+  {
+    "id": 205,
+    "name": "Măng khô",
+    "categoryId": 1,
+    "protein": 13.0,
+    "carb": 57.5,
+    "fat": 2.1,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cerafoods.com/wp-content/uploads/2023/09/mang-kho-cao-bang-2.jpg"
+    ],
+    "description": "Măng khô là măng đã được phơi khô, cần ngâm trước khi chế biến, thường dùng nấu canh hoặc kho.",
+    "isDeleted": false
+  },
+  {
+    "id": 206,
+    "name": "Măng cụt",
+    "categoryId": 8,
+    "protein": 0.6,
+    "carb": 14.4,
+    "fat": 0.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://bizweb.dktcdn.net/100/422/567/products/cay-giong-can-tho-mang-cut-1-2.jpg?v=1638951045860"
+    ],
+    "description": "Măng cụt là loại trái cây có vị ngọt thanh, mọng nước, thường ăn tươi.",
+    "isDeleted": false
+  },
+  {
+    "id": 207,
+    "name": "Củ đậu",
+    "categoryId": 1,
+    "protein": 1.0,
+    "carb": 6.7,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn.tgdd.vn/Files/2019/12/12/1226441/xx-loi-ich-bat-ngo-den-tu-cu-dau-va-nhung-luu-y-can-biet-khi-an-cu-dau.jpg"
+    ],
+    "description": "Củ đậu là loại củ có vị ngọt mát, giòn, thường ăn sống hoặc làm gỏi.",
+    "isDeleted": false
+  },
+  {
+    "id": 208,
+    "name": "Khoai từ",
+    "categoryId": 8,
+    "protein": 1.5,
+    "carb": 22.7,
+    "fat": 0.0,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/khoai_tu_lam_mon_gi_ngon_fa3a381453.jpg"
+    ],
+    "description": "Khoai từ là loại củ có vị bùi, thường dùng nấu canh hoặc làm bánh.",
+    "isDeleted": false
+  },
+  {
+    "id": 209,
+    "name": "Dọc mùng",
+    "categoryId": 8,
+    "protein": 3.0,
+    "carb": 8.3,
+    "fat": 2.6,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://images-handler.kamereo.vn/eyJidWNrZXQiOiJpbWFnZS1oYW5kbGVyLXByb2QiLCJrZXkiOiJzdXBwbGllci82NTQvUFJPRFVDVF9JTUFHRS82MjRkZWQyOC1hMWZjLTQzNzUtYTIwYS01MDM2YzljODQ2NjUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJmaWxsIn19fQ=="
+    ],
+    "description": "Dọc mùng là thân cây môn, có vị giòn, thường dùng nấu canh chua.",
+    "isDeleted": false
+  },
+  {
+    "id": 210,
+    "name": "Ngó sen",
+    "categoryId": 8,
+    "protein": 1.0,
+    "carb": 15.13,
+    "fat": 0.07,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://images-handler.kamereo.vn/eyJidWNrZXQiOiJpbWFnZS1oYW5kbGVyLXByb2QiLCJrZXkiOiJzdXBwbGllci82NTQvUFJPRFVDVF9JTUFHRS8xM2Y3YzIwOC03MzEzLTRjYzQtOGRkNC04OTVjMGI4MTcxYzEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJmaWxsIn19fQ=="
+    ],
+    "description": "Ngó sen là phần thân non của cây sen, giòn, thường dùng làm gỏi hoặc nấu canh.",
+    "isDeleted": false
+  },
+  {
+    "id": 211,
+    "name": "Mùi tàu",
+    "categoryId": 8,
+    "protein": 2.1,
+    "carb": 4.25,
+    "fat": 0.55,
+    "createdAt": "13:46.0",
+    "updatedAt": "13:46.0",
+    "unit": "GAM",
+    "images": [
+      "https://media.vov.vn/sites/default/files/styles/large/public/2025-11/mui_tau.jpg"
+    ],
+    "description": "Mùi tàu là loại rau gia vị có mùi thơm đặc trưng, thường dùng để tăng hương vị món ăn.",
+    "isDeleted": false
+  }
+]

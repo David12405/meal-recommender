@@ -1,0 +1,582 @@
+{
+  "status": "success",
+  "plan": [
+    {
+      "day": 1,
+      "date": "2026-04-27T00:00:00Z",
+      "meals": {
+        "breakfast": [
+          {
+            "dishId": 401,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 304,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "lunch": [
+          {
+            "dishId": 101,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 8,
+                "unit": "GAM",
+                "quantity": 120
+              }
+            ]
+          },
+          {
+            "dishId": 201,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 12,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          },
+          {
+            "dishId": 301,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "dinner": [
+          {
+            "dishId": 104,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 204,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 13,
+                "unit": "GAM",
+                "quantity": 50
+              }
+            ]
+          },
+          {
+            "dishId": 303,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 12,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          }
+        ]
+      },
+      "nutrition": {
+        "calories": 1480,
+        "protein": 95,
+        "carb": 175,
+        "fat": 52
+      }
+    },
+    {
+      "day": 2,
+      "date": "2026-04-28T00:00:00Z",
+      "meals": {
+        "breakfast": [
+          {
+            "dishId": 403,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 37,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          },
+          {
+            "dishId": 302,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 11,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          }
+        ],
+        "lunch": [
+          {
+            "dishId": 102,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 8,
+                "unit": "GAM",
+                "quantity": 120
+              },
+              {
+                "ingredientId": 2,
+                "unit": "GAM",
+                "quantity": 80
+              }
+            ]
+          },
+          {
+            "dishId": 202,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 11,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          },
+          {
+            "dishId": 305,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "dinner": [
+          {
+            "dishId": 105,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 8,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          },
+          {
+            "dishId": 205,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 13,
+                "unit": "GAM",
+                "quantity": 50
+              }
+            ]
+          },
+          {
+            "dishId": 306,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 25,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          }
+        ]
+      },
+      "nutrition": {
+        "calories": 1565,
+        "protein": 102,
+        "carb": 180,
+        "fat": 56
+      }
+    },
+    {
+      "day": 3,
+      "date": "2026-04-29T00:00:00Z",
+      "meals": {
+        "breakfast": [
+          {
+            "dishId": 406,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 8,
+                "unit": "GAM",
+                "quantity": 80
+              }
+            ]
+          },
+          {
+            "dishId": 308,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 23,
+                "unit": "GAM",
+                "quantity": 120
+              }
+            ]
+          }
+        ],
+        "lunch": [
+          {
+            "dishId": 112,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 203,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 5,
+                "unit": "GAM",
+                "quantity": 30
+              }
+            ]
+          },
+          {
+            "dishId": 309,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 26,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          }
+        ],
+        "dinner": [
+          {
+            "dishId": 107,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 7,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          },
+          {
+            "dishId": 206,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 27,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          },
+          {
+            "dishId": 310,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 27,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          }
+        ]
+      },
+      "nutrition": {
+        "calories": 1495,
+        "protein": 88,
+        "carb": 195,
+        "fat": 48
+      }
+    },
+    {
+      "day": 4,
+      "date": "2026-04-30T00:00:00Z",
+      "meals": {
+        "breakfast": [
+          {
+            "dishId": 407,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 304,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "lunch": [
+          {
+            "dishId": 109,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 8,
+                "unit": "GAM",
+                "quantity": 120
+              },
+              {
+                "ingredientId": 3,
+                "unit": "GAM",
+                "quantity": 130
+              }
+            ]
+          },
+          {
+            "dishId": 207,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 19,
+                "unit": "GAM",
+                "quantity": 50
+              }
+            ]
+          },
+          {
+            "dishId": 301,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "dinner": [
+          {
+            "dishId": 106,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 208,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 29,
+                "unit": "GAM",
+                "quantity": 80
+              }
+            ]
+          },
+          {
+            "dishId": 311,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 28,
+                "unit": "GAM",
+                "quantity": 150
+              }
+            ]
+          }
+        ]
+      },
+      "nutrition": {
+        "calories": 1545,
+        "protein": 110,
+        "carb": 170,
+        "fat": 60
+      }
+    },
+    {
+      "day": 5,
+      "date": "2026-05-01T00:00:00Z",
+      "meals": {
+        "breakfast": [
+          {
+            "dishId": 411,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 44,
+                "unit": "GAM",
+                "quantity": 60
+              }
+            ]
+          },
+          {
+            "dishId": 312,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "lunch": [
+          {
+            "dishId": 108,
+            "role": "MAINDISH",
+            "missingIngredient": [
+              {
+                "ingredientId": 9,
+                "unit": "GAM",
+                "quantity": 180
+              },
+              {
+                "ingredientId": 2,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          },
+          {
+            "dishId": 209,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 21,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          },
+          {
+            "dishId": 305,
+            "role": "VEGETABLE",
+            "missingIngredient": []
+          }
+        ],
+        "dinner": [
+          {
+            "dishId": 110,
+            "role": "MAINDISH",
+            "missingIngredient": []
+          },
+          {
+            "dishId": 210,
+            "role": "SOUP",
+            "missingIngredient": [
+              {
+                "ingredientId": 24,
+                "unit": "GAM",
+                "quantity": 100
+              }
+            ]
+          },
+          {
+            "dishId": 313,
+            "role": "VEGETABLE",
+            "missingIngredient": [
+              {
+                "ingredientId": 29,
+                "unit": "GAM",
+                "quantity": 80
+              }
+            ]
+          }
+        ]
+      },
+      "nutrition": {
+        "calories": 1535,
+        "protein": 98,
+        "carb": 188,
+        "fat": 54
+      }
+    }
+  ],
+  "summary": {
+    "avgDailyCalories": 1524,
+    "targetCalories": 7600,
+    "deviation": 0.003,
+    "avgDailyProtein": 98.6,
+    "avgDailyCarbs": 181.6,
+    "avgDailyFat": 54
+  },
+  "shoppingList": [
+    {
+      "ingredientId": 2,
+      "quantity": 180,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 3,
+      "quantity": 130,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 5,
+      "quantity": 30,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 7,
+      "quantity": 150,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 8,
+      "quantity": 540,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 9,
+      "quantity": 180,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 11,
+      "quantity": 300,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 12,
+      "quantity": 300,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 13,
+      "quantity": 100,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 19,
+      "quantity": 50,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 21,
+      "quantity": 100,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 23,
+      "quantity": 120,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 24,
+      "quantity": 100,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 25,
+      "quantity": 150,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 26,
+      "quantity": 100,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 27,
+      "quantity": 200,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 28,
+      "quantity": 150,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 29,
+      "quantity": 160,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 37,
+      "quantity": 150,
+      "unit": "GAM"
+    },
+    {
+      "ingredientId": 44,
+      "quantity": 60,
+      "unit": "GAM"
+    }
+  ]
+}

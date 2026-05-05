@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: meal-recommender
+    runtime: python
+    region: singapore
+    plan: free
+    pythonVersion: "3.11"
+
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+
+    envVars:
+      - key: LOG_LEVEL
+        value: INFO
+      - key: SOLVER_TIMEOUT_SECONDS
+        value: "30"
+      - key: SOLVER_NUM_WORKERS
+        value: "2"
+      - key: NO_REPEAT_DAYS
+        value: "2"
+      - key: CALORIE_DELTA
+        value: "100"
+      - key: WEIGHT_FRIDGE
+        value: "3"
+      - key: WEIGHT_EXPIRY
+        value: "5"
+      - key: WEIGHT_DIVERSITY
+        value: "2"
+      - key: WEIGHT_SHOPPING_PENALTY
+        value: "3"
+      - key: EXPIRY_WINDOW_DAYS
+        value: "7"
+      - key: MAX_INGREDIENT_CLASSES
+        value: "250"
+      - key: DATA_DIR
+        value: "./data"
+
+    healthCheckPath: /health

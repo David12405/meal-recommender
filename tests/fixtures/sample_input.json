@@ -1,0 +1,18 @@
+{
+  "userId": "user_001",
+  "tdee": 2150,
+  "weight": 68,
+  "goal": { "targetKg": 0 },
+  "mealStructure": {
+    "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+    "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+    "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+  },
+  "planDays": 3,
+  "startDate": "2026-04-21T00:00:00.000Z",
+  "recentMealLog": [],
+  "fridge": [
+    { "ingredientId": 2, "quantity": 4, "unit": "NUMBER", "dueDate": "2026-04-23T00:00:00.000Z" },
+    { "ingredientId": 4, "quantity": 600, "unit": "GAM", "dueDate": "2026-04-24T00:00:00.000Z" }
+  ]
+}

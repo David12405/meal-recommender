@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Thịt heo",    "unit": "GAM",    "numberToGam": null, "protein": 23.0, "carb": 0.0,  "fat": 17.0 },
+  { "id": 2, "name": "Trứng gà",    "unit": "NUMBER", "numberToGam": 55,   "protein": 12.6, "carb": 1.1,  "fat": 10.6 },
+  { "id": 3, "name": "Gạo",         "unit": "GAM",    "numberToGam": null, "protein": 7.1,  "carb": 79.0, "fat": 0.7 },
+  { "id": 4, "name": "Rau muống",   "unit": "GAM",    "numberToGam": null, "protein": 2.6,  "carb": 3.1,  "fat": 0.2 },
+  { "id": 5, "name": "Cá basa",     "unit": "GAM",    "numberToGam": null, "protein": 18.0, "carb": 0.0,  "fat": 6.0 },
+  { "id": 6, "name": "Bí đỏ",       "unit": "GAM",    "numberToGam": null, "protein": 1.0,  "carb": 6.5,  "fat": 0.1 },
+  { "id": 7, "name": "Dầu ăn",      "unit": "GAM",    "numberToGam": null, "protein": 0.0,  "carb": 0.0,  "fat": 100.0 }
+]
