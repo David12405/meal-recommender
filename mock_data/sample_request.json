@@ -1,5 +1,5 @@
 {
-  "userId": "demo_user_001",
+  "userId": 1,
   "tdee": 1850,
   "weight": 68,
   "goal": {

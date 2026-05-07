@@ -1,0 +1,31 @@
+{
+  "_description": "Case đơn giản nhất: planDays=1, mỗi bữa chỉ 1 main dish + 1 vegetable. Solver giải <1s.",
+  "userId": 1,
+  "tdee": 2000,
+  "weight": 65,
+  "goal": {
+    "targetKg": 0
+  },
+  "mealStructure": {
+    "breakfast": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 0
+    },
+    "lunch": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 1
+    },
+    "dinner": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 1
+    }
+  },
+  "planDays": 1,
+  "startDate": "2026-05-08T00:00:00.000Z",
+  "recentMealLog": [],
+  "fridge": [],
+  "lockedPicks": []
+}

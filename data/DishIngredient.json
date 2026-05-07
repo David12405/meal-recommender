@@ -4,7 +4,7 @@
     "dishId": 1,
     "ingredientId": 1,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -12,7 +12,7 @@
     "dishId": 1,
     "ingredientId": 161,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -20,7 +20,7 @@
     "dishId": 1,
     "ingredientId": 6,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -28,7 +28,7 @@
     "dishId": 1,
     "ingredientId": 95,
     "amount": 8.0,
-    "gramsEqui": 40.0,
+    "gramsEquivalent": "40.0",
     "unit": "NUMBER"
   },
   {
@@ -36,7 +36,7 @@
     "dishId": 1,
     "ingredientId": 99,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -44,7 +44,7 @@
     "dishId": 1,
     "ingredientId": 187,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -52,7 +52,7 @@
     "dishId": 1,
     "ingredientId": 140,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -60,7 +60,7 @@
     "dishId": 2,
     "ingredientId": 1,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -68,7 +68,7 @@
     "dishId": 2,
     "ingredientId": 46,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -76,7 +76,7 @@
     "dishId": 2,
     "ingredientId": 99,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -84,7 +84,7 @@
     "dishId": 2,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -92,7 +92,7 @@
     "dishId": 2,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -100,7 +100,7 @@
     "dishId": 2,
     "ingredientId": 68,
     "amount": 3.0,
-    "gramsEqui": 36.0,
+    "gramsEquivalent": "36.0",
     "unit": "NUMBER"
   },
   {
@@ -108,7 +108,7 @@
     "dishId": 3,
     "ingredientId": 1,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -116,7 +116,7 @@
     "dishId": 3,
     "ingredientId": 9,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -124,7 +124,7 @@
     "dishId": 3,
     "ingredientId": 46,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -132,7 +132,7 @@
     "dishId": 3,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -140,7 +140,7 @@
     "dishId": 3,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -148,7 +148,7 @@
     "dishId": 3,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -156,7 +156,7 @@
     "dishId": 3,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -164,7 +164,7 @@
     "dishId": 4,
     "ingredientId": 2,
     "amount": 1.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "NUMBER"
   },
   {
@@ -172,7 +172,7 @@
     "dishId": 4,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -180,7 +180,7 @@
     "dishId": 4,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -188,7 +188,7 @@
     "dishId": 4,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -196,7 +196,7 @@
     "dishId": 4,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -204,7 +204,7 @@
     "dishId": 4,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -212,7 +212,7 @@
     "dishId": 4,
     "ingredientId": 45,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -220,7 +220,7 @@
     "dishId": 5,
     "ingredientId": 2,
     "amount": 1.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "NUMBER"
   },
   {
@@ -228,7 +228,7 @@
     "dishId": 5,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -236,7 +236,7 @@
     "dishId": 5,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -244,7 +244,7 @@
     "dishId": 5,
     "ingredientId": 187,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -252,7 +252,7 @@
     "dishId": 5,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -260,7 +260,7 @@
     "dishId": 6,
     "ingredientId": 1,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -268,7 +268,7 @@
     "dishId": 6,
     "ingredientId": 2,
     "amount": 1.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "NUMBER"
   },
   {
@@ -276,7 +276,7 @@
     "dishId": 6,
     "ingredientId": 36,
     "amount": 0.5,
-    "gramsEqui": 30.0,
+    "gramsEquivalent": "30.0",
     "unit": "NUMBER"
   },
   {
@@ -284,7 +284,7 @@
     "dishId": 6,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -292,7 +292,7 @@
     "dishId": 6,
     "ingredientId": 6,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -300,7 +300,7 @@
     "dishId": 6,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -308,7 +308,7 @@
     "dishId": 6,
     "ingredientId": 59,
     "amount": 1.0,
-    "gramsEqui": 4.0,
+    "gramsEquivalent": "4.0",
     "unit": "NUMBER"
   },
   {
@@ -316,7 +316,7 @@
     "dishId": 6,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -324,7 +324,7 @@
     "dishId": 6,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -332,7 +332,7 @@
     "dishId": 6,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -340,7 +340,7 @@
     "dishId": 7,
     "ingredientId": 72,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -348,7 +348,7 @@
     "dishId": 7,
     "ingredientId": 3,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -356,7 +356,7 @@
     "dishId": 7,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -364,7 +364,7 @@
     "dishId": 7,
     "ingredientId": 45,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -372,7 +372,7 @@
     "dishId": 7,
     "ingredientId": 12,
     "amount": 1.0,
-    "gramsEqui": 55.0,
+    "gramsEquivalent": "55.0",
     "unit": "NUMBER"
   },
   {
@@ -380,7 +380,7 @@
     "dishId": 7,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -388,7 +388,7 @@
     "dishId": 7,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -396,7 +396,7 @@
     "dishId": 7,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -404,7 +404,7 @@
     "dishId": 7,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -412,7 +412,7 @@
     "dishId": 8,
     "ingredientId": 4,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -420,7 +420,7 @@
     "dishId": 8,
     "ingredientId": 6,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -428,7 +428,7 @@
     "dishId": 8,
     "ingredientId": 127,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -436,7 +436,7 @@
     "dishId": 8,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -444,7 +444,7 @@
     "dishId": 8,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -452,7 +452,7 @@
     "dishId": 9,
     "ingredientId": 4,
     "amount": 2.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "NUMBER"
   },
   {
@@ -460,7 +460,7 @@
     "dishId": 9,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -468,7 +468,7 @@
     "dishId": 9,
     "ingredientId": 106,
     "amount": 2.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -476,7 +476,7 @@
     "dishId": 9,
     "ingredientId": 201,
     "amount": 4.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -484,7 +484,7 @@
     "dishId": 10,
     "ingredientId": 8,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -492,7 +492,7 @@
     "dishId": 10,
     "ingredientId": 4,
     "amount": 2.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "NUMBER"
   },
   {
@@ -500,7 +500,7 @@
     "dishId": 10,
     "ingredientId": 46,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -508,7 +508,7 @@
     "dishId": 10,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -516,7 +516,7 @@
     "dishId": 10,
     "ingredientId": 45,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -524,7 +524,7 @@
     "dishId": 11,
     "ingredientId": 7,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -532,7 +532,7 @@
     "dishId": 11,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -540,7 +540,7 @@
     "dishId": 11,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -548,7 +548,7 @@
     "dishId": 11,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -556,7 +556,7 @@
     "dishId": 11,
     "ingredientId": 76,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -564,7 +564,7 @@
     "dishId": 11,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -572,7 +572,7 @@
     "dishId": 11,
     "ingredientId": 196,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -580,7 +580,7 @@
     "dishId": 11,
     "ingredientId": 187,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -588,7 +588,7 @@
     "dishId": 11,
     "ingredientId": 195,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -596,7 +596,7 @@
     "dishId": 11,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -604,7 +604,7 @@
     "dishId": 12,
     "ingredientId": 9,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -612,7 +612,7 @@
     "dishId": 12,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -620,7 +620,7 @@
     "dishId": 12,
     "ingredientId": 128,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -628,7 +628,7 @@
     "dishId": 12,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -636,7 +636,7 @@
     "dishId": 13,
     "ingredientId": 72,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -644,7 +644,7 @@
     "dishId": 13,
     "ingredientId": 10,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -652,7 +652,7 @@
     "dishId": 13,
     "ingredientId": 196,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -660,7 +660,7 @@
     "dishId": 13,
     "ingredientId": 108,
     "amount": 1.0,
-    "gramsEqui": 3.0,
+    "gramsEquivalent": "3.0",
     "unit": "NUMBER"
   },
   {
@@ -668,7 +668,7 @@
     "dishId": 14,
     "ingredientId": 72,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -676,7 +676,7 @@
     "dishId": 14,
     "ingredientId": 10,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -684,7 +684,7 @@
     "dishId": 14,
     "ingredientId": 93,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -692,7 +692,7 @@
     "dishId": 14,
     "ingredientId": 15,
     "amount": 1.0,
-    "gramsEqui": 60.0,
+    "gramsEquivalent": "60.0",
     "unit": "NUMBER"
   },
   {
@@ -700,7 +700,7 @@
     "dishId": 14,
     "ingredientId": 108,
     "amount": 1.0,
-    "gramsEqui": 3.0,
+    "gramsEquivalent": "3.0",
     "unit": "NUMBER"
   },
   {
@@ -708,7 +708,7 @@
     "dishId": 14,
     "ingredientId": 144,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -716,7 +716,7 @@
     "dishId": 14,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -724,7 +724,7 @@
     "dishId": 14,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -732,7 +732,7 @@
     "dishId": 14,
     "ingredientId": 95,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -740,7 +740,7 @@
     "dishId": 15,
     "ingredientId": 72,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -748,7 +748,7 @@
     "dishId": 15,
     "ingredientId": 12,
     "amount": 2.0,
-    "gramsEqui": 110.0,
+    "gramsEquivalent": "110.0",
     "unit": "NUMBER"
   },
   {
@@ -756,7 +756,7 @@
     "dishId": 15,
     "ingredientId": 181,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -764,7 +764,7 @@
     "dishId": 15,
     "ingredientId": 180,
     "amount": 2.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -772,7 +772,7 @@
     "dishId": 15,
     "ingredientId": 99,
     "amount": 2.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -780,7 +780,7 @@
     "dishId": 15,
     "ingredientId": 75,
     "amount": 2.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -788,7 +788,7 @@
     "dishId": 15,
     "ingredientId": 74,
     "amount": 2.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -796,7 +796,7 @@
     "dishId": 16,
     "ingredientId": 13,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -804,7 +804,7 @@
     "dishId": 16,
     "ingredientId": 130,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -812,7 +812,7 @@
     "dishId": 16,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -820,7 +820,7 @@
     "dishId": 16,
     "ingredientId": 183,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -828,7 +828,7 @@
     "dishId": 16,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -836,7 +836,7 @@
     "dishId": 16,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -844,7 +844,7 @@
     "dishId": 17,
     "ingredientId": 13,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -852,7 +852,7 @@
     "dishId": 17,
     "ingredientId": 108,
     "amount": 1.0,
-    "gramsEqui": 3.0,
+    "gramsEquivalent": "3.0",
     "unit": "NUMBER"
   },
   {
@@ -860,7 +860,7 @@
     "dishId": 17,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -868,7 +868,7 @@
     "dishId": 17,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -876,7 +876,7 @@
     "dishId": 17,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -884,7 +884,7 @@
     "dishId": 17,
     "ingredientId": 59,
     "amount": 1.0,
-    "gramsEqui": 4.0,
+    "gramsEquivalent": "4.0",
     "unit": "NUMBER"
   },
   {
@@ -892,7 +892,7 @@
     "dishId": 17,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -900,7 +900,7 @@
     "dishId": 18,
     "ingredientId": 92,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -908,7 +908,7 @@
     "dishId": 18,
     "ingredientId": 15,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -916,7 +916,7 @@
     "dishId": 18,
     "ingredientId": 91,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -924,7 +924,7 @@
     "dishId": 18,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -932,7 +932,7 @@
     "dishId": 18,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -940,7 +940,7 @@
     "dishId": 18,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -948,7 +948,7 @@
     "dishId": 19,
     "ingredientId": 83,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -956,7 +956,7 @@
     "dishId": 19,
     "ingredientId": 15,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -964,7 +964,7 @@
     "dishId": 19,
     "ingredientId": 161,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -972,7 +972,7 @@
     "dishId": 19,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -980,7 +980,7 @@
     "dishId": 19,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -988,7 +988,7 @@
     "dishId": 19,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -996,7 +996,7 @@
     "dishId": 20,
     "ingredientId": 142,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -1004,7 +1004,7 @@
     "dishId": 20,
     "ingredientId": 18,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -1012,7 +1012,7 @@
     "dishId": 20,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1020,7 +1020,7 @@
     "dishId": 20,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1028,7 +1028,7 @@
     "dishId": 21,
     "ingredientId": 18,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -1036,7 +1036,7 @@
     "dishId": 21,
     "ingredientId": 128,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1044,7 +1044,7 @@
     "dishId": 21,
     "ingredientId": 74,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -1052,7 +1052,7 @@
     "dishId": 21,
     "ingredientId": 136,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1060,7 +1060,7 @@
     "dishId": 22,
     "ingredientId": 18,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -1068,7 +1068,7 @@
     "dishId": 22,
     "ingredientId": 4,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -1076,7 +1076,7 @@
     "dishId": 22,
     "ingredientId": 85,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1084,7 +1084,7 @@
     "dishId": 22,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1092,7 +1092,7 @@
     "dishId": 22,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1100,7 +1100,7 @@
     "dishId": 22,
     "ingredientId": 211,
     "amount": 1.25,
-    "gramsEqui": 1.25,
+    "gramsEquivalent": "1.25",
     "unit": "GAM"
   },
   {
@@ -1108,7 +1108,7 @@
     "dishId": 23,
     "ingredientId": 20,
     "amount": 0.5,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -1116,7 +1116,7 @@
     "dishId": 23,
     "ingredientId": 9,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1124,7 +1124,7 @@
     "dishId": 23,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1132,7 +1132,7 @@
     "dishId": 24,
     "ingredientId": 4,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1140,7 +1140,7 @@
     "dishId": 24,
     "ingredientId": 21,
     "amount": 20.0,
-    "gramsEqui": 20.0,
+    "gramsEquivalent": "20.0",
     "unit": "GAM"
   },
   {
@@ -1148,7 +1148,7 @@
     "dishId": 24,
     "ingredientId": 73,
     "amount": 0.3,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1156,7 +1156,7 @@
     "dishId": 24,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1164,7 +1164,7 @@
     "dishId": 24,
     "ingredientId": 159,
     "amount": 2.0,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "GAM"
   },
   {
@@ -1172,7 +1172,7 @@
     "dishId": 24,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1180,7 +1180,7 @@
     "dishId": 25,
     "ingredientId": 21,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -1188,7 +1188,7 @@
     "dishId": 25,
     "ingredientId": 150,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1196,7 +1196,7 @@
     "dishId": 25,
     "ingredientId": 127,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -1204,7 +1204,7 @@
     "dishId": 25,
     "ingredientId": 6,
     "amount": 0.5,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -1212,7 +1212,7 @@
     "dishId": 25,
     "ingredientId": 73,
     "amount": 1.25,
-    "gramsEqui": 1.25,
+    "gramsEquivalent": "1.25",
     "unit": "GAM"
   },
   {
@@ -1220,7 +1220,7 @@
     "dishId": 25,
     "ingredientId": 180,
     "amount": 1.25,
-    "gramsEqui": 1.25,
+    "gramsEquivalent": "1.25",
     "unit": "GAM"
   },
   {
@@ -1228,7 +1228,7 @@
     "dishId": 25,
     "ingredientId": 128,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1236,7 +1236,7 @@
     "dishId": 26,
     "ingredientId": 137,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1244,7 +1244,7 @@
     "dishId": 26,
     "ingredientId": 25,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1252,7 +1252,7 @@
     "dishId": 26,
     "ingredientId": 159,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1260,7 +1260,7 @@
     "dishId": 26,
     "ingredientId": 204,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1268,7 +1268,7 @@
     "dishId": 26,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1276,7 +1276,7 @@
     "dishId": 26,
     "ingredientId": 106,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1284,7 +1284,7 @@
     "dishId": 27,
     "ingredientId": 26,
     "amount": 1.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "NUMBER"
   },
   {
@@ -1292,7 +1292,7 @@
     "dishId": 27,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1300,7 +1300,7 @@
     "dishId": 27,
     "ingredientId": 201,
     "amount": 3.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1308,7 +1308,7 @@
     "dishId": 28,
     "ingredientId": 22,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1316,7 +1316,7 @@
     "dishId": 28,
     "ingredientId": 91,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -1324,7 +1324,7 @@
     "dishId": 28,
     "ingredientId": 29,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1332,7 +1332,7 @@
     "dishId": 28,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1340,7 +1340,7 @@
     "dishId": 28,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1348,7 +1348,7 @@
     "dishId": 28,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1356,7 +1356,7 @@
     "dishId": 28,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1364,7 +1364,7 @@
     "dishId": 29,
     "ingredientId": 29,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1372,7 +1372,7 @@
     "dishId": 29,
     "ingredientId": 5,
     "amount": 1.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -1380,7 +1380,7 @@
     "dishId": 29,
     "ingredientId": 19,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1388,7 +1388,7 @@
     "dishId": 29,
     "ingredientId": 3,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -1396,7 +1396,7 @@
     "dishId": 29,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1404,7 +1404,7 @@
     "dishId": 29,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1412,7 +1412,7 @@
     "dishId": 29,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1420,7 +1420,7 @@
     "dishId": 29,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1428,7 +1428,7 @@
     "dishId": 30,
     "ingredientId": 30,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -1436,7 +1436,7 @@
     "dishId": 30,
     "ingredientId": 5,
     "amount": 1.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -1444,7 +1444,7 @@
     "dishId": 30,
     "ingredientId": 95,
     "amount": 2.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "NUMBER"
   },
   {
@@ -1452,7 +1452,7 @@
     "dishId": 30,
     "ingredientId": 59,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -1460,7 +1460,7 @@
     "dishId": 30,
     "ingredientId": 187,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1468,7 +1468,7 @@
     "dishId": 30,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1476,7 +1476,7 @@
     "dishId": 30,
     "ingredientId": 99,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1484,7 +1484,7 @@
     "dishId": 30,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1492,7 +1492,7 @@
     "dishId": 31,
     "ingredientId": 30,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -1500,7 +1500,7 @@
     "dishId": 31,
     "ingredientId": 5,
     "amount": 1.0,
-    "gramsEqui": 120.0,
+    "gramsEquivalent": "120.0",
     "unit": "NUMBER"
   },
   {
@@ -1508,7 +1508,7 @@
     "dishId": 31,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1516,7 +1516,7 @@
     "dishId": 31,
     "ingredientId": 204,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1524,7 +1524,7 @@
     "dishId": 31,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1532,7 +1532,7 @@
     "dishId": 31,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1540,7 +1540,7 @@
     "dishId": 31,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1548,7 +1548,7 @@
     "dishId": 32,
     "ingredientId": 30,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1556,7 +1556,7 @@
     "dishId": 32,
     "ingredientId": 35,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -1564,7 +1564,7 @@
     "dishId": 32,
     "ingredientId": 117,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1572,7 +1572,7 @@
     "dishId": 32,
     "ingredientId": 4,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -1580,7 +1580,7 @@
     "dishId": 32,
     "ingredientId": 95,
     "amount": 1.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1588,7 +1588,7 @@
     "dishId": 32,
     "ingredientId": 170,
     "amount": 30.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1596,7 +1596,7 @@
     "dishId": 32,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1604,7 +1604,7 @@
     "dishId": 32,
     "ingredientId": 99,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1612,7 +1612,7 @@
     "dishId": 32,
     "ingredientId": 74,
     "amount": 30.0,
-    "gramsEqui": 30.0,
+    "gramsEquivalent": "30.0",
     "unit": "GAM"
   },
   {
@@ -1620,7 +1620,7 @@
     "dishId": 32,
     "ingredientId": 178,
     "amount": 1.0,
-    "gramsEqui": 8.0,
+    "gramsEquivalent": "8.0",
     "unit": "GAM"
   },
   {
@@ -1628,7 +1628,7 @@
     "dishId": 32,
     "ingredientId": 128,
     "amount": 60.0,
-    "gramsEqui": 60.0,
+    "gramsEquivalent": "60.0",
     "unit": "GAM"
   },
   {
@@ -1636,7 +1636,7 @@
     "dishId": 33,
     "ingredientId": 31,
     "amount": 1.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -1644,7 +1644,7 @@
     "dishId": 33,
     "ingredientId": 60,
     "amount": 0.5,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "NUMBER"
   },
   {
@@ -1652,7 +1652,7 @@
     "dishId": 33,
     "ingredientId": 45,
     "amount": 2.0,
-    "gramsEqui": 7.5,
+    "gramsEquivalent": "7.5",
     "unit": "NUMBER"
   },
   {
@@ -1660,7 +1660,7 @@
     "dishId": 33,
     "ingredientId": 95,
     "amount": 0.25,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "NUMBER"
   },
   {
@@ -1668,7 +1668,7 @@
     "dishId": 33,
     "ingredientId": 169,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1676,7 +1676,7 @@
     "dishId": 33,
     "ingredientId": 75,
     "amount": 0.75,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1684,7 +1684,7 @@
     "dishId": 33,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -1692,7 +1692,7 @@
     "dishId": 33,
     "ingredientId": 42,
     "amount": 20.0,
-    "gramsEqui": 20.0,
+    "gramsEquivalent": "20.0",
     "unit": "GAM"
   },
   {
@@ -1700,7 +1700,7 @@
     "dishId": 34,
     "ingredientId": 57,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1708,7 +1708,7 @@
     "dishId": 34,
     "ingredientId": 31,
     "amount": 1.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -1716,7 +1716,7 @@
     "dishId": 34,
     "ingredientId": 46,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -1724,7 +1724,7 @@
     "dishId": 34,
     "ingredientId": 95,
     "amount": 0.25,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -1732,7 +1732,7 @@
     "dishId": 34,
     "ingredientId": 45,
     "amount": 0.5,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -1740,7 +1740,7 @@
     "dishId": 35,
     "ingredientId": 137,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1748,7 +1748,7 @@
     "dishId": 35,
     "ingredientId": 32,
     "amount": 0.5,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -1756,7 +1756,7 @@
     "dishId": 35,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1764,7 +1764,7 @@
     "dishId": 35,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1772,7 +1772,7 @@
     "dishId": 36,
     "ingredientId": 32,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1780,7 +1780,7 @@
     "dishId": 36,
     "ingredientId": 44,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -1788,7 +1788,7 @@
     "dishId": 36,
     "ingredientId": 9,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1796,7 +1796,7 @@
     "dishId": 36,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1804,7 +1804,7 @@
     "dishId": 36,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1812,7 +1812,7 @@
     "dishId": 37,
     "ingredientId": 9,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -1820,7 +1820,7 @@
     "dishId": 37,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1828,7 +1828,7 @@
     "dishId": 37,
     "ingredientId": 44,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -1836,7 +1836,7 @@
     "dishId": 37,
     "ingredientId": 33,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1844,7 +1844,7 @@
     "dishId": 37,
     "ingredientId": 204,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1852,7 +1852,7 @@
     "dishId": 38,
     "ingredientId": 33,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -1860,7 +1860,7 @@
     "dishId": 38,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1868,7 +1868,7 @@
     "dishId": 38,
     "ingredientId": 187,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1876,7 +1876,7 @@
     "dishId": 38,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1884,7 +1884,7 @@
     "dishId": 38,
     "ingredientId": 91,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -1892,7 +1892,7 @@
     "dishId": 39,
     "ingredientId": 34,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1900,7 +1900,7 @@
     "dishId": 39,
     "ingredientId": 192,
     "amount": 6.67,
-    "gramsEqui": 6.67,
+    "gramsEquivalent": "6.67",
     "unit": "GAM"
   },
   {
@@ -1908,7 +1908,7 @@
     "dishId": 39,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -1916,7 +1916,7 @@
     "dishId": 39,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1924,7 +1924,7 @@
     "dishId": 39,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": 1.67,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1932,7 +1932,7 @@
     "dishId": 39,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": 1.0,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1940,7 +1940,7 @@
     "dishId": 40,
     "ingredientId": 89,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -1948,7 +1948,7 @@
     "dishId": 40,
     "ingredientId": 34,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -1956,7 +1956,7 @@
     "dishId": 40,
     "ingredientId": 45,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -1964,7 +1964,7 @@
     "dishId": 40,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1972,7 +1972,7 @@
     "dishId": 40,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -1980,7 +1980,7 @@
     "dishId": 41,
     "ingredientId": 62,
     "amount": 5.0,
-    "gramsEqui": 500.0,
+    "gramsEquivalent": "500.0",
     "unit": "NUMBER"
   },
   {
@@ -1988,7 +1988,7 @@
     "dishId": 41,
     "ingredientId": 35,
     "amount": 2.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "NUMBER"
   },
   {
@@ -1996,7 +1996,7 @@
     "dishId": 41,
     "ingredientId": 74,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -2004,7 +2004,7 @@
     "dishId": 41,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2012,7 +2012,7 @@
     "dishId": 42,
     "ingredientId": 8,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -2020,7 +2020,7 @@
     "dishId": 42,
     "ingredientId": 35,
     "amount": 0.5,
-    "gramsEqui": 80.0,
+    "gramsEquivalent": "80.0",
     "unit": "NUMBER"
   },
   {
@@ -2028,7 +2028,7 @@
     "dishId": 42,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2036,7 +2036,7 @@
     "dishId": 42,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2044,7 +2044,7 @@
     "dishId": 42,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2052,7 +2052,7 @@
     "dishId": 42,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2060,7 +2060,7 @@
     "dishId": 43,
     "ingredientId": 11,
     "amount": 120.0,
-    "gramsEqui": 120.0,
+    "gramsEquivalent": "120.0",
     "unit": "GAM"
   },
   {
@@ -2068,7 +2068,7 @@
     "dishId": 43,
     "ingredientId": 38,
     "amount": 0.5,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -2076,7 +2076,7 @@
     "dishId": 43,
     "ingredientId": 6,
     "amount": 0.5,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "NUMBER"
   },
   {
@@ -2084,7 +2084,7 @@
     "dishId": 43,
     "ingredientId": 45,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2092,7 +2092,7 @@
     "dishId": 43,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2100,7 +2100,7 @@
     "dishId": 43,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2108,7 +2108,7 @@
     "dishId": 43,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2116,7 +2116,7 @@
     "dishId": 44,
     "ingredientId": 39,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -2124,7 +2124,7 @@
     "dishId": 44,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2132,7 +2132,7 @@
     "dishId": 44,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2140,7 +2140,7 @@
     "dishId": 44,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2148,7 +2148,7 @@
     "dishId": 44,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2156,7 +2156,7 @@
     "dishId": 45,
     "ingredientId": 72,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -2164,7 +2164,7 @@
     "dishId": 45,
     "ingredientId": 39,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -2172,7 +2172,7 @@
     "dishId": 45,
     "ingredientId": 9,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2180,7 +2180,7 @@
     "dishId": 46,
     "ingredientId": 8,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -2188,7 +2188,7 @@
     "dishId": 46,
     "ingredientId": 40,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -2196,7 +2196,7 @@
     "dishId": 46,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2204,7 +2204,7 @@
     "dishId": 47,
     "ingredientId": 40,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2212,7 +2212,7 @@
     "dishId": 47,
     "ingredientId": 50,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -2220,7 +2220,7 @@
     "dishId": 47,
     "ingredientId": 44,
     "amount": 12.5,
-    "gramsEqui": 12.5,
+    "gramsEquivalent": "12.5",
     "unit": "GAM"
   },
   {
@@ -2228,7 +2228,7 @@
     "dishId": 47,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2236,7 +2236,7 @@
     "dishId": 47,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2244,7 +2244,7 @@
     "dishId": 47,
     "ingredientId": 75,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2252,7 +2252,7 @@
     "dishId": 47,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2260,7 +2260,7 @@
     "dishId": 48,
     "ingredientId": 41,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2268,7 +2268,7 @@
     "dishId": 48,
     "ingredientId": 72,
     "amount": 40.0,
-    "gramsEqui": 40.0,
+    "gramsEquivalent": "40.0",
     "unit": "GAM"
   },
   {
@@ -2276,7 +2276,7 @@
     "dishId": 48,
     "ingredientId": 46,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2284,7 +2284,7 @@
     "dishId": 48,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2292,7 +2292,7 @@
     "dishId": 48,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2300,7 +2300,7 @@
     "dishId": 48,
     "ingredientId": 8,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -2308,7 +2308,7 @@
     "dishId": 49,
     "ingredientId": 41,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2316,7 +2316,7 @@
     "dishId": 49,
     "ingredientId": 96,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2324,7 +2324,7 @@
     "dishId": 49,
     "ingredientId": 151,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2332,7 +2332,7 @@
     "dishId": 49,
     "ingredientId": 74,
     "amount": 30.0,
-    "gramsEqui": 30.0,
+    "gramsEquivalent": "30.0",
     "unit": "GAM"
   },
   {
@@ -2340,7 +2340,7 @@
     "dishId": 49,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": 0.5,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2348,7 +2348,7 @@
     "dishId": 50,
     "ingredientId": 42,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -2356,7 +2356,7 @@
     "dishId": 50,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2364,7 +2364,7 @@
     "dishId": 50,
     "ingredientId": 64,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -2372,7 +2372,7 @@
     "dishId": 50,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2380,7 +2380,7 @@
     "dishId": 50,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2388,7 +2388,7 @@
     "dishId": 50,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2396,7 +2396,7 @@
     "dishId": 50,
     "ingredientId": 183,
     "amount": 2.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2404,7 +2404,7 @@
     "dishId": 51,
     "ingredientId": 42,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2412,7 +2412,7 @@
     "dishId": 51,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2420,7 +2420,7 @@
     "dishId": 51,
     "ingredientId": 95,
     "amount": 7.5,
-    "gramsEqui": 7.5,
+    "gramsEquivalent": "7.5",
     "unit": "GAM"
   },
   {
@@ -2428,7 +2428,7 @@
     "dishId": 51,
     "ingredientId": 59,
     "amount": 7.5,
-    "gramsEqui": 7.5,
+    "gramsEquivalent": "7.5",
     "unit": "GAM"
   },
   {
@@ -2436,7 +2436,7 @@
     "dishId": 51,
     "ingredientId": 128,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2444,7 +2444,7 @@
     "dishId": 51,
     "ingredientId": 181,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2452,7 +2452,7 @@
     "dishId": 51,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2460,7 +2460,7 @@
     "dishId": 51,
     "ingredientId": 74,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2468,7 +2468,7 @@
     "dishId": 52,
     "ingredientId": 86,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -2476,7 +2476,7 @@
     "dishId": 52,
     "ingredientId": 43,
     "amount": 70.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "GAM"
   },
   {
@@ -2484,7 +2484,7 @@
     "dishId": 52,
     "ingredientId": 46,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2492,7 +2492,7 @@
     "dishId": 52,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2500,7 +2500,7 @@
     "dishId": 52,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2508,7 +2508,7 @@
     "dishId": 52,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2516,7 +2516,7 @@
     "dishId": 53,
     "ingredientId": 55,
     "amount": 0.5,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -2524,7 +2524,7 @@
     "dishId": 53,
     "ingredientId": 43,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -2532,7 +2532,7 @@
     "dishId": 53,
     "ingredientId": 1,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -2540,7 +2540,7 @@
     "dishId": 53,
     "ingredientId": 100,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2548,7 +2548,7 @@
     "dishId": 53,
     "ingredientId": 183,
     "amount": 2.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2556,7 +2556,7 @@
     "dishId": 53,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2564,7 +2564,7 @@
     "dishId": 53,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2572,7 +2572,7 @@
     "dishId": 54,
     "ingredientId": 43,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -2580,7 +2580,7 @@
     "dishId": 54,
     "ingredientId": 192,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2588,7 +2588,7 @@
     "dishId": 54,
     "ingredientId": 15,
     "amount": 40.0,
-    "gramsEqui": 40.0,
+    "gramsEquivalent": "40.0",
     "unit": "GAM"
   },
   {
@@ -2596,7 +2596,7 @@
     "dishId": 54,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2604,7 +2604,7 @@
     "dishId": 54,
     "ingredientId": 74,
     "amount": 1.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2612,7 +2612,7 @@
     "dishId": 55,
     "ingredientId": 44,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -2620,7 +2620,7 @@
     "dishId": 55,
     "ingredientId": 74,
     "amount": 130.0,
-    "gramsEqui": 130.0,
+    "gramsEquivalent": "130.0",
     "unit": "GAM"
   },
   {
@@ -2628,7 +2628,7 @@
     "dishId": 56,
     "ingredientId": 28,
     "amount": 250.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "GAM"
   },
   {
@@ -2636,7 +2636,7 @@
     "dishId": 56,
     "ingredientId": 44,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -2644,7 +2644,7 @@
     "dishId": 56,
     "ingredientId": 64,
     "amount": 1.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "NUMBER"
   },
   {
@@ -2652,7 +2652,7 @@
     "dishId": 56,
     "ingredientId": 45,
     "amount": 2.0,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "GAM"
   },
   {
@@ -2660,7 +2660,7 @@
     "dishId": 56,
     "ingredientId": 110,
     "amount": 2.0,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "GAM"
   },
   {
@@ -2668,7 +2668,7 @@
     "dishId": 56,
     "ingredientId": 159,
     "amount": 2.0,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "GAM"
   },
   {
@@ -2676,7 +2676,7 @@
     "dishId": 56,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2684,7 +2684,7 @@
     "dishId": 56,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2692,7 +2692,7 @@
     "dishId": 56,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2700,7 +2700,7 @@
     "dishId": 56,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2708,7 +2708,7 @@
     "dishId": 56,
     "ingredientId": 184,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2716,7 +2716,7 @@
     "dishId": 57,
     "ingredientId": 31,
     "amount": 1.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -2724,7 +2724,7 @@
     "dishId": 57,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2732,7 +2732,7 @@
     "dishId": 57,
     "ingredientId": 45,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -2740,7 +2740,7 @@
     "dishId": 57,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2748,7 +2748,7 @@
     "dishId": 57,
     "ingredientId": 196,
     "amount": 2.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2756,7 +2756,7 @@
     "dishId": 58,
     "ingredientId": 45,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -2764,7 +2764,7 @@
     "dishId": 58,
     "ingredientId": 13,
     "amount": 2.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2772,7 +2772,7 @@
     "dishId": 58,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2780,7 +2780,7 @@
     "dishId": 58,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2788,7 +2788,7 @@
     "dishId": 58,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2796,7 +2796,7 @@
     "dishId": 59,
     "ingredientId": 47,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -2804,7 +2804,7 @@
     "dishId": 59,
     "ingredientId": 12,
     "amount": 1.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "NUMBER"
   },
   {
@@ -2812,7 +2812,7 @@
     "dishId": 59,
     "ingredientId": 74,
     "amount": 6.5,
-    "gramsEqui": 6.55,
+    "gramsEquivalent": "6.55",
     "unit": "GAM"
   },
   {
@@ -2820,7 +2820,7 @@
     "dishId": 59,
     "ingredientId": 77,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -2828,7 +2828,7 @@
     "dishId": 59,
     "ingredientId": 73,
     "amount": 0.23,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2836,7 +2836,7 @@
     "dishId": 59,
     "ingredientId": 76,
     "amount": 17.5,
-    "gramsEqui": 17.5,
+    "gramsEquivalent": "17.5",
     "unit": "GAM"
   },
   {
@@ -2844,7 +2844,7 @@
     "dishId": 59,
     "ingredientId": 128,
     "amount": 4.0,
-    "gramsEqui": 4.0,
+    "gramsEquivalent": "4.0",
     "unit": "GAM"
   },
   {
@@ -2852,7 +2852,7 @@
     "dishId": 60,
     "ingredientId": 47,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2860,7 +2860,7 @@
     "dishId": 60,
     "ingredientId": 96,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -2868,7 +2868,7 @@
     "dishId": 60,
     "ingredientId": 77,
     "amount": 300.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "GAM"
   },
   {
@@ -2876,7 +2876,7 @@
     "dishId": 60,
     "ingredientId": 125,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2884,7 +2884,7 @@
     "dishId": 60,
     "ingredientId": 74,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2892,7 +2892,7 @@
     "dishId": 61,
     "ingredientId": 48,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -2900,7 +2900,7 @@
     "dishId": 61,
     "ingredientId": 12,
     "amount": 1.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "NUMBER"
   },
   {
@@ -2908,7 +2908,7 @@
     "dishId": 61,
     "ingredientId": 45,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2916,7 +2916,7 @@
     "dishId": 61,
     "ingredientId": 46,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -2924,7 +2924,7 @@
     "dishId": 61,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2932,7 +2932,7 @@
     "dishId": 61,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2940,7 +2940,7 @@
     "dishId": 61,
     "ingredientId": 75,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2948,7 +2948,7 @@
     "dishId": 61,
     "ingredientId": 187,
     "amount": 0.5,
-    "gramsEqui": 0.5,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2956,7 +2956,7 @@
     "dishId": 61,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2964,7 +2964,7 @@
     "dishId": 61,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -2972,7 +2972,7 @@
     "dishId": 62,
     "ingredientId": 8,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -2980,7 +2980,7 @@
     "dishId": 62,
     "ingredientId": 48,
     "amount": 1.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "NUMBER"
   },
   {
@@ -2988,7 +2988,7 @@
     "dishId": 62,
     "ingredientId": 45,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -2996,7 +2996,7 @@
     "dishId": 62,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3004,7 +3004,7 @@
     "dishId": 62,
     "ingredientId": 204,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3012,7 +3012,7 @@
     "dishId": 63,
     "ingredientId": 2,
     "amount": 2.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -3020,7 +3020,7 @@
     "dishId": 63,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3028,7 +3028,7 @@
     "dishId": 63,
     "ingredientId": 49,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -3036,7 +3036,7 @@
     "dishId": 63,
     "ingredientId": 201,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3044,7 +3044,7 @@
     "dishId": 63,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3052,7 +3052,7 @@
     "dishId": 63,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3060,7 +3060,7 @@
     "dishId": 63,
     "ingredientId": 204,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3068,7 +3068,7 @@
     "dishId": 64,
     "ingredientId": 3,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3076,7 +3076,7 @@
     "dishId": 64,
     "ingredientId": 49,
     "amount": 20.0,
-    "gramsEqui": 20.0,
+    "gramsEquivalent": "20.0",
     "unit": "GAM"
   },
   {
@@ -3084,7 +3084,7 @@
     "dishId": 64,
     "ingredientId": 45,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -3092,7 +3092,7 @@
     "dishId": 64,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3100,7 +3100,7 @@
     "dishId": 64,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3108,7 +3108,7 @@
     "dishId": 64,
     "ingredientId": 183,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3116,7 +3116,7 @@
     "dishId": 64,
     "ingredientId": 187,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3124,7 +3124,7 @@
     "dishId": 65,
     "ingredientId": 50,
     "amount": 5.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -3132,7 +3132,7 @@
     "dishId": 65,
     "ingredientId": 45,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -3140,7 +3140,7 @@
     "dishId": 65,
     "ingredientId": 95,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -3148,7 +3148,7 @@
     "dishId": 65,
     "ingredientId": 183,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3156,7 +3156,7 @@
     "dishId": 65,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3164,7 +3164,7 @@
     "dishId": 65,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3172,7 +3172,7 @@
     "dishId": 66,
     "ingredientId": 50,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3180,7 +3180,7 @@
     "dishId": 66,
     "ingredientId": 149,
     "amount": 1.0,
-    "gramsEqui": 300.0,
+    "gramsEquivalent": "300.0",
     "unit": "NUMBER"
   },
   {
@@ -3188,7 +3188,7 @@
     "dishId": 66,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3196,7 +3196,7 @@
     "dishId": 66,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3204,7 +3204,7 @@
     "dishId": 66,
     "ingredientId": 204,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3212,7 +3212,7 @@
     "dishId": 66,
     "ingredientId": 45,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3220,7 +3220,7 @@
     "dishId": 66,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3228,7 +3228,7 @@
     "dishId": 67,
     "ingredientId": 51,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -3236,7 +3236,7 @@
     "dishId": 67,
     "ingredientId": 15,
     "amount": 0.5,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "NUMBER"
   },
   {
@@ -3244,7 +3244,7 @@
     "dishId": 67,
     "ingredientId": 77,
     "amount": 240.0,
-    "gramsEqui": 240.0,
+    "gramsEquivalent": "240.0",
     "unit": "GAM"
   },
   {
@@ -3252,7 +3252,7 @@
     "dishId": 68,
     "ingredientId": 51,
     "amount": 1.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "NUMBER"
   },
   {
@@ -3260,7 +3260,7 @@
     "dishId": 68,
     "ingredientId": 206,
     "amount": 2.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "NUMBER"
   },
   {
@@ -3268,7 +3268,7 @@
     "dishId": 68,
     "ingredientId": 74,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3276,7 +3276,7 @@
     "dishId": 69,
     "ingredientId": 1,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -3284,7 +3284,7 @@
     "dishId": 69,
     "ingredientId": 52,
     "amount": 3.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "NUMBER"
   },
   {
@@ -3292,7 +3292,7 @@
     "dishId": 69,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3300,7 +3300,7 @@
     "dishId": 69,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3308,7 +3308,7 @@
     "dishId": 69,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3316,7 +3316,7 @@
     "dishId": 69,
     "ingredientId": 196,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3324,7 +3324,7 @@
     "dishId": 69,
     "ingredientId": 45,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -3332,7 +3332,7 @@
     "dishId": 69,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3340,7 +3340,7 @@
     "dishId": 70,
     "ingredientId": 52,
     "amount": 250.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "GAM"
   },
   {
@@ -3348,7 +3348,7 @@
     "dishId": 70,
     "ingredientId": 74,
     "amount": 75.0,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "GAM"
   },
   {
@@ -3356,7 +3356,7 @@
     "dishId": 70,
     "ingredientId": 44,
     "amount": 2.0,
-    "gramsEqui": 2.0,
+    "gramsEquivalent": "2.0",
     "unit": "GAM"
   },
   {
@@ -3364,7 +3364,7 @@
     "dishId": 70,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3372,7 +3372,7 @@
     "dishId": 71,
     "ingredientId": 53,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -3380,7 +3380,7 @@
     "dishId": 71,
     "ingredientId": 57,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -3388,7 +3388,7 @@
     "dishId": 71,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3396,7 +3396,7 @@
     "dishId": 71,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3404,7 +3404,7 @@
     "dishId": 72,
     "ingredientId": 114,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -3412,7 +3412,7 @@
     "dishId": 72,
     "ingredientId": 53,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -3420,7 +3420,7 @@
     "dishId": 72,
     "ingredientId": 63,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -3428,7 +3428,7 @@
     "dishId": 72,
     "ingredientId": 24,
     "amount": 200.0,
-    "gramsEqui": 200.0,
+    "gramsEquivalent": "200.0",
     "unit": "GAM"
   },
   {
@@ -3436,7 +3436,7 @@
     "dishId": 72,
     "ingredientId": 45,
     "amount": 6.0,
-    "gramsEqui": 6.0,
+    "gramsEquivalent": "6.0",
     "unit": "GAM"
   },
   {
@@ -3444,7 +3444,7 @@
     "dishId": 72,
     "ingredientId": 44,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -3452,7 +3452,7 @@
     "dishId": 72,
     "ingredientId": 46,
     "amount": 6.0,
-    "gramsEqui": 6.0,
+    "gramsEquivalent": "6.0",
     "unit": "GAM"
   },
   {
@@ -3460,7 +3460,7 @@
     "dishId": 72,
     "ingredientId": 73,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3468,7 +3468,7 @@
     "dishId": 72,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3476,7 +3476,7 @@
     "dishId": 72,
     "ingredientId": 74,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3484,7 +3484,7 @@
     "dishId": 72,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3492,7 +3492,7 @@
     "dishId": 72,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3500,7 +3500,7 @@
     "dishId": 73,
     "ingredientId": 54,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3508,7 +3508,7 @@
     "dishId": 73,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3516,7 +3516,7 @@
     "dishId": 73,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3524,7 +3524,7 @@
     "dishId": 74,
     "ingredientId": 54,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3532,7 +3532,7 @@
     "dishId": 74,
     "ingredientId": 89,
     "amount": 70.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "GAM"
   },
   {
@@ -3540,7 +3540,7 @@
     "dishId": 74,
     "ingredientId": 46,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -3548,7 +3548,7 @@
     "dishId": 74,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3556,7 +3556,7 @@
     "dishId": 74,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3564,7 +3564,7 @@
     "dishId": 74,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3572,7 +3572,7 @@
     "dishId": 74,
     "ingredientId": 204,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3580,7 +3580,7 @@
     "dishId": 74,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3588,7 +3588,7 @@
     "dishId": 75,
     "ingredientId": 50,
     "amount": 5.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -3596,7 +3596,7 @@
     "dishId": 75,
     "ingredientId": 55,
     "amount": 1.0,
-    "gramsEqui": 250.0,
+    "gramsEquivalent": "250.0",
     "unit": "NUMBER"
   },
   {
@@ -3604,7 +3604,7 @@
     "dishId": 75,
     "ingredientId": 45,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -3612,7 +3612,7 @@
     "dishId": 75,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3620,7 +3620,7 @@
     "dishId": 75,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3628,7 +3628,7 @@
     "dishId": 75,
     "ingredientId": 99,
     "amount": 0.25,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3636,7 +3636,7 @@
     "dishId": 76,
     "ingredientId": 55,
     "amount": 180.0,
-    "gramsEqui": 180.0,
+    "gramsEquivalent": "180.0",
     "unit": "GAM"
   },
   {
@@ -3644,7 +3644,7 @@
     "dishId": 76,
     "ingredientId": 3,
     "amount": 70.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "GAM"
   },
   {
@@ -3652,7 +3652,7 @@
     "dishId": 76,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3660,7 +3660,7 @@
     "dishId": 76,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3668,7 +3668,7 @@
     "dishId": 76,
     "ingredientId": 75,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3676,7 +3676,7 @@
     "dishId": 76,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3684,7 +3684,7 @@
     "dishId": 76,
     "ingredientId": 45,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3692,7 +3692,7 @@
     "dishId": 76,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3700,7 +3700,7 @@
     "dishId": 76,
     "ingredientId": 201,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3708,7 +3708,7 @@
     "dishId": 77,
     "ingredientId": 3,
     "amount": 125.0,
-    "gramsEqui": 125.0,
+    "gramsEquivalent": "125.0",
     "unit": "GAM"
   },
   {
@@ -3716,7 +3716,7 @@
     "dishId": 77,
     "ingredientId": 6,
     "amount": 0.5,
-    "gramsEqui": 75.0,
+    "gramsEquivalent": "75.0",
     "unit": "NUMBER"
   },
   {
@@ -3724,7 +3724,7 @@
     "dishId": 77,
     "ingredientId": 56,
     "amount": 0.5,
-    "gramsEqui": 120.0,
+    "gramsEquivalent": "120.0",
     "unit": "GAM"
   },
   {
@@ -3732,7 +3732,7 @@
     "dishId": 77,
     "ingredientId": 183,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3740,7 +3740,7 @@
     "dishId": 77,
     "ingredientId": 187,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3748,7 +3748,7 @@
     "dishId": 77,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3756,7 +3756,7 @@
     "dishId": 77,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3764,7 +3764,7 @@
     "dishId": 77,
     "ingredientId": 45,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3772,7 +3772,7 @@
     "dishId": 77,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3780,7 +3780,7 @@
     "dishId": 77,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3788,7 +3788,7 @@
     "dishId": 77,
     "ingredientId": 204,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3796,7 +3796,7 @@
     "dishId": 78,
     "ingredientId": 56,
     "amount": 2.0,
-    "gramsEqui": 400.0,
+    "gramsEquivalent": "400.0",
     "unit": "GAM"
   },
   {
@@ -3804,7 +3804,7 @@
     "dishId": 78,
     "ingredientId": 108,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3812,7 +3812,7 @@
     "dishId": 78,
     "ingredientId": 12,
     "amount": 2.0,
-    "gramsEqui": 110.0,
+    "gramsEquivalent": "110.0",
     "unit": "NUMBER"
   },
   {
@@ -3820,7 +3820,7 @@
     "dishId": 78,
     "ingredientId": 147,
     "amount": 60.0,
-    "gramsEqui": 60.0,
+    "gramsEquivalent": "60.0",
     "unit": "GAM"
   },
   {
@@ -3828,7 +3828,7 @@
     "dishId": 78,
     "ingredientId": 73,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -3836,7 +3836,7 @@
     "dishId": 79,
     "ingredientId": 57,
     "amount": 100.0,
-    "gramsEqui": 100.0,
+    "gramsEquivalent": "100.0",
     "unit": "GAM"
   },
   {
@@ -3844,7 +3844,7 @@
     "dishId": 79,
     "ingredientId": 150,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -3852,7 +3852,7 @@
     "dishId": 79,
     "ingredientId": 45,
     "amount": 5.0,
-    "gramsEqui": 5.9,
+    "gramsEquivalent": "5.9",
     "unit": "GAM"
   },
   {
@@ -3860,7 +3860,7 @@
     "dishId": 79,
     "ingredientId": 75,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3868,7 +3868,7 @@
     "dishId": 79,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3876,7 +3876,7 @@
     "dishId": 79,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3884,7 +3884,7 @@
     "dishId": 80,
     "ingredientId": 13,
     "amount": 1.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "NUMBER"
   },
   {
@@ -3892,7 +3892,7 @@
     "dishId": 80,
     "ingredientId": 192,
     "amount": 35.0,
-    "gramsEqui": 35.0,
+    "gramsEquivalent": "35.0",
     "unit": "GAM"
   },
   {
@@ -3900,7 +3900,7 @@
     "dishId": 80,
     "ingredientId": 57,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -3908,7 +3908,7 @@
     "dishId": 80,
     "ingredientId": 180,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3916,7 +3916,7 @@
     "dishId": 80,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3924,7 +3924,7 @@
     "dishId": 80,
     "ingredientId": 100,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3932,7 +3932,7 @@
     "dishId": 80,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3940,7 +3940,7 @@
     "dishId": 80,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3948,7 +3948,7 @@
     "dishId": 81,
     "ingredientId": 174,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -3956,7 +3956,7 @@
     "dishId": 81,
     "ingredientId": 58,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -3964,7 +3964,7 @@
     "dishId": 81,
     "ingredientId": 95,
     "amount": 8.0,
-    "gramsEqui": 8.0,
+    "gramsEquivalent": "8.0",
     "unit": "GAM"
   },
   {
@@ -3972,7 +3972,7 @@
     "dishId": 81,
     "ingredientId": 59,
     "amount": 1.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "NUMBER"
   },
   {
@@ -3980,7 +3980,7 @@
     "dishId": 81,
     "ingredientId": 75,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3988,7 +3988,7 @@
     "dishId": 81,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -3996,7 +3996,7 @@
     "dishId": 81,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4004,7 +4004,7 @@
     "dishId": 81,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4012,7 +4012,7 @@
     "dishId": 82,
     "ingredientId": 25,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -4020,7 +4020,7 @@
     "dishId": 82,
     "ingredientId": 58,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -4028,7 +4028,7 @@
     "dishId": 82,
     "ingredientId": 64,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -4036,7 +4036,7 @@
     "dishId": 82,
     "ingredientId": 95,
     "amount": 7.5,
-    "gramsEqui": 7.5,
+    "gramsEquivalent": "7.5",
     "unit": "GAM"
   },
   {
@@ -4044,7 +4044,7 @@
     "dishId": 82,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4052,7 +4052,7 @@
     "dishId": 82,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4060,7 +4060,7 @@
     "dishId": 83,
     "ingredientId": 88,
     "amount": 400.0,
-    "gramsEqui": 400.0,
+    "gramsEquivalent": "400.0",
     "unit": "GAM"
   },
   {
@@ -4068,7 +4068,7 @@
     "dishId": 83,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": 0.5,
+    "gramsEquivalent": "0.5",
     "unit": "GAM"
   },
   {
@@ -4076,7 +4076,7 @@
     "dishId": 83,
     "ingredientId": 44,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -4084,7 +4084,7 @@
     "dishId": 83,
     "ingredientId": 180,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4092,7 +4092,7 @@
     "dishId": 83,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4100,7 +4100,7 @@
     "dishId": 83,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4108,7 +4108,7 @@
     "dishId": 83,
     "ingredientId": 95,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4116,7 +4116,7 @@
     "dishId": 83,
     "ingredientId": 64,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -4124,7 +4124,7 @@
     "dishId": 83,
     "ingredientId": 75,
     "amount": 2.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4132,7 +4132,7 @@
     "dishId": 83,
     "ingredientId": 46,
     "amount": 7.5,
-    "gramsEqui": 7.5,
+    "gramsEquivalent": "7.5",
     "unit": "GAM"
   },
   {
@@ -4140,7 +4140,7 @@
     "dishId": 83,
     "ingredientId": 59,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -4148,7 +4148,7 @@
     "dishId": 83,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4156,7 +4156,7 @@
     "dishId": 83,
     "ingredientId": 179,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4164,7 +4164,7 @@
     "dishId": 84,
     "ingredientId": 28,
     "amount": 150.0,
-    "gramsEqui": 150.0,
+    "gramsEquivalent": "150.0",
     "unit": "GAM"
   },
   {
@@ -4172,7 +4172,7 @@
     "dishId": 84,
     "ingredientId": 59,
     "amount": 5.0,
-    "gramsEqui": 5.0,
+    "gramsEquivalent": "5.0",
     "unit": "GAM"
   },
   {
@@ -4180,7 +4180,7 @@
     "dishId": 84,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4188,7 +4188,7 @@
     "dishId": 84,
     "ingredientId": 75,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4196,7 +4196,7 @@
     "dishId": 84,
     "ingredientId": 74,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4204,7 +4204,7 @@
     "dishId": 84,
     "ingredientId": 184,
     "amount": 2.5,
-    "gramsEqui": 2.5,
+    "gramsEquivalent": "2.5",
     "unit": "GAM"
   },
   {
@@ -4212,7 +4212,7 @@
     "dishId": 85,
     "ingredientId": 4,
     "amount": 50.0,
-    "gramsEqui": 50.0,
+    "gramsEquivalent": "50.0",
     "unit": "GAM"
   },
   {
@@ -4220,7 +4220,7 @@
     "dishId": 85,
     "ingredientId": 60,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -4228,7 +4228,7 @@
     "dishId": 85,
     "ingredientId": 6,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -4236,7 +4236,7 @@
     "dishId": 85,
     "ingredientId": 119,
     "amount": 15.0,
-    "gramsEqui": 15.0,
+    "gramsEquivalent": "15.0",
     "unit": "GAM"
   },
   {
@@ -4244,7 +4244,7 @@
     "dishId": 85,
     "ingredientId": 73,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4252,7 +4252,7 @@
     "dishId": 85,
     "ingredientId": 128,
     "amount": 10.0,
-    "gramsEqui": 10.0,
+    "gramsEquivalent": "10.0",
     "unit": "GAM"
   },
   {
@@ -4260,7 +4260,7 @@
     "dishId": 86,
     "ingredientId": 60,
     "amount": 25.0,
-    "gramsEqui": 25.0,
+    "gramsEquivalent": "25.0",
     "unit": "GAM"
   },
   {
@@ -4268,7 +4268,7 @@
     "dishId": 86,
     "ingredientId": 85,
     "amount": 20.0,
-    "gramsEqui": 20.0,
+    "gramsEquivalent": "20.0",
     "unit": "GAM"
   },
   {
@@ -4276,7 +4276,7 @@
     "dishId": 86,
     "ingredientId": 57,
     "amount": 70.0,
-    "gramsEqui": 70.0,
+    "gramsEquivalent": "70.0",
     "unit": "GAM"
   },
   {
@@ -4284,7 +4284,7 @@
     "dishId": 86,
     "ingredientId": 201,
     "amount": 1.0,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   },
   {
@@ -4292,7 +4292,487 @@
     "dishId": 86,
     "ingredientId": 99,
     "amount": 0.5,
-    "gramsEqui": null,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 538,
+    "dishId": 87,
+    "ingredientId": 7,
+    "amount": 100.0,
+    "gramsEquivalent": "100.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 539,
+    "dishId": 87,
+    "ingredientId": 61,
+    "amount": 125.0,
+    "gramsEquivalent": "125.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 540,
+    "dishId": 87,
+    "ingredientId": 6,
+    "amount": 1.25,
+    "gramsEquivalent": "1.25",
+    "unit": "GAM"
+  },
+  {
+    "id": 541,
+    "dishId": 87,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 542,
+    "dishId": 87,
+    "ingredientId": 110,
+    "amount": 1.25,
+    "gramsEquivalent": "1.25",
+    "unit": "GAM"
+  },
+  {
+    "id": 543,
+    "dishId": 88,
+    "ingredientId": 63,
+    "amount": 100.0,
+    "gramsEquivalent": "100.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 544,
+    "dishId": 88,
+    "ingredientId": 191,
+    "amount": 1.5,
+    "gramsEquivalent": "1.5",
+    "unit": "GAM"
+  },
+  {
+    "id": 545,
+    "dishId": 88,
+    "ingredientId": 43,
+    "amount": 50.0,
+    "gramsEquivalent": "50.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 546,
+    "dishId": 88,
+    "ingredientId": 42,
+    "amount": 10.0,
+    "gramsEquivalent": "10.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 547,
+    "dishId": 88,
+    "ingredientId": 75,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 548,
+    "dishId": 88,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 549,
+    "dishId": 88,
+    "ingredientId": 36,
+    "amount": 0.5,
+    "gramsEquivalent": "30.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 550,
+    "dishId": 88,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEquivalent": "4.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 551,
+    "dishId": 88,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 552,
+    "dishId": 89,
+    "ingredientId": 88,
+    "amount": 200.0,
+    "gramsEquivalent": "200.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 553,
+    "dishId": 89,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 554,
+    "dishId": 89,
+    "ingredientId": 44,
+    "amount": 0.5,
+    "gramsEquivalent": "15.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 555,
+    "dishId": 89,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 556,
+    "dishId": 89,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 557,
+    "dishId": 89,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 558,
+    "dishId": 89,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEquivalent": "40.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 559,
+    "dishId": 89,
+    "ingredientId": 64,
+    "amount": 1.0,
+    "gramsEquivalent": "10.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 560,
+    "dishId": 89,
+    "ingredientId": 75,
+    "amount": 2.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 561,
+    "dishId": 89,
+    "ingredientId": 46,
+    "amount": 1.0,
+    "gramsEquivalent": "15.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 562,
+    "dishId": 89,
+    "ingredientId": 59,
+    "amount": 2.0,
+    "gramsEquivalent": "8.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 563,
+    "dishId": 89,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 564,
+    "dishId": 90,
+    "ingredientId": 200,
+    "amount": 100.0,
+    "gramsEquivalent": "100.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 565,
+    "dishId": 90,
+    "ingredientId": 126,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 566,
+    "dishId": 90,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEquivalent": "4.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 567,
+    "dishId": 90,
+    "ingredientId": 180,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 568,
+    "dishId": 90,
+    "ingredientId": 183,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 569,
+    "dishId": 90,
+    "ingredientId": 64,
+    "amount": 1.0,
+    "gramsEquivalent": "10.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 570,
+    "dishId": 91,
+    "ingredientId": 50,
+    "amount": 125.0,
+    "gramsEquivalent": "125.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 571,
+    "dishId": 91,
+    "ingredientId": 74,
+    "amount": 2.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 572,
+    "dishId": 91,
+    "ingredientId": 75,
+    "amount": 2.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 573,
+    "dishId": 91,
+    "ingredientId": 36,
+    "amount": 1.0,
+    "gramsEquivalent": "60.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 574,
+    "dishId": 91,
+    "ingredientId": 73,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 575,
+    "dishId": 92,
+    "ingredientId": 68,
+    "amount": 10.0,
+    "gramsEquivalent": "120.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 576,
+    "dishId": 92,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 577,
+    "dishId": 92,
+    "ingredientId": 187,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 578,
+    "dishId": 92,
+    "ingredientId": 99,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 579,
+    "dishId": 92,
+    "ingredientId": 183,
+    "amount": 2.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 580,
+    "dishId": 92,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 581,
+    "dishId": 92,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEquivalent": "5.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 582,
+    "dishId": 92,
+    "ingredientId": 59,
+    "amount": 1.0,
+    "gramsEquivalent": "4.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 583,
+    "dishId": 93,
+    "ingredientId": 68,
+    "amount": 15.0,
+    "gramsEquivalent": "180.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 584,
+    "dishId": 93,
+    "ingredientId": 45,
+    "amount": 5.0,
+    "gramsEquivalent": "5.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 585,
+    "dishId": 93,
+    "ingredientId": 196,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 586,
+    "dishId": 93,
+    "ingredientId": 183,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 587,
+    "dishId": 93,
+    "ingredientId": 201,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 588,
+    "dishId": 94,
+    "ingredientId": 91,
+    "amount": 50.0,
+    "gramsEquivalent": "50.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 589,
+    "dishId": 94,
+    "ingredientId": 71,
+    "amount": 250.0,
+    "gramsEquivalent": "250.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 590,
+    "dishId": 94,
+    "ingredientId": 7,
+    "amount": 150.0,
+    "gramsEquivalent": "150.0",
+    "unit": "GAM"
+  },
+  {
+    "id": 591,
+    "dishId": 94,
+    "ingredientId": 187,
+    "amount": 0.5,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 592,
+    "dishId": 94,
+    "ingredientId": 74,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 593,
+    "dishId": 94,
+    "ingredientId": 100,
+    "amount": 1.0,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 594,
+    "dishId": 94,
+    "ingredientId": 99,
+    "amount": 0.5,
+    "gramsEquivalent": "0.0",
+    "unit": "SPOON"
+  },
+  {
+    "id": 595,
+    "dishId": 94,
+    "ingredientId": 95,
+    "amount": 1.0,
+    "gramsEquivalent": "5.0",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 596,
+    "dishId": 94,
+    "ingredientId": 45,
+    "amount": 0.5,
+    "gramsEquivalent": "2.5",
+    "unit": "NUMBER"
+  },
+  {
+    "id": 597,
+    "dishId": 94,
+    "ingredientId": 73,
+    "amount": 0.5,
+    "gramsEquivalent": "0.0",
     "unit": "SPOON"
   }
 ]

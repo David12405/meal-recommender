@@ -48,7 +48,7 @@ def test_recommend_503_when_cache_empty():
 
     client = TestClient(app)
     payload = {
-        "userId": "u", "tdee": 2000, "weight": 60,
+        "userId": 1, "tdee": 2000, "weight": 60,
         "goal": {"targetKg": 0},
         "mealStructure": {
             "breakfast": {"mainDish": 1, "soup": 0, "vegetable": 0},

@@ -97,7 +97,7 @@ Dish (runtime, đã merge)
 
 ```
 RecommendRequest
-├── user_id          str, min_length=1
+├── user_id          int, ge=1
 ├── tdee             float, [800, 5000]
 ├── weight           float, [30, 300]  kg
 ├── goal

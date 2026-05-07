@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "message": "Calo mục tiêu (1100 kcal/ngày) thấp hơn calo tối thiểu của các món có sẵn (1480 kcal/ngày). Hãy tăng targetKg hoặc giảm số món trong mealStructure.",
+  "plan": [],
+  "summary": null,
+  "shoppingList": []
+}

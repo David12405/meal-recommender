@@ -1,0 +1,31 @@
+{
+  "_description": "Test failure path: tdee=1000 + targetKg=-0.5 → target ~450 kcal/ngày, quá thấp so với pool dishes. Expect status='failed' + message giải thích calo target thấp hơn min.",
+  "userId": 99,
+  "tdee": 1000,
+  "weight": 50,
+  "goal": {
+    "targetKg": -0.5
+  },
+  "mealStructure": {
+    "breakfast": {
+      "mainDish": 1,
+      "soup": 0,
+      "vegetable": 1
+    },
+    "lunch": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    },
+    "dinner": {
+      "mainDish": 1,
+      "soup": 1,
+      "vegetable": 1
+    }
+  },
+  "planDays": 2,
+  "startDate": "2026-05-08T00:00:00.000Z",
+  "recentMealLog": [],
+  "fridge": [],
+  "lockedPicks": []
+}

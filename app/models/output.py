@@ -84,6 +84,7 @@ class MealPlanResponse(BaseModel):
     model_config = ConfigDict(populate_by_name=True, extra="ignore")
 
     status: str
+    message: str | None = None
     plan: list[DayPlan] = Field(default_factory=list)
     summary: Summary | None = None
     shopping_list: list[ShoppingItem] = Field(

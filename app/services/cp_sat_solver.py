@@ -36,7 +36,7 @@ class SolveInput:
     fridge: list[FridgeItem]
     recent_meal_log: list[MealLogEntry]
     candidate_dishes: list[Dish]
-    user_id: str
+    user_id: int
     locked_picks: list[LockedPick] = None  # type: ignore[assignment]
 
     def __post_init__(self) -> None:
@@ -168,7 +168,7 @@ def _build_model(
     return model, x, dishes_by_role
 
 
-def _run_solver(model: cp_model.CpModel, user_id: str) -> tuple[cp_model.CpSolver, int]:
+def _run_solver(model: cp_model.CpModel, user_id: int) -> tuple[cp_model.CpSolver, int]:
     settings = get_settings()
     solver = cp_model.CpSolver()
     solver.parameters.max_time_in_seconds = settings.solver_timeout_seconds
@@ -231,7 +231,7 @@ def solve(inp: SolveInput) -> SolveResult:
 
     relax_notes: list[str] = []
     last_status_name = "UNKNOWN"
-    timeout_retried = False
+    timeout_count = 0  # track tổng số pass timeout để phân biệt fail-by-timeout vs fail-by-infeasible
 
     for calorie_delta, window, macro_relax, note in _relax_schedule(
         settings.calorie_delta, settings.no_repeat_days
@@ -257,22 +257,24 @@ def solve(inp: SolveInput) -> SolveResult:
             logger.error("CP-SAT MODEL_INVALID at pass '{note}'", note=note)
             raise SolverInfeasibleError(f"CP-SAT model invalid at pass '{note}'")
 
-        if status == cp_model.UNKNOWN and not timeout_retried:
-            timeout_retried = True
-            logger.warning("CP-SAT UNKNOWN (timeout) at '{note}', retrying once", note=note)
-            solver, status = _run_solver(model, inp.user_id)
-            last_status_name = solver.StatusName(status)
-            if status in (cp_model.OPTIMAL, cp_model.FEASIBLE):
-                picks = _extract_picks(
-                    solver, x, inp.plan_days, dishes_by_role, inp.meal_structure
-                )
-                relax_notes.append(f"success@{note}(retry)")
-                return SolveResult(status="success", picks=picks, relax_notes=relax_notes)
-            if status == cp_model.UNKNOWN:
-                raise SolverTimeoutError(f"CP-SAT timeout after retry at pass '{note}'")
+        if status == cp_model.UNKNOWN:
+            # Timeout — không raise ngay. Pass kế tiếp có ràng buộc lỏng hơn (calorie_delta
+            # to hơn, no_repeat nhỏ hơn, macro±15%) thường giải nhanh hơn → tiếp tục thử.
+            timeout_count += 1
+            logger.warning(
+                "CP-SAT UNKNOWN (timeout) at '{note}', falling through to next relaxation pass",
+                note=note,
+            )
 
         relax_notes.append(f"{note}:{last_status_name}")
 
+    # Hết schedule mà chưa tìm được. Phân biệt 2 case để analyzer trả message đúng:
+    #   - Tất cả pass đều UNKNOWN → SolverTimeoutError (model quá khó, không phải vô nghiệm)
+    #   - Có pass INFEASIBLE → SolverInfeasibleError (model thực sự vô nghiệm)
+    if timeout_count == sum(1 for _ in _relax_schedule(settings.calorie_delta, settings.no_repeat_days)):
+        raise SolverTimeoutError(
+            f"All {timeout_count} relaxation passes timed out (last status={last_status_name})"
+        )
     raise SolverInfeasibleError(
-        f"All relaxation passes failed (last status={last_status_name})"
+        f"All relaxation passes failed (last status={last_status_name}, timeouts={timeout_count})"
     )

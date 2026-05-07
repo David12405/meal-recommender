@@ -13,7 +13,7 @@ services:
       - key: LOG_LEVEL
         value: INFO
       - key: SOLVER_TIMEOUT_SECONDS
-        value: "30"
+        value: "15"
       - key: SOLVER_NUM_WORKERS
         value: "2"
       - key: NO_REPEAT_DAYS

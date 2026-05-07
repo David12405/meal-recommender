@@ -60,7 +60,7 @@ class FridgeItem(BaseModel):
 class RecommendRequest(BaseModel):
     model_config = ConfigDict(populate_by_name=True, extra="ignore")
 
-    user_id: str = Field(alias="userId", min_length=1)
+    user_id: int = Field(alias="userId", ge=1)
     tdee: float = Field(ge=800, le=5000)
     weight: float = Field(ge=30, le=300)
     goal: Goal

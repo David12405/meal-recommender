@@ -1,5 +1,5 @@
 {
-  "userId": "user_001",
+  "userId": 1,
   "tdee": 2150,
   "weight": 68,
   "goal": { "targetKg": 0 },

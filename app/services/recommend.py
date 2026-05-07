@@ -5,9 +5,13 @@ from datetime import timedelta
 from loguru import logger
 
 from app.core.cache import DBSnapshot
-from app.core.exceptions import InvalidIngredientError, MealRecommenderError
+from app.core.exceptions import (
+    InvalidIngredientError,
+    MealRecommenderError,
+    SolverTimeoutError,
+)
 from app.models.domain import Dish, MealLogEntry
-from app.models.enums import MEAL_TYPES, MealType
+from app.models.enums import MEAL_TYPES, MealType, Role
 from app.models.input import RecommendRequest
 from app.models.output import (
     DayMeals,
@@ -48,6 +52,103 @@ def _validate_locked_picks(req: RecommendRequest, snapshot: DBSnapshot) -> None:
                 f"lockedPicks dishId={lp.dish_id} có role={dish.role.value}, "
                 f"nhưng request yêu cầu role={lp.role.value}"
             )
+
+
+_ROLE_ATTR = {Role.MAINDISH: "main_dish", Role.SOUP: "soup", Role.VEGETABLE: "vegetable"}
+_ROLE_LABEL_VI = {Role.MAINDISH: "món chính", Role.SOUP: "canh", Role.VEGETABLE: "rau"}
+
+
+def _needed_per_day(req: RecommendRequest, role: Role) -> int:
+    return sum(
+        getattr(getattr(req.meal_structure, meal_name), _ROLE_ATTR[role])
+        for meal_name in ("breakfast", "lunch", "dinner")
+    )
+
+
+def _analyze_infeasibility(
+    req: RecommendRequest,
+    candidate_dishes: list[Dish],
+    target_cpd: float,
+    exc: MealRecommenderError,
+) -> str:
+    """Heuristic phân tích lý do solver fail để tạo message hữu ích cho user.
+
+    Check theo thứ tự:
+      1. Timeout — nói thẳng (không phải vấn đề input)
+      2. Pool dish < số slot cần/ngày cho từng role
+      3. Calorie target nằm ngoài [min, max] đạt được sau relax tối đa
+      4. lockedPicks tạo xung đột (heuristic)
+      5. Fallback: nói chung chung
+    """
+    if isinstance(exc, SolverTimeoutError):
+        return (
+            "Hệ thống tính toán vượt thời gian cho phép. "
+            "Có thể plan quá dài hoặc tủ lạnh có quá nhiều nguyên liệu. "
+            "Vui lòng thử lại với planDays nhỏ hơn."
+        )
+
+    pool_by_role: dict[Role, list[Dish]] = {
+        Role.MAINDISH: [],
+        Role.SOUP: [],
+        Role.VEGETABLE: [],
+    }
+    for d in candidate_dishes:
+        if d.role in pool_by_role:
+            pool_by_role[d.role].append(d)
+
+    pool_issues: list[str] = []
+    for role in (Role.MAINDISH, Role.SOUP, Role.VEGETABLE):
+        needed = _needed_per_day(req, role)
+        if needed == 0:
+            continue
+        pool_size = len(pool_by_role[role])
+        if pool_size < needed:
+            pool_issues.append(
+                f"chỉ có {pool_size} {_ROLE_LABEL_VI[role]} trong database "
+                f"nhưng cấu trúc bữa ăn cần {needed} món/ngày"
+            )
+    if pool_issues:
+        return "Không đủ món để tạo kế hoạch: " + "; ".join(pool_issues) + "."
+
+    total_min = 0.0
+    total_max = 0.0
+    for meal_name in ("breakfast", "lunch", "dinner"):
+        slot = getattr(req.meal_structure, meal_name)
+        for role in (Role.MAINDISH, Role.SOUP, Role.VEGETABLE):
+            count = getattr(slot, _ROLE_ATTR[role])
+            if count == 0 or not pool_by_role[role]:
+                continue
+            cals = [d.calories for d in pool_by_role[role]]
+            total_min += count * min(cals)
+            total_max += count * max(cals)
+
+    # Relaxation ladder cho phép calorie_delta lên đến 300 (xem _relax_schedule)
+    max_delta = 300
+    if target_cpd > total_max + max_delta:
+        return (
+            f"Calo mục tiêu ({target_cpd:.0f} kcal/ngày) cao hơn khả năng "
+            f"tối đa của các món có sẵn ({total_max:.0f} kcal/ngày). "
+            f"Hãy giảm targetKg hoặc tăng số món trong mealStructure."
+        )
+    if target_cpd < total_min - max_delta:
+        return (
+            f"Calo mục tiêu ({target_cpd:.0f} kcal/ngày) thấp hơn calo "
+            f"tối thiểu của các món có sẵn ({total_min:.0f} kcal/ngày). "
+            f"Hãy tăng targetKg hoặc giảm số món trong mealStructure."
+        )
+
+    if req.locked_picks:
+        return (
+            f"Đã pin {len(req.locked_picks)} món qua lockedPicks nhưng các "
+            f"món này tạo xung đột với mục tiêu calo/macro. "
+            f"Hãy bỏ bớt món pin hoặc đổi món pin khác."
+        )
+
+    return (
+        "Không tìm được kế hoạch thoả mãn đồng thời mục tiêu calo, macro "
+        "và quy tắc không lặp món. Hãy thử nới mục tiêu cân nặng (targetKg) "
+        "gần 0 hơn, hoặc giảm số ngày kế hoạch (planDays)."
+    )
 
 
 def _drop_stale_meal_log(
@@ -151,7 +252,14 @@ def recommend(req: RecommendRequest, snapshot: DBSnapshot, no_repeat_days: int) 
         )
     except MealRecommenderError as exc:
         logger.warning("Solver failed: {exc}", exc=str(exc))
-        return MealPlanResponse(status="failed", plan=[], summary=None, shoppingList=[])
+        message = _analyze_infeasibility(req, candidate_dishes, target_cpd, exc)
+        return MealPlanResponse(
+            status="failed",
+            message=message,
+            plan=[],
+            summary=None,
+            shoppingList=[],
+        )
 
     plan = [_build_day_plan(d, req.start_date, result.picks) for d in range(req.plan_days)]
 
