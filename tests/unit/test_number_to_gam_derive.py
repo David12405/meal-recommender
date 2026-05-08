@@ -113,7 +113,7 @@ def test_fridge_number_raises_when_no_factor_anywhere():
             dueDate=datetime(2026, 5, 10),
         )
     ]
-    with pytest.raises(InvalidIngredientError, match="conversion NUMBER"):
+    with pytest.raises(InvalidIngredientError, match="NUMBER sang gam"):
         _initial_stock_gam(fridge, {99: ingredient}, derived_number_to_gam={})
 
 

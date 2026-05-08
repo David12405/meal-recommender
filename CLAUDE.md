@@ -995,7 +995,7 @@ Khi hoàn tất, README phải có đầy đủ:
 2. **`numberToGam` trong ingredients có populate không?** — **CÓ**, backend lo phần này. Field flat `numberToGam: float | null` ở top-level ingredient (không nested như ban đầu thiết kế). *(chốt 2026-04-24)*
 3. **Mismatch fridge `unit=NUMBER` vs công thức `unit=GAM`?** — Convert về GAM nội bộ bằng `numberToGam`. Output `missingIngredient`/`shoppingList` giữ đơn vị gốc công thức. `numberToGam=null` + fridge NUMBER → `InvalidIngredientError`. *(chốt 2026-04-22)*
 4. **User ăn chay?** — **Bỏ qua v1**, input schema không có field. *(chốt 2026-04-22)*
-5. **Error response format?** — FastAPI default `{"detail": "..."}`. Pydantic 422 giữ nguyên. *(chốt 2026-04-22)*
+5. **Error response format?** — ~~FastAPI default `{"detail": "..."}`. Pydantic 422 giữ nguyên.~~ ❌ **OVERRIDE 2026-05-08**: theo yêu cầu team app, **mọi lỗi** (validation 422, infeasible solver, cache chưa load, internal error) đều trả **HTTP 200 + schema unified** giống `MealPlanResponse` success — `{status:"failed", message:"<vn>", plan:[], summary:null, shoppingList:[]}`. Message phải là tiếng Việt thân thiện với end-user. Lỗi calo/macro infeasible kèm gợi ý `targetKg` cụ thể (vd 0.5 → 0.3) qua `_suggest_target_kg`. *(chốt 2026-04-22, override 2026-05-08)*
 6. **`summary.targetCalories` formula?** — **(b)** `(TDEE + daily_delta) × planDays`, với `daily_delta = targetKg × 7700 / 7`. Sample output trong §3.2 là stale, tin công thức. *(chốt 2026-04-22)*
 7. **`recentMealLog` stale?** — Silently drop entry cũ hơn `NO_REPEAT_DAYS` ngày so với `startDate`. *(chốt 2026-04-22)*
 

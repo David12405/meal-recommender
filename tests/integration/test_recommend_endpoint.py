@@ -37,11 +37,10 @@ def test_health_endpoint():
     assert "cacheLoaded" in body
 
 
-def test_recommend_503_when_cache_empty():
-    # Reset cache by instantiating a new client — we need a fresh module instance.
-    # The simplest path: directly check the exception mapping via the route handler
-    # when the cache singleton is intentionally cleared by not pre-loading.
-    # Since this module runs in the same process as other tests, skip if already loaded.
+def test_recommend_failed_unified_shape_when_cache_empty():
+    """Khi cache chưa load, endpoint phải trả 200 + schema unified failed
+    (chốt 2026-05-08): status='failed', message tiếng Việt, plan/summary/shoppingList rỗng.
+    """
     cache = get_cache()
     if cache.is_loaded():
         return  # tests that run before this will have loaded — that's fine
@@ -59,4 +58,24 @@ def test_recommend_503_when_cache_empty():
         "startDate": "2026-04-21T00:00:00Z",
     }
     r = client.post("/recommend", json=payload)
-    assert r.status_code == 503
+    assert r.status_code == 200
+    body = r.json()
+    assert body["status"] == "failed"
+    assert isinstance(body["message"], str) and len(body["message"]) > 0
+    assert body["plan"] == []
+    assert body["summary"] is None
+    assert body["shoppingList"] == []
+
+
+def test_recommend_failed_unified_shape_on_validation_error():
+    """Pydantic 422 cũng phải trả 200 + schema unified failed với message tiếng Việt."""
+    client = TestClient(app)
+    # Thiếu nhiều field bắt buộc → trigger RequestValidationError
+    r = client.post("/recommend", json={"userId": 1})
+    assert r.status_code == 200
+    body = r.json()
+    assert body["status"] == "failed"
+    assert isinstance(body["message"], str) and len(body["message"]) > 0
+    assert body["plan"] == []
+    assert body["summary"] is None
+    assert body["shoppingList"] == []

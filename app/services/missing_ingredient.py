@@ -21,7 +21,8 @@ def _initial_stock_gam(
         meta = ingredients_map.get(f.ingredient_id)
         if meta is None:
             raise InvalidIngredientError(
-                f"Fridge contains unknown ingredient {f.ingredient_id}"
+                f"Tủ lạnh chứa nguyên liệu không xác định "
+                f"(id={f.ingredient_id}). Vui lòng kiểm tra lại."
             )
         stock[f.ingredient_id] = stock.get(f.ingredient_id, 0.0) + to_gam(
             f.quantity, f.unit, meta, derived_number_to_gam
@@ -59,7 +60,9 @@ def compute_missing_per_dish(
                 dish = dishes_map.get(dish_entry.dish_id)
                 if dish is None:
                     raise InvalidIngredientError(
-                        f"Plan references unknown dish {dish_entry.dish_id}"
+                        f"Kế hoạch tham chiếu món ăn không tồn tại "
+                        f"(dishId={dish_entry.dish_id}). Lỗi nội bộ, "
+                        f"vui lòng thử lại."
                     )
                 missing: list[MissingIngredient] = []
                 for ing in dish.ingredients:
@@ -102,8 +105,9 @@ def compute_missing_per_dish(
                             factor = meta.number_to_gam
                         if not factor or factor <= 0:
                             raise InvalidIngredientError(
-                                f"Ingredient {ing.ingredient_id} recipe unit là NUMBER "
-                                f"nhưng không tìm được conversion factor."
+                                f"Không quy đổi được đơn vị cho nguyên liệu "
+                                f"id={ing.ingredient_id} (công thức yêu cầu đơn vị "
+                                f"NUMBER nhưng thiếu hệ số quy đổi sang gam)."
                             )
                         qty_out = float(math.ceil(deficit_gam / factor))
 

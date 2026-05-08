@@ -43,9 +43,9 @@ def to_gam(
     factor = _resolve_factor(ingredient, derived_number_to_gam)
     if factor is None:
         raise InvalidIngredientError(
-            f"Ingredient {ingredient.ingredient_id} ({ingredient.name}) "
-            f"không tìm được conversion NUMBER→GAM. Cần ÍT NHẤT 1 row trong "
-            f"DishIngredient junction với unit=NUMBER cho ingredient này."
+            f"Không quy đổi được đơn vị NUMBER sang gam cho nguyên liệu "
+            f"'{ingredient.name}' (id={ingredient.ingredient_id}). "
+            f"Vui lòng nhập số lượng theo đơn vị GAM hoặc liên hệ hỗ trợ."
         )
     return quantity * factor
 
@@ -62,7 +62,7 @@ def from_gam(
     factor = _resolve_factor(ingredient, derived_number_to_gam)
     if factor is None or factor <= 0:
         raise InvalidIngredientError(
-            f"Ingredient {ingredient.ingredient_id} ({ingredient.name}) "
-            f"không có factor để convert GAM→NUMBER ngược."
+            f"Không quy đổi được đơn vị từ gam sang NUMBER cho nguyên liệu "
+            f"'{ingredient.name}' (id={ingredient.ingredient_id})."
         )
     return float(math.ceil(quantity_gam / factor))

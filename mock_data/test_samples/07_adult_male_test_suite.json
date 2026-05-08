@@ -1,0 +1,213 @@
+{
+  "_meta": {
+    "profile": "Nam trưởng thành, 70kg (case fail bulk dùng 85kg), TDEE 2400 mặc định, văn phòng vận động trung bình.",
+    "fridgeBaseline": "Đủ cho 1 người ăn 1 tuần — ưu tiên thịt heo/bò/gà/trứng/cá, đầy đủ rau củ. Tất cả ingredient.id ∈ [1, 90] (whitelist 62-class hệ thống nhận diện).",
+    "createdAt": "2026-05-08",
+    "responseSchemaContract": "Mọi response đều HTTP 200 + cùng shape MealPlanResponse: {status, message, plan, summary, shoppingList}. App chỉ check `status === 'failed'` rồi hiển thị `message`.",
+    "usage": [
+      "1) Start server: uvicorn app.main:app --port 8000",
+      "2) Trích từng scenario qua jq, vd: jq '.scenarios[0].request' 07_adult_male_test_suite.json | curl -X POST http://localhost:8000/recommend -H 'Content-Type: application/json' -d @-",
+      "3) Hoặc copy thủ công từng object `request` rồi paste vào Swagger UI ở /docs",
+      "4) Verify response status + message theo `expected`"
+    ]
+  },
+  "scenarios": [
+    {
+      "id": "01_success_maintain_7day_no_locks",
+      "description": "Nam trưởng thành duy trì cân nặng. Plan 7 ngày, mealStructure đầy đủ 3 bữa, không pin món nào.",
+      "expected": "status=success, plan đầy đủ 7 ngày, summary có target ≈ 16800 kcal (2400 × 7), missingIngredient[] có thể rỗng vì fridge nhiều.",
+      "request": {
+        "userId": 101,
+        "tdee": 2400,
+        "weight": 70,
+        "goal": { "targetKg": 0 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+          "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+          "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+        },
+        "planDays": 7,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [
+          { "ingredientId": 1,  "quantity": 800,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 3,  "quantity": 600,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 7,  "quantity": 1000, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 8,  "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 9,  "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 10, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 11, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 12, "quantity": 14,   "unit": "NUMBER", "dueDate": "2026-05-16T00:00:00.000Z" },
+          { "ingredientId": 2,  "quantity": 10,   "unit": "NUMBER", "dueDate": "2026-05-16T00:00:00.000Z" },
+          { "ingredientId": 13, "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-11T00:00:00.000Z" },
+          { "ingredientId": 4,  "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 5,  "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 6,  "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 15, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-14T00:00:00.000Z" },
+          { "ingredientId": 19, "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 21, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 22, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 33, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 47, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 55, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 57, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 60, "quantity": 200,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 63, "quantity": 600,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 72, "quantity": 1500, "unit": "GAM",    "dueDate": "2026-06-09T00:00:00.000Z" },
+          { "ingredientId": 77, "quantity": 1000, "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 85, "quantity": 200,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 45, "quantity": 100,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 44, "quantity": 100,  "unit": "GAM",    "dueDate": "2026-05-20T00:00:00.000Z" }
+        ],
+        "lockedPicks": []
+      }
+    },
+
+    {
+      "id": "02_success_weight_loss_5day_with_locks",
+      "description": "Nam trưởng thành giảm cân nhẹ (-0.3 kg/tuần). 5 ngày, pin 2 món: ngày 1 trưa main = 6 (Thịt Kho Tàu), ngày 3 tối canh = 23 (Canh bầu nấu tôm).",
+      "expected": "status=success, response[0].meals.lunch chứa dish 6, response[2].meals.dinner chứa soup 23. Calo trung bình ≈ 2070 kcal/ngày.",
+      "request": {
+        "userId": 102,
+        "tdee": 2400,
+        "weight": 70,
+        "goal": { "targetKg": -0.3 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+          "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+          "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+        },
+        "planDays": 5,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [
+          { "ingredientId": 1,  "quantity": 600,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 3,  "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 7,  "quantity": 800,  "unit": "GAM",    "dueDate": "2026-05-11T00:00:00.000Z" },
+          { "ingredientId": 9,  "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 12, "quantity": 12,   "unit": "NUMBER", "dueDate": "2026-05-15T00:00:00.000Z" },
+          { "ingredientId": 13, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-11T00:00:00.000Z" },
+          { "ingredientId": 4,  "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-14T00:00:00.000Z" },
+          { "ingredientId": 5,  "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 15, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 19, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 20, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 22, "quantity": 300,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 33, "quantity": 400,  "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 63, "quantity": 500,  "unit": "GAM",    "dueDate": "2026-05-11T00:00:00.000Z" },
+          { "ingredientId": 72, "quantity": 1200, "unit": "GAM",    "dueDate": "2026-06-09T00:00:00.000Z" },
+          { "ingredientId": 6,  "quantity": 200,  "unit": "GAM",    "dueDate": "2026-05-15T00:00:00.000Z" }
+        ],
+        "lockedPicks": [
+          { "day": 1, "meal": "lunch",  "role": "MAINDISH", "dishId": 6 },
+          { "day": 3, "meal": "dinner", "role": "SOUP",     "dishId": 23 }
+        ]
+      }
+    },
+
+    {
+      "id": "03_fail_calorie_too_high_for_meal_structure",
+      "description": "Nam vận động viên 85kg, TDEE 3500, muốn tăng nhanh +0.5 kg/tuần. Nhưng mealStructure chỉ chọn 1 main mỗi bữa, không soup/veg → pool calo tối đa không đủ với target 4050 kcal/ngày.",
+      "expected": "status=failed, message tiếng Việt dạng 'Calo mục tiêu (4050 kcal/ngày) cao hơn khả năng tối đa của các món có sẵn (...). Gợi ý: <giảm/duy trì> ... kg/tuần.' (HTTP 200)",
+      "request": {
+        "userId": 103,
+        "tdee": 3500,
+        "weight": 85,
+        "goal": { "targetKg": 0.5 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 0 },
+          "lunch":     { "mainDish": 1, "soup": 0, "vegetable": 0 },
+          "dinner":    { "mainDish": 1, "soup": 0, "vegetable": 0 }
+        },
+        "planDays": 3,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [
+          { "ingredientId": 1,  "quantity": 500, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 3,  "quantity": 400, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 7,  "quantity": 600, "unit": "GAM",    "dueDate": "2026-05-11T00:00:00.000Z" },
+          { "ingredientId": 12, "quantity": 8,   "unit": "NUMBER", "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 4,  "quantity": 400, "unit": "GAM",    "dueDate": "2026-05-13T00:00:00.000Z" }
+        ],
+        "lockedPicks": []
+      }
+    },
+
+    {
+      "id": "04_fail_invalid_fridge_ingredient",
+      "description": "Tủ lạnh chứa ingredientId=9999 (ngoài 211 nguyên liệu hệ thống có). Service phải reject ngay từ validation tầng app, không gọi solver.",
+      "expected": "status=failed, message='Nguyên liệu trong tủ lạnh (id=9999) không nằm trong danh sách nguyên liệu được hệ thống nhận diện. Vui lòng kiểm tra lại tủ lạnh hoặc liên hệ hỗ trợ.' (HTTP 200)",
+      "request": {
+        "userId": 104,
+        "tdee": 2400,
+        "weight": 70,
+        "goal": { "targetKg": 0 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+          "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+          "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+        },
+        "planDays": 3,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [
+          { "ingredientId": 1,    "quantity": 500, "unit": "GAM", "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 9999, "quantity": 200, "unit": "GAM", "dueDate": "2026-05-12T00:00:00.000Z" }
+        ],
+        "lockedPicks": []
+      }
+    },
+
+    {
+      "id": "05_fail_invalid_locked_pick_dish_not_found",
+      "description": "lockedPicks tham chiếu dishId=99999 không tồn tại trong cache (chỉ có ~94 dishes).",
+      "expected": "status=failed, message='Món được pin (dishId=99999) không tồn tại trong danh sách món ăn của hệ thống. Vui lòng chọn món khác.' (HTTP 200)",
+      "request": {
+        "userId": 105,
+        "tdee": 2400,
+        "weight": 70,
+        "goal": { "targetKg": 0 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+          "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+          "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+        },
+        "planDays": 3,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [
+          { "ingredientId": 1,  "quantity": 500, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 7,  "quantity": 500, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 12, "quantity": 8,   "unit": "NUMBER", "dueDate": "2026-05-13T00:00:00.000Z" },
+          { "ingredientId": 5,  "quantity": 300, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" },
+          { "ingredientId": 19, "quantity": 300, "unit": "GAM",    "dueDate": "2026-05-12T00:00:00.000Z" }
+        ],
+        "lockedPicks": [
+          { "day": 1, "meal": "lunch", "role": "MAINDISH", "dishId": 99999 }
+        ]
+      }
+    },
+
+    {
+      "id": "06_fail_validation_targetkg_out_of_range",
+      "description": "targetKg=1.0 vượt giới hạn schema [-0.5, 0.5] → Pydantic 422. Sau khi override exception handler ở app/main.py: vẫn trả 200 + schema unified với message tiếng Việt.",
+      "expected": "status=failed, message dạng \"Trường 'goal.targetKg' phải nhỏ hơn hoặc bằng 0.5.\" (HTTP 200)",
+      "request": {
+        "userId": 106,
+        "tdee": 2400,
+        "weight": 70,
+        "goal": { "targetKg": 1.0 },
+        "mealStructure": {
+          "breakfast": { "mainDish": 1, "soup": 0, "vegetable": 1 },
+          "lunch":     { "mainDish": 1, "soup": 1, "vegetable": 1 },
+          "dinner":    { "mainDish": 1, "soup": 1, "vegetable": 1 }
+        },
+        "planDays": 3,
+        "startDate": "2026-05-09T00:00:00.000Z",
+        "recentMealLog": [],
+        "fridge": [],
+        "lockedPicks": []
+      }
+    }
+  ]
+}

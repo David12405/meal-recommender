@@ -237,7 +237,8 @@ Meal Recommender API đã live ở:
   https://meal-recommender-xxxx.onrender.com/docs
 
 🔌 2 endpoints:
-  GET  /health      — check service alive + cache loaded
+  GET  /health      — check service alive + cache loaded (trả JSON)
+  HEAD /health      — wake-up ping lúc mở màn hình tạo plan (no body, xem §10)
   POST /recommend   — gửi RecommendRequest, nhận MealPlanResponse
                       (replan: thêm field `lockedPicks` vào request)
 
@@ -250,6 +251,8 @@ Meal Recommender API đã live ở:
 ⚠️ Notes:
   - Free tier nên app sleep sau 15 phút idle. Request đầu tiên sau sleep
     mất ~30s wake-up. Cache tự reload từ bundled data, không cần manual.
+  - Để user không phải chờ 30s lúc bấm Submit: mở màn hình tạo plan thì
+    fire HEAD /health song song để wake server trước (xem §10).
   - Data fixed (commit trong code). Update data = git push lại để Render
     auto-redeploy.
 
@@ -346,6 +349,95 @@ Trước khi gửi URL cho app team, verify:
 - [ ] Mở `https://.../docs` thấy Swagger UI với 2 endpoint (`/health`, `/recommend`)
 
 ✅ Đủ checklist → gửi URL + 1 dòng intro cho app team là xong.
+
+---
+
+## 10. Wake-up pattern cho app team (free tier)
+
+> **TL;DR cho app dev**: ngay khi user mở màn hình "Lập kế hoạch ăn", fire 1 request `HEAD /health` (fire-and-forget, không block UI). Đến lúc user nhập xong và bấm Submit thì server đã wake xong → `POST /recommend` trả nhanh ~1–5s thay vì chờ 30–60s.
+
+### Vì sao cần pattern này
+
+Render free tier ngủ container sau **~15 phút idle**. Request đầu tiên sau khi ngủ phải:
+1. Boot container (~30–60s).
+2. Chạy startup hook load `data/*.json` vào cache (~1–3s).
+3. Sau đó mới accept HTTP traffic và trả 200.
+
+Nếu user bấm Submit khi server đang ngủ → họ ngồi nhìn loading 30–90s. UX tệ.
+
+**Giải pháp**: ping server trước khi user thực sự cần. Bất kỳ HTTP request nào (kể cả HEAD) đều trigger Render wake container — ta khai thác chính cơ chế này.
+
+### Tại sao là `HEAD` chứ không phải `GET`
+
+| Method | Body trả về | Khi nào dùng |
+|---|---|---|
+| `HEAD /health` | (rỗng) | Wake-up ping — chỉ cần status 200, không cần đọc JSON |
+| `GET /health`  | `{"status":"ok","cacheLoaded":true,"timestamp":"..."}` | Monitoring / debug — muốn check cache đã load chưa |
+
+`HEAD` tiết kiệm bandwidth (không trả body) và là chuẩn HTTP cho liveness probe. Logic server-side y hệt `GET`, chỉ khác ở chỗ FastAPI tự strip body.
+
+### Khi nào fire `HEAD /health`
+
+Pick **1 trong các thời điểm "ấm" đầu tiên** trước khi user thực sự cần `/recommend`:
+
+| Trigger | Cold start chạy song song với | Khuyến nghị |
+|---|---|---|
+| Mở màn hình "Lập kế hoạch ăn" | User chọn `planDays`, ngày bắt đầu | ⭐ Tốt nhất |
+| Mở app (splash screen) | App init, load home | OK nếu user thường tạo plan ngay |
+| Mở màn hình chụp tủ lạnh | User chụp ảnh + CV detect | Hợp nếu flow chụp → recommend liền mạch |
+
+❌ Đừng fire ở mỗi navigation — phí. Fire **1 lần** mỗi session là đủ (server giữ ấm 15 phút sau request cuối).
+
+### Code mẫu cho phía app
+
+**JavaScript / TypeScript (web):**
+```ts
+// Gọi lúc component "MealPlanForm" mount, KHÔNG await
+fetch("https://meal-recommender-xxxx.onrender.com/health", { method: "HEAD" })
+  .catch(() => {});  // ignore lỗi — đây chỉ là warm-up, không critical
+```
+
+**Kotlin (Android):**
+```kotlin
+// Trong onCreate / onViewCreated của màn hình tạo plan
+lifecycleScope.launch(Dispatchers.IO) {
+    runCatching {
+        val req = Request.Builder()
+            .url("https://meal-recommender-xxxx.onrender.com/health")
+            .head()
+            .build()
+        okHttpClient.newCall(req).execute().close()
+    }
+}
+```
+
+**Swift (iOS):**
+```swift
+// trong viewDidLoad / onAppear của màn hình tạo plan
+var req = URLRequest(url: URL(string: "https://meal-recommender-xxxx.onrender.com/health")!)
+req.httpMethod = "HEAD"
+URLSession.shared.dataTask(with: req).resume()  // fire-and-forget
+```
+
+### Trường hợp user bấm Submit trước khi server kịp wake
+
+Vẫn xảy ra nếu user nhập input cực nhanh (vd <30s từ khi mở màn hình). 2 cách handle:
+
+1. **Giữ nguyên** — `POST /recommend` block đến khi server sẵn sàng. UX y như khi không có pattern này, không tệ hơn.
+2. **Hiện loading state thông minh** — nếu sau 5s `HEAD /health` chưa response (đang cold start), chuyển nút Submit sang trạng thái "Đang chuẩn bị server..." để user biết.
+
+Khuyến nghị (1) cho v1, (2) là polish nếu có thời gian.
+
+### Verify pattern hoạt động
+
+Đợi server idle >15 phút (hoặc force restart trên Render dashboard), rồi:
+
+```bash
+# Nếu HEAD wake server → cold start chạy ngầm, response time đo bằng total time:
+time curl -I https://meal-recommender-xxxx.onrender.com/health
+# Lần đầu (server ngủ): ~30–60s, return 200
+# Lần thứ 2 ngay sau: ~100–500ms, return 200 — ĐÃ WAKE
+```
 
 ---
 

@@ -1,10 +1,12 @@
 from __future__ import annotations
 
+import math
 from datetime import timedelta
 
 from loguru import logger
 
 from app.core.cache import DBSnapshot
+from app.core.config import get_settings
 from app.core.exceptions import (
     InvalidIngredientError,
     MealRecommenderError,
@@ -31,8 +33,9 @@ def _validate_fridge(req: RecommendRequest, valid_ingredient_ids: set[int]) -> N
     for item in req.fridge:
         if item.ingredient_id not in valid_ingredient_ids:
             raise InvalidIngredientError(
-                f"Fridge ingredient {item.ingredient_id} is not in the "
-                f"current ingredient whitelist"
+                f"Nguyên liệu trong tủ lạnh (id={item.ingredient_id}) không nằm "
+                f"trong danh sách nguyên liệu được hệ thống nhận diện. "
+                f"Vui lòng kiểm tra lại tủ lạnh hoặc liên hệ hỗ trợ."
             )
 
 
@@ -45,12 +48,14 @@ def _validate_locked_picks(req: RecommendRequest, snapshot: DBSnapshot) -> None:
         dish = snapshot.dishes_by_id.get(lp.dish_id)
         if dish is None:
             raise InvalidIngredientError(
-                f"lockedPicks dishId={lp.dish_id} không có trong cache dishes."
+                f"Món được pin (dishId={lp.dish_id}) không tồn tại trong "
+                f"danh sách món ăn của hệ thống. Vui lòng chọn món khác."
             )
         if dish.role != lp.role:
             raise InvalidIngredientError(
-                f"lockedPicks dishId={lp.dish_id} có role={dish.role.value}, "
-                f"nhưng request yêu cầu role={lp.role.value}"
+                f"Món được pin (dishId={lp.dish_id}) có vai trò "
+                f"'{dish.role.value}', không khớp với vai trò "
+                f"'{lp.role.value}' bạn yêu cầu. Vui lòng chọn lại."
             )
 
 
@@ -63,6 +68,77 @@ def _needed_per_day(req: RecommendRequest, role: Role) -> int:
         getattr(getattr(req.meal_structure, meal_name), _ROLE_ATTR[role])
         for meal_name in ("breakfast", "lunch", "dinner")
     )
+
+
+def _suggest_target_kg(
+    user_target_kg: float,
+    tdee: float,
+    total_min: float,
+    total_max: float,
+    max_delta: int = 300,
+) -> float | None:
+    """Gợi ý targetKg khả thi gần với input của user nhất.
+
+    Logic:
+      - Tính khoảng calo/ngày khả thi: [total_min - max_delta, total_max + max_delta].
+      - Quy đổi ngược về targetKg/tuần qua công thức: targetKg = (cal - tdee) × 7 / kcal_per_kg.
+      - Clamp vào [-0.5, 0.5] (giới hạn schema).
+      - Nếu user_target_kg ngoài khoảng → snap về biên gần nhất.
+      - Nếu trong khoảng (lỗi do macro/no-repeat) → kéo 0.2 về phía 0.
+      - Round 0.1 theo chiều an toàn (±0.5 → ±0.3 chứ không phải ±0.4).
+      - Trả None nếu không có gợi ý hữu ích (≈ user input).
+    """
+    kcal_per_kg = get_settings().kcal_per_kg
+    target_cal_lo = total_min - max_delta
+    target_cal_hi = total_max + max_delta
+
+    target_kg_lo_raw = (target_cal_lo - tdee) * 7 / kcal_per_kg
+    target_kg_hi_raw = (target_cal_hi - tdee) * 7 / kcal_per_kg
+
+    feasible_lo = max(-0.5, target_kg_lo_raw)
+    feasible_hi = min(0.5, target_kg_hi_raw)
+
+    if feasible_lo > feasible_hi:
+        return None
+
+    if user_target_kg < feasible_lo:
+        suggested_raw = feasible_lo
+    elif user_target_kg > feasible_hi:
+        suggested_raw = feasible_hi
+    else:
+        # Calo OK, nghi ngờ macro/no-repeat → kéo 0.2 về phía 0.
+        if user_target_kg > 0.05:
+            suggested_raw = max(0.0, user_target_kg - 0.2)
+        elif user_target_kg < -0.05:
+            suggested_raw = min(0.0, user_target_kg + 0.2)
+        else:
+            return None
+
+    # Round 0.1 theo chiều an toàn:
+    # user input cao hơn → floor (0.5 → 0.3 chứ không 0.4 sát biên)
+    # user input thấp hơn → ceil (-0.5 → -0.3)
+    if user_target_kg > suggested_raw:
+        suggested = math.floor(suggested_raw * 10) / 10
+    elif user_target_kg < suggested_raw:
+        suggested = math.ceil(suggested_raw * 10) / 10
+    else:
+        suggested = round(suggested_raw, 1)
+
+    suggested = max(-0.5, min(0.5, suggested))
+
+    if abs(suggested - user_target_kg) < 0.05:
+        return None
+
+    return round(suggested, 1)
+
+
+def _format_target_kg_suggestion(target_kg: float) -> str:
+    """+0.3 → 'tăng 0.3 kg/tuần'; -0.3 → 'giảm 0.3 kg/tuần'; 0.0 → 'duy trì cân nặng'."""
+    if target_kg > 0.05:
+        return f"tăng {target_kg:.1f} kg/tuần"
+    if target_kg < -0.05:
+        return f"giảm {abs(target_kg):.1f} kg/tuần"
+    return "duy trì cân nặng (targetKg = 0)"
 
 
 def _analyze_infeasibility(
@@ -124,17 +200,26 @@ def _analyze_infeasibility(
 
     # Relaxation ladder cho phép calorie_delta lên đến 300 (xem _relax_schedule)
     max_delta = 300
+    suggested = _suggest_target_kg(
+        req.goal.target_kg, req.tdee, total_min, total_max, max_delta
+    )
+    suggestion_phrase = (
+        f" Gợi ý: {_format_target_kg_suggestion(suggested)}."
+        if suggested is not None
+        else ""
+    )
+
     if target_cpd > total_max + max_delta:
         return (
             f"Calo mục tiêu ({target_cpd:.0f} kcal/ngày) cao hơn khả năng "
-            f"tối đa của các món có sẵn ({total_max:.0f} kcal/ngày). "
-            f"Hãy giảm targetKg hoặc tăng số món trong mealStructure."
+            f"tối đa của các món có sẵn ({total_max:.0f} kcal/ngày)."
+            + (suggestion_phrase or " Hãy giảm targetKg hoặc tăng số món/bữa.")
         )
     if target_cpd < total_min - max_delta:
         return (
             f"Calo mục tiêu ({target_cpd:.0f} kcal/ngày) thấp hơn calo "
-            f"tối thiểu của các món có sẵn ({total_min:.0f} kcal/ngày). "
-            f"Hãy tăng targetKg hoặc giảm số món trong mealStructure."
+            f"tối thiểu của các món có sẵn ({total_min:.0f} kcal/ngày)."
+            + (suggestion_phrase or " Hãy tăng targetKg hoặc giảm số món/bữa.")
         )
 
     if req.locked_picks:
@@ -145,9 +230,14 @@ def _analyze_infeasibility(
         )
 
     return (
-        "Không tìm được kế hoạch thoả mãn đồng thời mục tiêu calo, macro "
-        "và quy tắc không lặp món. Hãy thử nới mục tiêu cân nặng (targetKg) "
-        "gần 0 hơn, hoặc giảm số ngày kế hoạch (planDays)."
+        "Không tìm được kế hoạch thoả mãn đồng thời mục tiêu calo, macro và "
+        "quy tắc không lặp món."
+        + (
+            suggestion_phrase + " Hoặc bạn có thể giảm số ngày kế hoạch (planDays)."
+            if suggested is not None
+            else " Hãy thử nới mục tiêu cân nặng (targetKg) gần 0 hơn, hoặc "
+            "giảm số ngày kế hoạch (planDays)."
+        )
     )
 
 
