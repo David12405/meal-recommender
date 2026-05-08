@@ -95,7 +95,7 @@ def _failed_payload(message: str) -> dict[str, Any]:
     dict với camelCase aliases — dùng trong global exception handlers.
     """
     return MealPlanResponse(
-        status="failed",
+        status="FAILED",
         message=message,
         plan=[],
         summary=None,

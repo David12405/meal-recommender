@@ -344,7 +344,7 @@ def recommend(req: RecommendRequest, snapshot: DBSnapshot, no_repeat_days: int) 
         logger.warning("Solver failed: {exc}", exc=str(exc))
         message = _analyze_infeasibility(req, candidate_dishes, target_cpd, exc)
         return MealPlanResponse(
-            status="failed",
+            status="FAILED",
             message=message,
             plan=[],
             summary=None,
@@ -363,4 +363,4 @@ def recommend(req: RecommendRequest, snapshot: DBSnapshot, no_repeat_days: int) 
     shopping = build_shopping_list(plan, snapshot.ingredients_by_id)
     summary = _build_summary(plan, req.tdee, req.goal.target_kg, req.plan_days)
 
-    return MealPlanResponse(status="success", plan=plan, summary=summary, shoppingList=shopping)
+    return MealPlanResponse(status="SUCCESS", plan=plan, summary=summary, shoppingList=shopping)

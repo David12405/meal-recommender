@@ -46,7 +46,7 @@ class SolveInput:
 
 @dataclass
 class SolveResult:
-    status: str  # "success" | "failed"
+    status: str  # "SUCCESS" | "FAILED"
     picks: dict[tuple[int, MealType], list[Dish]]  # (day, meal) -> list of dishes in meal order
     relax_notes: list[str]
 
@@ -251,7 +251,7 @@ def solve(inp: SolveInput) -> SolveResult:
         if status in (cp_model.OPTIMAL, cp_model.FEASIBLE):
             picks = _extract_picks(solver, x, inp.plan_days, dishes_by_role, inp.meal_structure)
             relax_notes.append(f"success@{note}")
-            return SolveResult(status="success", picks=picks, relax_notes=relax_notes)
+            return SolveResult(status="SUCCESS", picks=picks, relax_notes=relax_notes)
 
         if status == cp_model.MODEL_INVALID:
             logger.error("CP-SAT MODEL_INVALID at pass '{note}'", note=note)

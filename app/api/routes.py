@@ -23,11 +23,11 @@ router = APIRouter()
 
 def _failed_response(message: str) -> MealPlanResponse:
     """Schema chuẩn cho mọi lỗi (chốt với team app 2026-05-08): luôn 200 OK +
-    cùng shape với success, chỉ khác `status="failed"` và `message` chứa lý do
+    cùng shape với SUCCESS, chỉ khác `status="FAILED"` và `message` chứa lý do
     user-facing tiếng Việt.
     """
     return MealPlanResponse(
-        status="failed",
+        status="FAILED",
         message=message,
         plan=[],
         summary=None,

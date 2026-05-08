@@ -19,8 +19,8 @@ def test_recommend_returns_success_shape(sample_request, sample_dishes, sample_i
     resp = recommend(sample_request, snapshot, no_repeat_days=2)
     # Solver may find the calorie target tight for the fixture; accept either status
     # but the envelope must be valid.
-    assert resp.status in {"success", "failed"}
-    if resp.status == "success":
+    assert resp.status in {"SUCCESS", "FAILED"}
+    if resp.status == "SUCCESS":
         assert len(resp.plan) == sample_request.plan_days
         assert resp.summary is not None
         # targetCalories formula verification: tdee 2150, targetKg 0 (maintain), planDays 3
@@ -38,8 +38,8 @@ def test_health_endpoint():
 
 
 def test_recommend_failed_unified_shape_when_cache_empty():
-    """Khi cache chưa load, endpoint phải trả 200 + schema unified failed
-    (chốt 2026-05-08): status='failed', message tiếng Việt, plan/summary/shoppingList rỗng.
+    """Khi cache chưa load, endpoint phải trả 200 + schema unified FAILED
+    (chốt 2026-05-08): status='FAILED', message tiếng Việt, plan/summary/shoppingList rỗng.
     """
     cache = get_cache()
     if cache.is_loaded():
@@ -60,7 +60,7 @@ def test_recommend_failed_unified_shape_when_cache_empty():
     r = client.post("/recommend", json=payload)
     assert r.status_code == 200
     body = r.json()
-    assert body["status"] == "failed"
+    assert body["status"] == "FAILED"
     assert isinstance(body["message"], str) and len(body["message"]) > 0
     assert body["plan"] == []
     assert body["summary"] is None
@@ -74,7 +74,7 @@ def test_recommend_failed_unified_shape_on_validation_error():
     r = client.post("/recommend", json={"userId": 1})
     assert r.status_code == 200
     body = r.json()
-    assert body["status"] == "failed"
+    assert body["status"] == "FAILED"
     assert isinstance(body["message"], str) and len(body["message"]) > 0
     assert body["plan"] == []
     assert body["summary"] is None

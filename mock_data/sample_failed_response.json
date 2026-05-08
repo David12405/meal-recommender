@@ -1,5 +1,5 @@
 {
-  "status": "failed",
+  "status": "FAILED",
   "message": "Calo mục tiêu (1100 kcal/ngày) thấp hơn calo tối thiểu của các món có sẵn (1480 kcal/ngày). Gợi ý: giảm 0.3 kg/tuần.",
   "plan": [],
   "summary": null,
